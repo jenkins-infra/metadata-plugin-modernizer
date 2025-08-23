@@ -1,0 +1,24 @@
+{
+  "pluginName": "safe-batch-environment-filter",
+  "pluginRepository": "https://github.com/jenkinsci/safe-batch-environment-filter-plugin.git",
+  "pluginVersion": "0.13.v1d2eb_d4291f5",
+  "jenkinsBaseline": "",
+  "targetBaseline": "2.492",
+  "effectiveBaseline": "2.492",
+  "jenkinsVersion": "2.492.3",
+  "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+  "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+  "tags": [
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/safe-batch-environment-filter-plugin/pull/11",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 9,
+  "deletions": 4,
+  "changedFiles": 2,
+  "key": "2025-08-23T16-08-02.json",
+  "path": "metadata-plugin-modernizer\\safe-batch-environment-filter\\modernization-metadata"
+}
