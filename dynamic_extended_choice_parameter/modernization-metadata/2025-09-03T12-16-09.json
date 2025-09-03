@@ -1,0 +1,25 @@
+{
+  "pluginName": "dynamic_extended_choice_parameter",
+  "pluginRepository": "https://github.com/jenkinsci/dynamic-extended-choice-parameter-plugin.git",
+  "pluginVersion": "1.0.1",
+  "jenkinsBaseline": "",
+  "targetBaseline": "1.625",
+  "effectiveBaseline": "1.625",
+  "jenkinsVersion": "1.625.3",
+  "migrationName": "Setup the Jenkinsfile",
+  "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+  "migrationStatus": "fail",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2025-09-03T12-16-09.json",
+  "path": "metadata-plugin-modernizer/dynamic_extended_choice_parameter/modernization-metadata"
+}
