@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
-  "totalApplications": 9,
-  "successCount": 7,
+  "totalApplications": 10,
+  "successCount": 8,
   "failureCount": 1,
   "plugins": [
+    {
+      "pluginName": "absint-a3",
+      "status": "success",
+      "timestamp": "2025-09-02T14-22-13"
+    },
     {
       "pluginName": "bmc-change-manager-imstm",
       "status": "success",

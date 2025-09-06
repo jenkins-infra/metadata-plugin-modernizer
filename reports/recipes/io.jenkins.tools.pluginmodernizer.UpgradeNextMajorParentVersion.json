@@ -1,9 +1,19 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
-  "totalApplications": 118,
-  "successCount": 42,
+  "totalApplications": 120,
+  "successCount": 44,
   "failureCount": 30,
   "plugins": [
+    {
+      "pluginName": "katalon",
+      "status": "success",
+      "timestamp": "2025-09-05T14-25-26"
+    },
+    {
+      "pluginName": "absint-a3",
+      "status": "success",
+      "timestamp": "2025-09-02T14-04-22"
+    },
     {
       "pluginName": "safe-batch-environment-filter",
       "status": "success",
