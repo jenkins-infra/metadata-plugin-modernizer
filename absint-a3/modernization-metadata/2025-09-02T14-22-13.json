@@ -7,7 +7,7 @@
   "effectiveBaseline": "2.426",
   "jenkinsVersion": "2.426.3",
   "migrationName": "Setup dependabot",
-  "migrationDescription": "Setup dependabot for the Jenkins plugin if it doesn\u0027t exist.",
+  "migrationDescription": "Setup dependabot for the Jenkins plugin if it doesn't exist.",
   "tags": [
     "skip-verification",
     "chore"
@@ -21,5 +21,22 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-02T14-22-13.json",
-  "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata"
+  "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
+  "checkRuns": {
+    "CPD": "success",
+    "CheckStyle": "success",
+    "Code Coverage": "success",
+    "ESLint": "success",
+    "Java Compiler": "success",
+    "JavaDoc": "success",
+    "Jenkins": "failure",
+    "Maven": "success",
+    "Open Tasks Scanner": "success",
+    "PMD": "success",
+    "SpotBugs": "success",
+    "Tests / linux-11 / Build (linux-11)": "success"
+  },
+  "checkRunsSummary": "failure",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd"
 }

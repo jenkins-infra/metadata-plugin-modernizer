@@ -21,5 +21,9 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-04T10-39-40.json",
-  "path": "metadata-plugin-modernizer/testingbot/modernization-metadata"
+  "path": "metadata-plugin-modernizer/testingbot/modernization-metadata",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "58839f079d40f44d182fcbee7c02b7c5d256f215"
 }

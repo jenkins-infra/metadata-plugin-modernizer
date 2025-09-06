@@ -21,5 +21,12 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-03T08-49-13.json",
-  "path": "metadata-plugin-modernizer/backup/modernization-metadata"
+  "path": "metadata-plugin-modernizer/backup/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": "failure",
+    "Tests / linux-21 / Build (linux-21)": "failure"
+  },
+  "checkRunsSummary": "failure",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "3b38e3a06ba01443d0ec0b740c24273ecaefe942"
 }

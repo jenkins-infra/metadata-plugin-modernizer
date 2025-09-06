@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/absint-a3-plugin/pull/7",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 12,
   "deletions": 0,
@@ -25,5 +25,5 @@
   "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "c4e51d2f24d4c9b6028440a4bbabd42aa0d21738"
+  "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd"
 }

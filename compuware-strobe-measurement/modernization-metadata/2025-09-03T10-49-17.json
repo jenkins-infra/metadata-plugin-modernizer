@@ -21,5 +21,9 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-03T10-49-17.json",
-  "path": "metadata-plugin-modernizer/compuware-strobe-measurement/modernization-metadata"
+  "path": "metadata-plugin-modernizer/compuware-strobe-measurement/modernization-metadata",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "88b7e8b870b08975f8ff7d8440d6af82588809aa"
 }

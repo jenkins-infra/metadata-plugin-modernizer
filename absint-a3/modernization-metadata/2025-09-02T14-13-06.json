@@ -20,5 +20,11 @@
   "deletions": 18,
   "changedFiles": 1,
   "key": "2025-09-02T14-13-06.json",
-  "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata"
+  "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": "failure"
+  },
+  "checkRunsSummary": "failure",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd"
 }

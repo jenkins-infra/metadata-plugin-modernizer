@@ -21,5 +21,9 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-03T19-29-50.json",
-  "path": "metadata-plugin-modernizer/loadfocus-loadtest/modernization-metadata"
+  "path": "metadata-plugin-modernizer/loadfocus-loadtest/modernization-metadata",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "291b3f8e49ac0646511e33f927a65221e0e10d02"
 }
