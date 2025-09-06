@@ -1,18 +1,18 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2025-08-30 00:32:24 UTC
+Generated on: 2025-09-06 00:32:18 UTC
 
 ## Overview
-- **Total Migrations**: 645
-- **Failed Migrations**: 383
-- **Success Rate**: 40.62%
+- **Total Migrations**: 866
+- **Failed Migrations**: 561
+- **Success Rate**: 35.22%
 
 ## Failures by Recipe
-- io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 344 failures
+- io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 521 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion: 30 failures
+- io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 2 failures
-- io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 2 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
 - io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
@@ -20,6 +20,7 @@ Generated on: 2025-08-30 00:32:24 UTC
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
 - [TestFairy](../TestFairy/reports/failed_migrations.csv)
+- [absint-a3](../absint-a3/reports/failed_migrations.csv)
 - [agent-loadbalance](../agent-loadbalance/reports/failed_migrations.csv)
 - [alauda-devops-credentials-provider](../alauda-devops-credentials-provider/reports/failed_migrations.csv)
 - [alauda-devops-pipeline](../alauda-devops-pipeline/reports/failed_migrations.csv)
@@ -165,6 +166,7 @@ Generated on: 2025-08-30 00:32:24 UTC
 - [nouvola-divecloud](../nouvola-divecloud/reports/failed_migrations.csv)
 - [one-shot-executor](../one-shot-executor/reports/failed_migrations.csv)
 - [onesky](../onesky/reports/failed_migrations.csv)
+- [openid4java](../openid4java/reports/failed_migrations.csv)
 - [openstack-cloud](../openstack-cloud/reports/failed_migrations.csv)
 - [oracle-cloud-infrastructure-compute-classic](../oracle-cloud-infrastructure-compute-classic/reports/failed_migrations.csv)
 - [parallels-desktop](../parallels-desktop/reports/failed_migrations.csv)
@@ -236,10 +238,10 @@ Generated on: 2025-08-30 00:32:24 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 190 | - |
-| Open PRs | 84 | 44.21% |
-| Closed PRs | 8 | 4.21% |
-| Merged PRs | 98 | 51.58% |
+| Total PRs | 199 | - |
+| Open PRs | 92 | 46.23% |
+| Closed PRs | 9 | 4.52% |
+| Merged PRs | 98 | 49.25% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*

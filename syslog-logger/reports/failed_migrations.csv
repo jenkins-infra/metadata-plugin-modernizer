@@ -1,4 +1,5 @@
 migrationId,migrationStatus
 io.jenkins.tools.pluginmodernizer.SetupDependabot,fail
+io.jenkins.tools.pluginmodernizer.SetupJenkinsfile,fail
 io.jenkins.tools.pluginmodernizer.AddCodeOwner,fail
 io.jenkins.tools.pluginmodernizer.SetupJenkinsfile,fail

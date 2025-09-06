@@ -1,9 +1,1059 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
-  "totalApplications": 412,
-  "successCount": 68,
-  "failureCount": 344,
+  "totalApplications": 622,
+  "successCount": 101,
+  "failureCount": 521,
   "plugins": [
+    {
+      "pluginName": "zephyr-enterprise-test-management",
+      "status": "success",
+      "timestamp": "2025-09-04T13-04-12"
+    },
+    {
+      "pluginName": "zentimestamp",
+      "status": "fail",
+      "timestamp": "2025-09-04T13-01-43"
+    },
+    {
+      "pluginName": "zapper",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-58-34"
+    },
+    {
+      "pluginName": "youtrack-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-55-03"
+    },
+    {
+      "pluginName": "yandex-metrica",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-51-20"
+    },
+    {
+      "pluginName": "xpath-config-viewer",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-44-47"
+    },
+    {
+      "pluginName": "xframe-filter-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-37-17"
+    },
+    {
+      "pluginName": "wwpass-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-28-08"
+    },
+    {
+      "pluginName": "workplace-notifier",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-17-48"
+    },
+    {
+      "pluginName": "wix",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-12-41"
+    },
+    {
+      "pluginName": "wildfly-deployer",
+      "status": "fail",
+      "timestamp": "2025-09-04T12-06-21"
+    },
+    {
+      "pluginName": "websocket",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-59-33"
+    },
+    {
+      "pluginName": "webload",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-50-52"
+    },
+    {
+      "pluginName": "webhook-eventsource",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-46-43"
+    },
+    {
+      "pluginName": "vncviewer",
+      "status": "success",
+      "timestamp": "2025-09-04T11-41-24"
+    },
+    {
+      "pluginName": "vncrecorder",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-38-38"
+    },
+    {
+      "pluginName": "vmware-vrealize-orchestrator",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-35-41"
+    },
+    {
+      "pluginName": "vmware-vrealize-automation-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-32-01"
+    },
+    {
+      "pluginName": "viewVC",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-27-42"
+    },
+    {
+      "pluginName": "view26",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-24-56"
+    },
+    {
+      "pluginName": "vectorcast-execution",
+      "status": "success",
+      "timestamp": "2025-09-04T11-21-22"
+    },
+    {
+      "pluginName": "vault-scm-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-17-14"
+    },
+    {
+      "pluginName": "vagrant",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-13-53"
+    },
+    {
+      "pluginName": "unity3d-plugin",
+      "status": "success",
+      "timestamp": "2025-09-04T11-08-56"
+    },
+    {
+      "pluginName": "tracking-svn",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-04-33"
+    },
+    {
+      "pluginName": "trac-publisher-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T11-00-34"
+    },
+    {
+      "pluginName": "thucydides",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-55-38"
+    },
+    {
+      "pluginName": "testsigma",
+      "status": "success",
+      "timestamp": "2025-09-04T10-50-07"
+    },
+    {
+      "pluginName": "testquality-updater",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-46-49"
+    },
+    {
+      "pluginName": "testodyssey-execution",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-42-47"
+    },
+    {
+      "pluginName": "testingbot",
+      "status": "success",
+      "timestamp": "2025-09-04T10-39-40"
+    },
+    {
+      "pluginName": "terminal",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-31-16"
+    },
+    {
+      "pluginName": "syslog-logger",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-20-36"
+    },
+    {
+      "pluginName": "svn-partial-release-mgr",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-14-47"
+    },
+    {
+      "pluginName": "stoplightio-report",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-09-46"
+    },
+    {
+      "pluginName": "stackify-deployment-recorder",
+      "status": "fail",
+      "timestamp": "2025-09-04T10-03-47"
+    },
+    {
+      "pluginName": "srcclr-installer",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-59-16"
+    },
+    {
+      "pluginName": "spring-initalzr",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-54-27"
+    },
+    {
+      "pluginName": "spotinst",
+      "status": "success",
+      "timestamp": "2025-09-04T09-50-12"
+    },
+    {
+      "pluginName": "spoonscript",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-47-21"
+    },
+    {
+      "pluginName": "sonarqube-generic-coverage",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-42-44"
+    },
+    {
+      "pluginName": "sonar",
+      "status": "success",
+      "timestamp": "2025-09-04T09-38-23"
+    },
+    {
+      "pluginName": "slave-squatter",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-34-06"
+    },
+    {
+      "pluginName": "slack-uploader",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-29-59"
+    },
+    {
+      "pluginName": "sitemonitor",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-26-09"
+    },
+    {
+      "pluginName": "silk-performer-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-21-34"
+    },
+    {
+      "pluginName": "sidebar-update-notification",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-18-38"
+    },
+    {
+      "pluginName": "shared-workspace",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-16-05"
+    },
+    {
+      "pluginName": "sensedia-api-platform",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-12-15"
+    },
+    {
+      "pluginName": "selected-tests-executor",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-07-57"
+    },
+    {
+      "pluginName": "scripted-cloud-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T09-03-15"
+    },
+    {
+      "pluginName": "sasunit-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-58-36"
+    },
+    {
+      "pluginName": "runscope",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-53-56"
+    },
+    {
+      "pluginName": "regression-report-plugin",
+      "status": "success",
+      "timestamp": "2025-09-04T08-49-32"
+    },
+    {
+      "pluginName": "redgate-sql-ci",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-46-25"
+    },
+    {
+      "pluginName": "readonly-parameters",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-44-01"
+    },
+    {
+      "pluginName": "rally-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-40-08"
+    },
+    {
+      "pluginName": "radiatorviewplugin",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-37-19"
+    },
+    {
+      "pluginName": "quayio-trigger",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-33-56"
+    },
+    {
+      "pluginName": "quality-gates",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-31-07"
+    },
+    {
+      "pluginName": "qtest",
+      "status": "success",
+      "timestamp": "2025-09-04T08-27-57"
+    },
+    {
+      "pluginName": "qmetry-test-management",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-25-12"
+    },
+    {
+      "pluginName": "qmetry-for-jira-test-management",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-21-49"
+    },
+    {
+      "pluginName": "puppet",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-16-58"
+    },
+    {
+      "pluginName": "prqa-plugin",
+      "status": "success",
+      "timestamp": "2025-09-04T08-14-04"
+    },
+    {
+      "pluginName": "pretested-integration",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-10-59"
+    },
+    {
+      "pluginName": "post-completed-build-result",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-07-37"
+    },
+    {
+      "pluginName": "piwikanalytics",
+      "status": "fail",
+      "timestamp": "2025-09-04T08-03-03"
+    },
+    {
+      "pluginName": "pipeline-dependency-walker",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-57-56"
+    },
+    {
+      "pluginName": "php-builtin-web-server",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-47-53"
+    },
+    {
+      "pluginName": "percentage-du-node-column",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-39-41"
+    },
+    {
+      "pluginName": "pending-changes",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-32-23"
+    },
+    {
+      "pluginName": "partyparrotstatus",
+      "status": "success",
+      "timestamp": "2025-09-04T07-28-43"
+    },
+    {
+      "pluginName": "parasoft-findings",
+      "status": "success",
+      "timestamp": "2025-09-04T07-25-33"
+    },
+    {
+      "pluginName": "parameter-pool",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-17-22"
+    },
+    {
+      "pluginName": "parallels-desktop",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-14-00"
+    },
+    {
+      "pluginName": "oracle-cloud-infrastructure-compute",
+      "status": "success",
+      "timestamp": "2025-09-04T07-05-01"
+    },
+    {
+      "pluginName": "oracle-cloud-infrastructure-compute-classic",
+      "status": "fail",
+      "timestamp": "2025-09-04T07-02-47"
+    },
+    {
+      "pluginName": "openid4java",
+      "status": "fail",
+      "timestamp": "2025-09-04T06-58-40"
+    },
+    {
+      "pluginName": "onesky",
+      "status": "fail",
+      "timestamp": "2025-09-04T06-55-08"
+    },
+    {
+      "pluginName": "one-shot-executor",
+      "status": "fail",
+      "timestamp": "2025-09-04T06-51-22"
+    },
+    {
+      "pluginName": "nouvola-divecloud",
+      "status": "fail",
+      "timestamp": "2025-09-04T06-45-09"
+    },
+    {
+      "pluginName": "multi-module-tests-publisher",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-48-08"
+    },
+    {
+      "pluginName": "mttr",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-42-45"
+    },
+    {
+      "pluginName": "msginject",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-37-25"
+    },
+    {
+      "pluginName": "mqtt-notification-plugin",
+      "status": "success",
+      "timestamp": "2025-09-03T20-32-04"
+    },
+    {
+      "pluginName": "mission-control-view",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-23-13"
+    },
+    {
+      "pluginName": "metrics-graphite",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-16-48"
+    },
+    {
+      "pluginName": "mentor-questa-vrm",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-08-36"
+    },
+    {
+      "pluginName": "mdtool",
+      "status": "fail",
+      "timestamp": "2025-09-03T20-01-22"
+    },
+    {
+      "pluginName": "marathon",
+      "status": "fail",
+      "timestamp": "2025-09-03T19-51-30"
+    },
+    {
+      "pluginName": "mailmap-resolver",
+      "status": "fail",
+      "timestamp": "2025-09-03T19-42-31"
+    },
+    {
+      "pluginName": "loadfocus-loadtest",
+      "status": "success",
+      "timestamp": "2025-09-03T19-29-50"
+    },
+    {
+      "pluginName": "loadcomplete",
+      "status": "fail",
+      "timestamp": "2025-09-03T19-23-55"
+    },
+    {
+      "pluginName": "list-command",
+      "status": "fail",
+      "timestamp": "2025-09-03T19-17-31"
+    },
+    {
+      "pluginName": "lifx-notifier",
+      "status": "fail",
+      "timestamp": "2025-09-03T19-10-41"
+    },
+    {
+      "pluginName": "kryptowire",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-51-05"
+    },
+    {
+      "pluginName": "klocwork",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-42-05"
+    },
+    {
+      "pluginName": "kiuwanJenkinsPlugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-36-03"
+    },
+    {
+      "pluginName": "keep-slave-disconnected",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-30-46"
+    },
+    {
+      "pluginName": "kanboard",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-24-26"
+    },
+    {
+      "pluginName": "jsunit",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-15-37"
+    },
+    {
+      "pluginName": "jobtemplates",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-07-56"
+    },
+    {
+      "pluginName": "jobrevision",
+      "status": "fail",
+      "timestamp": "2025-09-03T18-01-38"
+    },
+    {
+      "pluginName": "jobrequeue",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-55-05"
+    },
+    {
+      "pluginName": "jobdelete-builder",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-51-39"
+    },
+    {
+      "pluginName": "jigomerge",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-46-18"
+    },
+    {
+      "pluginName": "jgiven",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-43-24"
+    },
+    {
+      "pluginName": "jenkinswalldisplay",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-40-59"
+    },
+    {
+      "pluginName": "jenkinsci-appspider-plugin",
+      "status": "success",
+      "timestamp": "2025-09-03T17-38-38"
+    },
+    {
+      "pluginName": "jenkins-flowdock-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-35-35"
+    },
+    {
+      "pluginName": "itest",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-30-05"
+    },
+    {
+      "pluginName": "ipmessenger-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-26-58"
+    },
+    {
+      "pluginName": "internetmeme",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-23-14"
+    },
+    {
+      "pluginName": "integrity-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-19-40"
+    },
+    {
+      "pluginName": "inflectra-spira-integration",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-15-09"
+    },
+    {
+      "pluginName": "imagecomparison",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-12-17"
+    },
+    {
+      "pluginName": "ifttt-build-notifier",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-09-00"
+    },
+    {
+      "pluginName": "icescrum",
+      "status": "fail",
+      "timestamp": "2025-09-03T17-05-27"
+    },
+    {
+      "pluginName": "icescrum",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-59-11"
+    },
+    {
+      "pluginName": "ibm-security-appscanstandard-scanner",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-50-04"
+    },
+    {
+      "pluginName": "hyper-slaves",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-40-11"
+    },
+    {
+      "pluginName": "hyper-commons",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-32-07"
+    },
+    {
+      "pluginName": "humio",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-18-54"
+    },
+    {
+      "pluginName": "http-post",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-10-30"
+    },
+    {
+      "pluginName": "htmlresource",
+      "status": "fail",
+      "timestamp": "2025-09-03T14-00-57"
+    },
+    {
+      "pluginName": "housekeeper",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-54-58"
+    },
+    {
+      "pluginName": "heavy-job",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-52-42"
+    },
+    {
+      "pluginName": "hckrnews",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-50-40"
+    },
+    {
+      "pluginName": "groovy-label-assignment",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-47-58"
+    },
+    {
+      "pluginName": "google-git-notes-publisher",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-45-18"
+    },
+    {
+      "pluginName": "google-analytics-usage-reporter",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-41-44"
+    },
+    {
+      "pluginName": "github-issues",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-38-29"
+    },
+    {
+      "pluginName": "gitcolony-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-35-49"
+    },
+    {
+      "pluginName": "gitbucket",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-33-50"
+    },
+    {
+      "pluginName": "git-userContent",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-30-45"
+    },
+    {
+      "pluginName": "gallio",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-19-53"
+    },
+    {
+      "pluginName": "fxcop-runner",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-12-59"
+    },
+    {
+      "pluginName": "fogbugz",
+      "status": "fail",
+      "timestamp": "2025-09-03T13-04-52"
+    },
+    {
+      "pluginName": "files-found-trigger",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-54-49"
+    },
+    {
+      "pluginName": "failedJobDeactivator",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-51-31"
+    },
+    {
+      "pluginName": "ezwall",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-47-56"
+    },
+    {
+      "pluginName": "extreme-notification",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-45-09"
+    },
+    {
+      "pluginName": "exclusive-label-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-40-57"
+    },
+    {
+      "pluginName": "environment-manager",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-36-29"
+    },
+    {
+      "pluginName": "emotional-jenkins-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-33-47"
+    },
+    {
+      "pluginName": "emmacoveragecolumn",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-31-09"
+    },
+    {
+      "pluginName": "ecs-publisher",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-27-36"
+    },
+    {
+      "pluginName": "eclipse-update-site",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-24-57"
+    },
+    {
+      "pluginName": "easyqa",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-22-13"
+    },
+    {
+      "pluginName": "ease-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-18-49"
+    },
+    {
+      "pluginName": "dropdown-viewstabbar-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-12-52"
+    },
+    {
+      "pluginName": "dos-trigger",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-09-21"
+    },
+    {
+      "pluginName": "disable-github-multibranch-status",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-04-50"
+    },
+    {
+      "pluginName": "disable-failed-job",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-02-16"
+    },
+    {
+      "pluginName": "dingding-json-pusher",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-59-34"
+    },
+    {
+      "pluginName": "diawi-upload",
+      "status": "success",
+      "timestamp": "2025-09-03T11-57-08"
+    },
+    {
+      "pluginName": "dependency-queue-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-53-19"
+    },
+    {
+      "pluginName": "daily-quote",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-48-48"
+    },
+    {
+      "pluginName": "customized-build-message",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-46-11"
+    },
+    {
+      "pluginName": "custom-job-icon",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-43-17"
+    },
+    {
+      "pluginName": "curseforge-publisher",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-40-34"
+    },
+    {
+      "pluginName": "cron-shelve",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-32-39"
+    },
+    {
+      "pluginName": "copado",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-24-52"
+    },
+    {
+      "pluginName": "coordinator",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-20-07"
+    },
+    {
+      "pluginName": "continuum",
+      "status": "fail",
+      "timestamp": "2025-09-03T11-12-49"
+    },
+    {
+      "pluginName": "compuware-zadviser-api",
+      "status": "success",
+      "timestamp": "2025-09-03T11-04-57"
+    },
+    {
+      "pluginName": "compuware-xpediter-code-coverage",
+      "status": "success",
+      "timestamp": "2025-09-03T10-59-47"
+    },
+    {
+      "pluginName": "compuware-topaz-utilities",
+      "status": "success",
+      "timestamp": "2025-09-03T10-54-30"
+    },
+    {
+      "pluginName": "compuware-strobe-measurement",
+      "status": "success",
+      "timestamp": "2025-09-03T10-49-17"
+    },
+    {
+      "pluginName": "compuware-common-configuration",
+      "status": "success",
+      "timestamp": "2025-09-03T10-42-12"
+    },
+    {
+      "pluginName": "comments-remover",
+      "status": "fail",
+      "timestamp": "2025-09-03T10-33-19"
+    },
+    {
+      "pluginName": "collabnet",
+      "status": "success",
+      "timestamp": "2025-09-03T10-28-37"
+    },
+    {
+      "pluginName": "codecommit-url-helper",
+      "status": "fail",
+      "timestamp": "2025-09-03T10-21-05"
+    },
+    {
+      "pluginName": "codebeamer-xunit-importer",
+      "status": "fail",
+      "timestamp": "2025-09-03T10-15-45"
+    },
+    {
+      "pluginName": "codebeamer-result-trend-updater",
+      "status": "fail",
+      "timestamp": "2025-09-03T10-11-30"
+    },
+    {
+      "pluginName": "cloudshare-docker",
+      "status": "fail",
+      "timestamp": "2025-09-03T10-04-37"
+    },
+    {
+      "pluginName": "cloudcoreo-deploytime",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-58-47"
+    },
+    {
+      "pluginName": "chromedriver",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-46-25"
+    },
+    {
+      "pluginName": "chosen-views-tabbar",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-41-35"
+    },
+    {
+      "pluginName": "chef-tracking",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-36-33"
+    },
+    {
+      "pluginName": "changelog-history",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-30-37"
+    },
+    {
+      "pluginName": "byteguard-build-actions",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-21-57"
+    },
+    {
+      "pluginName": "build-metrics",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-15-30"
+    },
+    {
+      "pluginName": "browserstack-integration",
+      "status": "success",
+      "timestamp": "2025-09-03T09-10-35"
+    },
+    {
+      "pluginName": "boot-clj",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-07-07"
+    },
+    {
+      "pluginName": "block-same-builds",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-04-58"
+    },
+    {
+      "pluginName": "block-queued-job",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-02-53"
+    },
+    {
+      "pluginName": "block-build-final-project",
+      "status": "fail",
+      "timestamp": "2025-09-03T09-00-23"
+    },
+    {
+      "pluginName": "blink1",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-58-16"
+    },
+    {
+      "pluginName": "blackduck-coverity-on-polaris",
+      "status": "success",
+      "timestamp": "2025-09-03T08-56-00"
+    },
+    {
+      "pluginName": "bitkeeper",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-54-02"
+    },
+    {
+      "pluginName": "bitbucket-approve",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-51-57"
+    },
+    {
+      "pluginName": "backup",
+      "status": "success",
+      "timestamp": "2025-09-03T08-49-13"
+    },
+    {
+      "pluginName": "awseb-deployment-plugin",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-47-18"
+    },
+    {
+      "pluginName": "aws-lambda",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-44-53"
+    },
+    {
+      "pluginName": "aws-bucket-credentials",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-42-13"
+    },
+    {
+      "pluginName": "artifactory",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-37-08"
+    },
+    {
+      "pluginName": "artifact-promotion",
+      "status": "success",
+      "timestamp": "2025-09-03T08-33-54"
+    },
+    {
+      "pluginName": "applatix",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-31-26"
+    },
+    {
+      "pluginName": "app-detector",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-28-47"
+    },
+    {
+      "pluginName": "apifortress",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-26-19"
+    },
+    {
+      "pluginName": "anchore-container-scanner",
+      "status": "success",
+      "timestamp": "2025-09-03T08-23-13"
+    },
+    {
+      "pluginName": "allure-jenkins-plugin",
+      "status": "success",
+      "timestamp": "2025-09-03T08-21-27"
+    },
+    {
+      "pluginName": "agent-loadbalance",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-18-54"
+    },
+    {
+      "pluginName": "advanced-installer-msi-builder",
+      "status": "success",
+      "timestamp": "2025-09-03T08-16-14"
+    },
+    {
+      "pluginName": "TestFairy",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-13-07"
+    },
+    {
+      "pluginName": "CustomHistory",
+      "status": "fail",
+      "timestamp": "2025-09-03T08-08-19"
+    },
+    {
+      "pluginName": "BlazeMeterJenkinsPlugin",
+      "status": "success",
+      "timestamp": "2025-09-03T08-05-48"
+    },
+    {
+      "pluginName": "absint-a3",
+      "status": "success",
+      "timestamp": "2025-09-02T14-17-29"
+    },
     {
       "pluginName": "skip-notifications-trait",
       "status": "success",

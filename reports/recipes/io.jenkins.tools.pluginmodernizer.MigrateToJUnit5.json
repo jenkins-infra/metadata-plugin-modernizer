@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJUnit5",
-  "totalApplications": 4,
+  "totalApplications": 5,
   "successCount": 1,
-  "failureCount": 2,
+  "failureCount": 3,
   "plugins": [
+    {
+      "pluginName": "absint-a3",
+      "status": "fail",
+      "timestamp": "2025-09-02T14-34-52"
+    },
     {
       "pluginName": "buildtriggerbadge",
       "status": "fail",

@@ -2,3 +2,4 @@ migrationId,migrationStatus
 io.jenkins.tools.pluginmodernizer.SetupJenkinsfile,fail
 io.jenkins.tools.pluginmodernizer.SetupJenkinsfile,fail
 io.jenkins.tools.pluginmodernizer.SetupJenkinsfile,fail
+io.jenkins.tools.pluginmodernizer.SetupJenkinsfile,fail

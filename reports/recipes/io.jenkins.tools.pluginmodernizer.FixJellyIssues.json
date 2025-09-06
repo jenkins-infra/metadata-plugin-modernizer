@@ -1,0 +1,13 @@
+{
+  "recipeId": "io.jenkins.tools.pluginmodernizer.FixJellyIssues",
+  "totalApplications": 1,
+  "successCount": 1,
+  "failureCount": 0,
+  "plugins": [
+    {
+      "pluginName": "absint-a3",
+      "status": "success",
+      "timestamp": "2025-09-02T14-32-42"
+    }
+  ]
+}

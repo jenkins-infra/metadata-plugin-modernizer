@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.AddCodeOwner",
-  "totalApplications": 10,
-  "successCount": 8,
+  "totalApplications": 11,
+  "successCount": 9,
   "failureCount": 1,
   "plugins": [
+    {
+      "pluginName": "probely-security",
+      "status": "success",
+      "timestamp": "2025-09-02T15-43-31"
+    },
     {
       "pluginName": "ec2-fleet",
       "status": "success",
