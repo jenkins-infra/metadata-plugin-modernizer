@@ -21,5 +21,12 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-03T08-16-14.json",
-  "path": "metadata-plugin-modernizer/advanced-installer-msi-builder/modernization-metadata"
+  "path": "metadata-plugin-modernizer/advanced-installer-msi-builder/modernization-metadata",
+  "checkRuns": {
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "success",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "4bb3f2dc2cb41d4b77874fe6ff5d92b20c5ec79a"
 }

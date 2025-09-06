@@ -14,7 +14,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/reverse-proxy-auth-plugin/pull/194",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 4,
   "deletions": 25,
@@ -22,25 +22,12 @@
   "key": "2025-07-31T13-34-59.json",
   "path": "metadata-plugin-modernizer/reverse-proxy-auth-plugin/modernization-metadata",
   "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
+    "Jenkins": null,
     "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
     "pre-commit": "success",
     "security-scan / scan": "success"
   },
-  "checkRunsSummary": "success",
+  "checkRunsSummary": "pending",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "93f25bbb3102c36e8e82276f2068d59e4436f4d8"
+  "defaultBranchLatestCommitSha": "70719bb1e08b5f91c53e7d83f92d6a808c6bf09b"
 }
