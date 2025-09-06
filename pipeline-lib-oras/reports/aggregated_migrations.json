@@ -8,6 +8,29 @@
       "targetBaseline": "2.492",
       "effectiveBaseline": "2.492",
       "jenkinsVersion": "2.492.3",
+      "migrationName": "Upgrade BOM version",
+      "migrationDescription": "Upgrade the bom version to latest available for the current BOM.",
+      "tags": [
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeBomVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/pipeline-lib-oras-plugin/pull/15",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2025-08-30T13-03-41.json",
+      "path": "metadata-plugin-modernizer/pipeline-lib-oras/modernization-metadata",
+      "timestamp": "2025-08-30T13-03-41"
+    },
+    {
+      "pluginVersion": "23.v4d7c8d889a_86",
+      "jenkinsBaseline": "2.492",
+      "targetBaseline": "2.492",
+      "effectiveBaseline": "2.492",
+      "jenkinsVersion": "2.492.3",
       "migrationName": "Migrate plugins to Java 25",
       "migrationDescription": "Migrate plugins to Java 25 LTS.",
       "tags": [

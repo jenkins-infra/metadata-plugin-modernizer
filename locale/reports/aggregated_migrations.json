@@ -45,7 +45,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "2823c14dbdd77e83a8bb7713b7170b3fcf753571",
+      "defaultBranchLatestCommitSha": "97d2491ae1ea11fd7c58abb53e9abb1dc2667cb6",
       "timestamp": "2025-08-09T09-53-19"
     },
     {
@@ -89,7 +89,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "2823c14dbdd77e83a8bb7713b7170b3fcf753571",
+      "defaultBranchLatestCommitSha": "97d2491ae1ea11fd7c58abb53e9abb1dc2667cb6",
       "timestamp": "2025-07-27T10-47-58"
     }
   ]

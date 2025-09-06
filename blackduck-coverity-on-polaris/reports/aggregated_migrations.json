@@ -22,6 +22,30 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 1,
+      "key": "2025-09-03T08-56-00.json",
+      "path": "metadata-plugin-modernizer/blackduck-coverity-on-polaris/modernization-metadata",
+      "timestamp": "2025-09-03T08-56-00"
+    },
+    {
+      "pluginVersion": "2.0.1",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.440",
+      "effectiveBaseline": "2.440",
+      "jenkinsVersion": "2.440.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/blackduck-coverity-on-polaris-plugin/pull/8",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1,
       "key": "2025-07-23T09-04-16.json",
       "path": "metadata-plugin-modernizer/blackduck-coverity-on-polaris/modernization-metadata",
       "checkRuns": {

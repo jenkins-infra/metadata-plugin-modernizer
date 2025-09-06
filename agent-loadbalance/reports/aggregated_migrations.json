@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T08-18-54.json",
+      "path": "metadata-plugin-modernizer/agent-loadbalance/modernization-metadata",
+      "timestamp": "2025-09-03T08-18-54"
+    },
+    {
+      "pluginVersion": "1.0",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.7",
+      "effectiveBaseline": "2.7",
+      "jenkinsVersion": "2.7.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T08-08-39.json",
       "path": "metadata-plugin-modernizer/agent-loadbalance/modernization-metadata",
       "timestamp": "2025-07-23T08-08-39"

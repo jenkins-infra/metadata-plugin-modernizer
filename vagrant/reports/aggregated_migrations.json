@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-04T11-13-53.json",
+      "path": "metadata-plugin-modernizer/vagrant/modernization-metadata",
+      "timestamp": "2025-09-04T11-13-53"
+    },
+    {
+      "pluginVersion": "1.0.2",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.532",
+      "effectiveBaseline": "1.532",
+      "jenkinsVersion": "1.532.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-22T10-47-37.json",
       "path": "metadata-plugin-modernizer/vagrant/modernization-metadata",
       "timestamp": "2025-07-22T10-47-37"

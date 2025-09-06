@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T14-40-11.json",
+      "path": "metadata-plugin-modernizer/hyper-slaves/modernization-metadata",
+      "timestamp": "2025-09-03T14-40-11"
+    },
+    {
+      "pluginVersion": "0.1.11",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.138",
+      "effectiveBaseline": "2.138",
+      "jenkinsVersion": "2.138.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T13-18-10.json",
       "path": "metadata-plugin-modernizer/hyper-slaves/modernization-metadata",
       "timestamp": "2025-07-23T13-18-10"

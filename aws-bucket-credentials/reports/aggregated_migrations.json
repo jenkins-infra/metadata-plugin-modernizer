@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T08-42-13.json",
+      "path": "metadata-plugin-modernizer/aws-bucket-credentials/modernization-metadata",
+      "timestamp": "2025-09-03T08-42-13"
+    },
+    {
+      "pluginVersion": "1.0.0",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.596",
+      "effectiveBaseline": "1.596",
+      "jenkinsVersion": "1.596.1",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T08-33-46.json",
       "path": "metadata-plugin-modernizer/aws-bucket-credentials/modernization-metadata",
       "timestamp": "2025-07-23T08-33-46"

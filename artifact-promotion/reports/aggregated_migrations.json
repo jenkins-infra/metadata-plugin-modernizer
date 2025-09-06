@@ -22,6 +22,30 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 1,
+      "key": "2025-09-03T08-33-54.json",
+      "path": "metadata-plugin-modernizer/artifact-promotion/modernization-metadata",
+      "timestamp": "2025-09-03T08-33-54"
+    },
+    {
+      "pluginVersion": "0.5.2",
+      "jenkinsBaseline": "2.462",
+      "targetBaseline": "2.462",
+      "effectiveBaseline": "2.462",
+      "jenkinsVersion": "2.462.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/artifact-promotion-plugin/pull/36",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1,
       "key": "2025-07-23T08-24-38.json",
       "path": "metadata-plugin-modernizer/artifact-promotion/modernization-metadata",
       "checkRuns": {

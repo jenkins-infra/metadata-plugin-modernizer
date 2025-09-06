@@ -8,6 +8,30 @@
       "targetBaseline": "2.479",
       "effectiveBaseline": "2.479",
       "jenkinsVersion": "2.479.3",
+      "migrationName": "Add CODEOWNERS file",
+      "migrationDescription": "Adds a CODEOWNERS file to a Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AddCodeOwner",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/probely-security-plugin/pull/12",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2025-09-02T15-43-31.json",
+      "path": "metadata-plugin-modernizer/probely-security/modernization-metadata",
+      "timestamp": "2025-09-02T15-43-31"
+    },
+    {
+      "pluginVersion": "1.2.3",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
       "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
       "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
       "tags": [

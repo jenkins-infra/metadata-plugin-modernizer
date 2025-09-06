@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T12-45-09.json",
+      "path": "metadata-plugin-modernizer/extreme-notification/modernization-metadata",
+      "timestamp": "2025-09-03T12-45-09"
+    },
+    {
+      "pluginVersion": "1.6",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.653",
+      "effectiveBaseline": "1.653",
+      "jenkinsVersion": "1.653",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T12-16-27.json",
       "path": "metadata-plugin-modernizer/extreme-notification/modernization-metadata",
       "timestamp": "2025-07-23T12-16-27"

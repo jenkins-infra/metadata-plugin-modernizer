@@ -1,0 +1,29 @@
+{
+  "pluginName": "oras-java-api",
+  "pluginRepository": "https://github.com/jenkinsci/oras-java-api-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "0.2.15-92.v1b_b_0c8a_cf3a_4",
+      "jenkinsBaseline": "2.492",
+      "targetBaseline": "2.492",
+      "effectiveBaseline": "2.492",
+      "jenkinsVersion": "2.492.3",
+      "migrationName": "Upgrade BOM version",
+      "migrationDescription": "Upgrade the bom version to latest available for the current BOM.",
+      "tags": [
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeBomVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/oras-java-api-plugin/pull/51",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2025-08-30T12-51-49.json",
+      "path": "metadata-plugin-modernizer/oras-java-api/modernization-metadata",
+      "timestamp": "2025-08-30T12-51-49"
+    }
+  ]
+}

@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T13-47-58.json",
+      "path": "metadata-plugin-modernizer/groovy-label-assignment/modernization-metadata",
+      "timestamp": "2025-09-03T13-47-58"
+    },
+    {
+      "pluginVersion": "1.2.0",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.509",
+      "effectiveBaseline": "1.509",
+      "jenkinsVersion": "1.509",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T12-57-01.json",
       "path": "metadata-plugin-modernizer/groovy-label-assignment/modernization-metadata",
       "timestamp": "2025-07-23T12-57-01"

@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-04T06-45-09.json",
+      "path": "metadata-plugin-modernizer/nouvola-divecloud/modernization-metadata",
+      "timestamp": "2025-09-04T06-45-09"
+    },
+    {
+      "pluginVersion": "1.08",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.609",
+      "effectiveBaseline": "1.609",
+      "jenkinsVersion": "1.609.1",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-22T15-42-37.json",
       "path": "metadata-plugin-modernizer/nouvola-divecloud/modernization-metadata",
       "timestamp": "2025-07-22T15-42-37"

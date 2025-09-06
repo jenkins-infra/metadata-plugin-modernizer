@@ -1,0 +1,29 @@
+{
+  "pluginName": "katalon",
+  "pluginRepository": "https://github.com/jenkinsci/katalon-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "1.0.34",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.492",
+      "effectiveBaseline": "1.625",
+      "jenkinsVersion": "1.625.3",
+      "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+      "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+      "tags": [
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/katalon-plugin/pull/36",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 24,
+      "deletions": 17,
+      "changedFiles": 4,
+      "key": "2025-09-05T14-25-26.json",
+      "path": "metadata-plugin-modernizer/katalon/modernization-metadata",
+      "timestamp": "2025-09-05T14-25-26"
+    }
+  ]
+}

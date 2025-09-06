@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T13-52-42.json",
+      "path": "metadata-plugin-modernizer/heavy-job/modernization-metadata",
+      "timestamp": "2025-09-03T13-52-42"
+    },
+    {
+      "pluginVersion": "1.1",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.625",
+      "effectiveBaseline": "1.625",
+      "jenkinsVersion": "1.625.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T13-02-36.json",
       "path": "metadata-plugin-modernizer/heavy-job/modernization-metadata",
       "timestamp": "2025-07-23T13-02-36"

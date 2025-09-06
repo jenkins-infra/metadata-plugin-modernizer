@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T18-42-05.json",
+      "path": "metadata-plugin-modernizer/klocwork/modernization-metadata",
+      "timestamp": "2025-09-03T18-42-05"
+    },
+    {
+      "pluginVersion": "2023.3.1",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.658",
+      "effectiveBaseline": "1.658",
+      "jenkinsVersion": "1.658",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-22T16-52-34.json",
       "path": "metadata-plugin-modernizer/klocwork/modernization-metadata",
       "timestamp": "2025-07-22T16-52-34"

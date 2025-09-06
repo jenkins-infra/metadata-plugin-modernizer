@@ -39,13 +39,21 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/safe-batch-environment-filter-plugin/pull/11",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 9,
       "deletions": 4,
       "changedFiles": 2,
       "key": "2025-08-23T16-08-02.json",
       "path": "metadata-plugin-modernizer\\safe-batch-environment-filter\\modernization-metadata",
+      "checkRuns": {
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "77d19b73525fdc4f220d7d7a566dc18302fbeebc",
       "timestamp": "2025-08-23T16-08-02"
     },
     {

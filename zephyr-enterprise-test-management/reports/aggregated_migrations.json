@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/zephyr-enterprise-test-management-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "2.10",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.452",
+      "effectiveBaseline": "2.452",
+      "jenkinsVersion": "2.452.1",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/zephyr-enterprise-test-management-plugin/pull/30",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2025-09-04T13-04-12.json",
+      "path": "metadata-plugin-modernizer/zephyr-enterprise-test-management/modernization-metadata",
+      "timestamp": "2025-09-04T13-04-12"
+    },
+    {
       "pluginVersion": "2.9.1",
       "jenkinsBaseline": "",
       "targetBaseline": "2.452",
@@ -27,7 +51,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "34ad87b63d2165bfc03b0a85f787d2543b7baeb8",
+      "defaultBranchLatestCommitSha": "40c7994df136a0cb72daadb5b82ae692f22b2dda",
       "timestamp": "2025-07-22T09-27-56"
     },
     {
@@ -55,7 +79,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "34ad87b63d2165bfc03b0a85f787d2543b7baeb8",
+      "defaultBranchLatestCommitSha": "40c7994df136a0cb72daadb5b82ae692f22b2dda",
       "timestamp": "2025-07-22T08-13-56"
     },
     {
@@ -83,7 +107,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "34ad87b63d2165bfc03b0a85f787d2543b7baeb8",
+      "defaultBranchLatestCommitSha": "40c7994df136a0cb72daadb5b82ae692f22b2dda",
       "timestamp": "2025-07-22T07-40-54"
     }
   ]
