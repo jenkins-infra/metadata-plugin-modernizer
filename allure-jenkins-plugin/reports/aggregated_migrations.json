@@ -22,6 +22,30 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 1,
+      "key": "2025-09-03T08-21-27.json",
+      "path": "metadata-plugin-modernizer/allure-jenkins-plugin/modernization-metadata",
+      "timestamp": "2025-09-03T08-21-27"
+    },
+    {
+      "pluginVersion": "2.32.0",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.387",
+      "effectiveBaseline": "2.387",
+      "jenkinsVersion": "2.387.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/allure-plugin/pull/383",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1,
       "key": "2025-07-23T08-11-14.json",
       "path": "metadata-plugin-modernizer/allure-jenkins-plugin/modernization-metadata",
       "checkRuns": {

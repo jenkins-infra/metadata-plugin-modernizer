@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T09-58-47.json",
+      "path": "metadata-plugin-modernizer/cloudcoreo-deploytime/modernization-metadata",
+      "timestamp": "2025-09-03T09-58-47"
+    },
+    {
+      "pluginVersion": "0.2.3",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.651",
+      "effectiveBaseline": "1.651",
+      "jenkinsVersion": "1.651.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-23T10-22-44.json",
       "path": "metadata-plugin-modernizer/cloudcoreo-deploytime/modernization-metadata",
       "timestamp": "2025-07-23T10-22-44"

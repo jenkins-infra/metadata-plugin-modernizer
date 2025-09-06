@@ -5,6 +5,30 @@
     {
       "pluginVersion": "6-325.vf39d32b268fe",
       "jenkinsBaseline": "",
+      "targetBaseline": "1.596",
+      "effectiveBaseline": "1.596",
+      "jenkinsVersion": "1.596",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2025-09-03T08-13-07.json",
+      "path": "metadata-plugin-modernizer/TestFairy/modernization-metadata",
+      "timestamp": "2025-09-03T08-13-07"
+    },
+    {
+      "pluginVersion": "6-325.vf39d32b268fe",
+      "jenkinsBaseline": "",
       "targetBaseline": "2.492",
       "effectiveBaseline": "1.596",
       "jenkinsVersion": "1.596",

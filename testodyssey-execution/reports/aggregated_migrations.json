@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-04T10-42-47.json",
+      "path": "metadata-plugin-modernizer/testodyssey-execution/modernization-metadata",
+      "timestamp": "2025-09-04T10-42-47"
+    },
+    {
+      "pluginVersion": "2.1.5",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.609",
+      "effectiveBaseline": "1.609",
+      "jenkinsVersion": "1.609.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-22T11-13-56.json",
       "path": "metadata-plugin-modernizer/testodyssey-execution/modernization-metadata",
       "timestamp": "2025-07-22T11-13-56"

@@ -22,6 +22,30 @@
       "additions": 0,
       "deletions": 0,
       "changedFiles": 0,
+      "key": "2025-09-03T18-51-05.json",
+      "path": "metadata-plugin-modernizer/kryptowire/modernization-metadata",
+      "timestamp": "2025-09-03T18-51-05"
+    },
+    {
+      "pluginVersion": "0.2",
+      "jenkinsBaseline": "",
+      "targetBaseline": "1.642",
+      "effectiveBaseline": "1.642",
+      "jenkinsVersion": "1.642.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
       "key": "2025-07-30T14-34-13.json",
       "path": "metadata-plugin-modernizer/kryptowire/modernization-metadata",
       "timestamp": "2025-07-30T14-34-13"

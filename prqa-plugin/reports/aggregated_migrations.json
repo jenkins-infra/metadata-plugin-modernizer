@@ -22,6 +22,30 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 1,
+      "key": "2025-09-04T08-14-04.json",
+      "path": "metadata-plugin-modernizer/prqa-plugin/modernization-metadata",
+      "timestamp": "2025-09-04T08-14-04"
+    },
+    {
+      "pluginVersion": "3.3.5",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.164",
+      "effectiveBaseline": "2.164",
+      "jenkinsVersion": "2.164.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/prqa-plugin/pull/8",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1,
       "key": "2025-07-22T14-04-57.json",
       "path": "metadata-plugin-modernizer/prqa-plugin/modernization-metadata",
       "checkRuns": {

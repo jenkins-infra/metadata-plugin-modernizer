@@ -22,6 +22,30 @@
       "additions": 12,
       "deletions": 0,
       "changedFiles": 1,
+      "key": "2025-09-03T08-23-13.json",
+      "path": "metadata-plugin-modernizer/anchore-container-scanner/modernization-metadata",
+      "timestamp": "2025-09-03T08-23-13"
+    },
+    {
+      "pluginVersion": "3.3.0",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.462",
+      "effectiveBaseline": "2.462",
+      "jenkinsVersion": "2.462.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/anchore-container-scanner-plugin/pull/91",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 0,
+      "changedFiles": 1,
       "key": "2025-07-23T08-12-57.json",
       "path": "metadata-plugin-modernizer/anchore-container-scanner/modernization-metadata",
       "checkRuns": {
