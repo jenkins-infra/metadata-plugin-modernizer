@@ -1,0 +1,25 @@
+{
+  "pluginName": "pipeline-build-step",
+  "pluginRepository": "https://github.com/jenkinsci/pipeline-build-step-plugin.git",
+  "pluginVersion": "571.v08a_fffd4b_0ce",
+  "jenkinsBaseline": "2.479",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.479",
+  "jenkinsVersion": "2.479.1",
+  "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+  "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+  "migrationStatus": "fail",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2025-09-09T16-35-02.json",
+  "path": "metadata-plugin-modernizer/pipeline-build-step/modernization-metadata"
+}
