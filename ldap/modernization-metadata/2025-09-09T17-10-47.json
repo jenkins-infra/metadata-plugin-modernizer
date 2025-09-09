@@ -1,0 +1,25 @@
+{
+  "pluginName": "ldap",
+  "pluginRepository": "https://github.com/jenkinsci/ldap-plugin.git",
+  "pluginVersion": "780.vcb_33c9a_e4332",
+  "jenkinsBaseline": "2.479",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.479",
+  "jenkinsVersion": "2.479.3",
+  "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+  "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/ldap-plugin/pull/372",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 11,
+  "deletions": 7,
+  "changedFiles": 6,
+  "key": "2025-09-09T17-10-47.json",
+  "path": "metadata-plugin-modernizer/ldap/modernization-metadata"
+}
