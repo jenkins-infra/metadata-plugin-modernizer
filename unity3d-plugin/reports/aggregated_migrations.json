@@ -24,6 +24,13 @@
       "changedFiles": 1,
       "key": "2025-09-04T11-08-56.json",
       "path": "metadata-plugin-modernizer/unity3d-plugin/modernization-metadata",
+      "checkRuns": {
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "37f2bafbecef22e9220124cd92babf4ed9eba562",
       "timestamp": "2025-09-04T11-08-56"
     },
     {

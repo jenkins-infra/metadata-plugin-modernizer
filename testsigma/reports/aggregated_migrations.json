@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-04T10-50-07.json",
       "path": "metadata-plugin-modernizer/testsigma/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "bf27d10013514ab1919147d24e951ea32a645d1c",
       "timestamp": "2025-09-04T10-50-07"
     },
     {

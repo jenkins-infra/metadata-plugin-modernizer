@@ -24,6 +24,13 @@
       "changedFiles": 1,
       "key": "2025-09-02T15-43-31.json",
       "path": "metadata-plugin-modernizer/probely-security/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": "failure",
+        "Tests / linux-25 / Build (linux-25)": "failure"
+      },
+      "checkRunsSummary": "failure",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "d488a2734e302b3f68a3f3e02c05338c0a577ad2",
       "timestamp": "2025-09-02T15-43-31"
     },
     {
@@ -41,7 +48,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/probely-security-plugin/pull/13",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 5,
       "deletions": 1,
@@ -49,13 +56,11 @@
       "key": "2025-08-18T13-42-12.json",
       "path": "metadata-plugin-modernizer/probely-security/modernization-metadata",
       "checkRuns": {
-        "Code Coverage": "success",
-        "Jenkins": "failure",
-        "Tests / linux-21 / Build (linux-21)": "failure"
+        "Jenkins": null
       },
-      "checkRunsSummary": "failure",
+      "checkRunsSummary": "pending",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "22a789d5acdb8dcda3cc6a514d08967c7931c64a",
+      "defaultBranchLatestCommitSha": "d488a2734e302b3f68a3f3e02c05338c0a577ad2",
       "timestamp": "2025-08-18T13-42-12"
     },
     {

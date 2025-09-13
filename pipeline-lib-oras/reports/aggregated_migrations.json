@@ -16,13 +16,35 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeBomVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/pipeline-lib-oras-plugin/pull/15",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1,
       "key": "2025-08-30T13-03-41.json",
       "path": "metadata-plugin-modernizer/pipeline-lib-oras/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Incrementals": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-21 / Build (linux-21)": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "Tests / windows-17 / Build (windows-17)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "1133067668a0d9c9af8c0abe6201c13422eddaad",
       "timestamp": "2025-08-30T13-03-41"
     },
     {
@@ -68,7 +90,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cc8137063faeee996c7b3c7f195f30c5db6b5c5d",
+      "defaultBranchLatestCommitSha": "1133067668a0d9c9af8c0abe6201c13422eddaad",
       "timestamp": "2025-08-09T10-10-22"
     },
     {
@@ -112,7 +134,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cc8137063faeee996c7b3c7f195f30c5db6b5c5d",
+      "defaultBranchLatestCommitSha": "1133067668a0d9c9af8c0abe6201c13422eddaad",
       "timestamp": "2025-07-27T11-02-56"
     }
   ]

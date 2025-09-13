@@ -24,6 +24,12 @@
       "changedFiles": 1,
       "key": "2025-09-04T08-49-32.json",
       "path": "metadata-plugin-modernizer/regression-report-plugin/modernization-metadata",
+      "checkRuns": {
+        "jar": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "32d00b7cfd863c495ee8927d8494ea4dd55bdaaa",
       "timestamp": "2025-09-04T08-49-32"
     },
     {

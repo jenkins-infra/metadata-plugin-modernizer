@@ -24,6 +24,13 @@
       "changedFiles": 1,
       "key": "2025-09-03T08-33-54.json",
       "path": "metadata-plugin-modernizer/artifact-promotion/modernization-metadata",
+      "checkRuns": {
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "67053bd004f61d0bd5494d17333db36e0b12c678",
       "timestamp": "2025-09-03T08-33-54"
     },
     {

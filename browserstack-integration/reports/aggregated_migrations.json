@@ -24,6 +24,12 @@
       "changedFiles": 1,
       "key": "2025-09-03T09-10-35.json",
       "path": "metadata-plugin-modernizer/browserstack-integration/modernization-metadata",
+      "checkRuns": {
+        "build": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "a71deeeacb07e36e28d7d4f6057cc0b4dbba1761",
       "timestamp": "2025-09-03T09-10-35"
     },
     {

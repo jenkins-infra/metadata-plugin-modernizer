@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-04T07-05-01.json",
       "path": "metadata-plugin-modernizer/oracle-cloud-infrastructure-compute/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "3d45a65861f1f545beb69c373d16984d5209a57a",
       "timestamp": "2025-09-04T07-05-01"
     },
     {

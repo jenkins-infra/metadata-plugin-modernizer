@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-03T10-42-12.json",
       "path": "metadata-plugin-modernizer/compuware-common-configuration/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "4a9f696e77a24f1b688d120c7738a55d62d5bd27",
       "timestamp": "2025-09-03T10-42-12"
     },
     {

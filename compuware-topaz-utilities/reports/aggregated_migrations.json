@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-03T10-54-30.json",
       "path": "metadata-plugin-modernizer/compuware-topaz-utilities/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "abf2affe11c61393c294a13bcd0260810282da5d",
       "timestamp": "2025-09-03T10-54-30"
     },
     {

@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-04T07-25-33.json",
       "path": "metadata-plugin-modernizer/parasoft-findings/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "8523ea9664c845912c4c2dc10a0b07eab10b9fdb",
       "timestamp": "2025-09-04T07-25-33"
     },
     {

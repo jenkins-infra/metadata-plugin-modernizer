@@ -23,6 +23,12 @@
       "changedFiles": 1,
       "key": "2025-09-03T07-37-22.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": "failure"
+      },
+      "checkRunsSummary": "failure",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
       "timestamp": "2025-09-03T07-37-22"
     },
     {
@@ -95,6 +101,23 @@
       "changedFiles": 1,
       "key": "2025-09-02T14-22-13.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "failure",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-11 / Build (linux-11)": "success"
+      },
+      "checkRunsSummary": "failure",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
       "timestamp": "2025-09-02T14-22-13"
     },
     {
@@ -142,6 +165,12 @@
       "changedFiles": 1,
       "key": "2025-09-02T14-13-06.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": "failure"
+      },
+      "checkRunsSummary": "failure",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
       "timestamp": "2025-09-02T14-13-06"
     },
     {
@@ -165,6 +194,12 @@
       "changedFiles": 2,
       "key": "2025-09-02T14-04-22.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": "failure"
+      },
+      "checkRunsSummary": "failure",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
       "timestamp": "2025-09-02T14-04-22"
     },
     {
@@ -182,7 +217,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/absint-a3-plugin/pull/7",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 12,
       "deletions": 0,
@@ -192,7 +227,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "c4e51d2f24d4c9b6028440a4bbabd42aa0d21738",
+      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
       "timestamp": "2025-07-23T08-03-50"
     }
   ]

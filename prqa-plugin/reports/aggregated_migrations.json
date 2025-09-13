@@ -24,6 +24,12 @@
       "changedFiles": 1,
       "key": "2025-09-04T08-14-04.json",
       "path": "metadata-plugin-modernizer/prqa-plugin/modernization-metadata",
+      "checkRuns": {
+        "security-scan / scan": "failure"
+      },
+      "checkRunsSummary": "failure",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "df0318d608d73e183ef18fc7592a3755c3df2710",
       "timestamp": "2025-09-04T08-14-04"
     },
     {

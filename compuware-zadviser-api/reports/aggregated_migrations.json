@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-03T11-04-57.json",
       "path": "metadata-plugin-modernizer/compuware-zadviser-api/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "4ec69d795357ad9c833010e5ed6e1b5f32ae2607",
       "timestamp": "2025-09-03T11-04-57"
     },
     {
