@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-03T08-05-48.json",
       "path": "metadata-plugin-modernizer/BlazeMeterJenkinsPlugin/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "2c36e50c5517d7ba76500d979c220be78ca2f131",
       "timestamp": "2025-09-03T08-05-48"
     },
     {

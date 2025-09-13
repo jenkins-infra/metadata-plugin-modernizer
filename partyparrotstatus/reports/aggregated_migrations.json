@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-04T07-28-43.json",
       "path": "metadata-plugin-modernizer/partyparrotstatus/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "7eafe2c0a974fae5213be9074d551415ed07e5aa",
       "timestamp": "2025-09-04T07-28-43"
     },
     {

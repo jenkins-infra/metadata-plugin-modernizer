@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-04T11-41-24.json",
       "path": "metadata-plugin-modernizer/vncviewer/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "731f146975dcd76c2bb6c2c55cdbd7a95e94ec89",
       "timestamp": "2025-09-04T11-41-24"
     },
     {

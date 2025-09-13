@@ -24,6 +24,13 @@
       "changedFiles": 1,
       "key": "2025-09-03T08-56-00.json",
       "path": "metadata-plugin-modernizer/blackduck-coverity-on-polaris/modernization-metadata",
+      "checkRuns": {
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "b7cc4a46ea3e831074d76f4a215b6a3f03eded34",
       "timestamp": "2025-09-03T08-56-00"
     },
     {

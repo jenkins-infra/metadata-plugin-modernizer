@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-03T10-28-37.json",
       "path": "metadata-plugin-modernizer/collabnet/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "2ea698358d8748019aa27a4f95fdb3724f1d56f7",
       "timestamp": "2025-09-03T10-28-37"
     },
     {

@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-03T11-57-08.json",
       "path": "metadata-plugin-modernizer/diawi-upload/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "c05e804da7e0936abace103e3da1e80c06944728",
       "timestamp": "2025-09-03T11-57-08"
     },
     {

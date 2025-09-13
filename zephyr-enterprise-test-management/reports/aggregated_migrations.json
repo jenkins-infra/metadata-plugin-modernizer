@@ -24,6 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-04T13-04-12.json",
       "path": "metadata-plugin-modernizer/zephyr-enterprise-test-management/modernization-metadata",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "40c7994df136a0cb72daadb5b82ae692f22b2dda",
       "timestamp": "2025-09-04T13-04-12"
     },
     {
