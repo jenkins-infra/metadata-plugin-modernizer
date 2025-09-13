@@ -1,8 +1,8 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
-  "totalApplications": 622,
+  "totalApplications": 623,
   "successCount": 101,
-  "failureCount": 521,
+  "failureCount": 522,
   "plugins": [
     {
       "pluginName": "zephyr-enterprise-test-management",
@@ -758,6 +758,11 @@
       "pluginName": "ease-plugin",
       "status": "fail",
       "timestamp": "2025-09-03T12-18-49"
+    },
+    {
+      "pluginName": "dynamic_extended_choice_parameter",
+      "status": "fail",
+      "timestamp": "2025-09-03T12-16-09"
     },
     {
       "pluginName": "dropdown-viewstabbar-plugin",
