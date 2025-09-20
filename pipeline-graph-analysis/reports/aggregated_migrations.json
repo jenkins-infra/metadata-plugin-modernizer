@@ -1,0 +1,30 @@
+{
+  "pluginName": "pipeline-graph-analysis",
+  "pluginRepository": "https://github.com/jenkinsci/pipeline-graph-analysis-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "241.vc3d48fb_b_2582",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.1",
+      "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+      "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/pipeline-graph-analysis-plugin/pull/184",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 6,
+      "deletions": 2,
+      "changedFiles": 3,
+      "key": "2025-09-09T16-42-09.json",
+      "path": "metadata-plugin-modernizer/pipeline-graph-analysis/modernization-metadata",
+      "timestamp": "2025-09-09T16-42-09"
+    }
+  ]
+}
