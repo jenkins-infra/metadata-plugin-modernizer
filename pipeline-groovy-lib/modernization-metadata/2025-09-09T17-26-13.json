@@ -21,5 +21,14 @@
   "deletions": 3,
   "changedFiles": 4,
   "key": "2025-09-09T17-26-13.json",
-  "path": "metadata-plugin-modernizer/pipeline-groovy-lib/modernization-metadata"
+  "path": "metadata-plugin-modernizer/pipeline-groovy-lib/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": "failure",
+    "Jenkins Security Scan": "success",
+    "Tests / linux-21 / Build (linux-21)": "failure",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "failure",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "2ed5cab4000d2fffcb015b8e2c7dee01098272c6"
 }
