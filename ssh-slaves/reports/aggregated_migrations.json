@@ -1,0 +1,30 @@
+{
+  "pluginName": "ssh-slaves",
+  "pluginRepository": "https://github.com/jenkinsci/ssh-agents-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "3.1071.v0d059c7b_c555",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.1",
+      "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+      "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 8,
+      "deletions": 4,
+      "changedFiles": 5,
+      "key": "2025-09-09T16-58-41.json",
+      "path": "metadata-plugin-modernizer/ssh-slaves/modernization-metadata",
+      "timestamp": "2025-09-09T16-58-41"
+    }
+  ]
+}

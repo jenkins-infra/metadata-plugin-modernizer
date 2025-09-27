@@ -1,0 +1,30 @@
+{
+  "pluginName": "git",
+  "pluginRepository": "https://github.com/jenkinsci/git-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "5.7.0",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.3",
+      "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+      "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/git-plugin/pull/1806",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2025-09-09T15-15-50.json",
+      "path": "metadata-plugin-modernizer/git/modernization-metadata",
+      "timestamp": "2025-09-09T15-15-50"
+    }
+  ]
+}
