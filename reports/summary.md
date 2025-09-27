@@ -1,11 +1,11 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2025-09-17 00:33:35 UTC
+Generated on: 2025-09-27 00:32:59 UTC
 
 ## Overview
-- **Total Migrations**: 867
-- **Failed Migrations**: 562
-- **Success Rate**: 35.18%
+- **Total Migrations**: 879
+- **Failed Migrations**: 564
+- **Success Rate**: 35.84%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
@@ -13,9 +13,10 @@ Generated on: 2025-09-17 00:33:35 UTC
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 2 failures
-- io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
-- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
+- io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 2 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
+- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
+- io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
 
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
@@ -174,6 +175,7 @@ Generated on: 2025-09-17 00:33:35 UTC
 - [pending-changes](../pending-changes/reports/failed_migrations.csv)
 - [percentage-du-node-column](../percentage-du-node-column/reports/failed_migrations.csv)
 - [php-builtin-web-server](../php-builtin-web-server/reports/failed_migrations.csv)
+- [pipeline-build-step](../pipeline-build-step/reports/failed_migrations.csv)
 - [pipeline-dependency-walker](../pipeline-dependency-walker/reports/failed_migrations.csv)
 - [piwikanalytics](../piwikanalytics/reports/failed_migrations.csv)
 - [post-completed-build-result](../post-completed-build-result/reports/failed_migrations.csv)
@@ -203,6 +205,7 @@ Generated on: 2025-09-17 00:33:35 UTC
 - [spoonscript](../spoonscript/reports/failed_migrations.csv)
 - [spring-initalzr](../spring-initalzr/reports/failed_migrations.csv)
 - [srcclr-installer](../srcclr-installer/reports/failed_migrations.csv)
+- [ssh-slaves](../ssh-slaves/reports/failed_migrations.csv)
 - [stackify-deployment-recorder](../stackify-deployment-recorder/reports/failed_migrations.csv)
 - [stoplightio-report](../stoplightio-report/reports/failed_migrations.csv)
 - [svn-partial-release-mgr](../svn-partial-release-mgr/reports/failed_migrations.csv)
@@ -238,10 +241,10 @@ Generated on: 2025-09-17 00:33:35 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 199 | - |
-| Open PRs | 85 | 42.71% |
-| Closed PRs | 10 | 5.03% |
-| Merged PRs | 104 | 52.26% |
+| Total PRs | 209 | - |
+| Open PRs | 94 | 44.98% |
+| Closed PRs | 11 | 5.26% |
+| Merged PRs | 104 | 49.76% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
