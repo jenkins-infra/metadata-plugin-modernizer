@@ -1,0 +1,30 @@
+{
+  "pluginName": "docker-commons",
+  "pluginRepository": "https://github.com/jenkinsci/docker-commons-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "457.v0f62a_94f11a_3",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.1",
+      "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+      "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/docker-commons-plugin/pull/174",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 7,
+      "deletions": 3,
+      "changedFiles": 4,
+      "key": "2025-09-09T18-06-09.json",
+      "path": "metadata-plugin-modernizer/docker-commons/modernization-metadata",
+      "timestamp": "2025-09-09T18-06-09"
+    }
+  ]
+}
