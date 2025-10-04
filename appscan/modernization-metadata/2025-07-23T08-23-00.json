@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/appscan-plugin/pull/245",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 12,
   "deletions": 0,
@@ -24,10 +24,11 @@
   "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
   "checkRuns": {
     "Jenkins Security Scan": "success",
+    "publish": "failure",
     "scan": "success",
     "security-scan / scan": "success"
   },
-  "checkRunsSummary": "success",
+  "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "1575d214f96e1b2acd124b3de3658a00e14660bb"
+  "defaultBranchLatestCommitSha": "2d6d7005cd5de9746ee0e52183646f33681ca5af"
 }
