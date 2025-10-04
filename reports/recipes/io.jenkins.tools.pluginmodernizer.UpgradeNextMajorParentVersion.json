@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
-  "totalApplications": 120,
+  "totalApplications": 121,
   "successCount": 44,
-  "failureCount": 30,
+  "failureCount": 31,
   "plugins": [
+    {
+      "pluginName": "appscan",
+      "status": "fail",
+      "timestamp": "2025-10-03T19-32-31"
+    },
     {
       "pluginName": "katalon",
       "status": "success",

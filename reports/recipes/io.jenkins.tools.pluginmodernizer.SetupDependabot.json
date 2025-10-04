@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
-  "totalApplications": 10,
-  "successCount": 8,
+  "totalApplications": 11,
+  "successCount": 9,
   "failureCount": 1,
   "plugins": [
+    {
+      "pluginName": "appscan",
+      "status": "success",
+      "timestamp": "2025-10-03T18-22-33"
+    },
     {
       "pluginName": "absint-a3",
       "status": "success",
