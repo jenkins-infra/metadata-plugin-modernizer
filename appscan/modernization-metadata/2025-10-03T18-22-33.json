@@ -7,7 +7,7 @@
   "effectiveBaseline": "2.426",
   "jenkinsVersion": "2.426.3",
   "migrationName": "Setup dependabot",
-  "migrationDescription": "Setup dependabot for the Jenkins plugin if it doesn\u0027t exist.",
+  "migrationDescription": "Setup dependabot for the Jenkins plugin if it doesn't exist.",
   "tags": [
     "skip-verification",
     "chore"
@@ -21,5 +21,15 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-10-03T18-22-33.json",
-  "path": "metadata-plugin-modernizer/appscan/modernization-metadata"
+  "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": "failure",
+    "Jenkins Security Scan": "success",
+    "Tests / linux-21 / Build (linux-21)": "success",
+    "scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "failure",
+  "defaultBranch": "master",
+  "defaultBranchLatestCommitSha": "2d6d7005cd5de9746ee0e52183646f33681ca5af"
 }
