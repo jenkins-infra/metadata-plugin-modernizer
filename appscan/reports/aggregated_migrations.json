@@ -3,6 +3,53 @@
   "pluginRepository": "https://github.com/jenkinsci/appscan-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "1.8.0",
+      "jenkinsBaseline": "2.426",
+      "targetBaseline": "2.426",
+      "effectiveBaseline": "2.426",
+      "jenkinsVersion": "2.426.3",
+      "migrationName": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17",
+      "migrationDescription": "Upgrade to the next major parent version (5.X) requiring Jenkins 2.492 and Java 17.",
+      "tags": [
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2025-10-03T19-32-31.json",
+      "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
+      "timestamp": "2025-10-03T19-32-31"
+    },
+    {
+      "pluginVersion": "1.8.0",
+      "jenkinsBaseline": "2.426",
+      "targetBaseline": "2.426",
+      "effectiveBaseline": "2.426",
+      "jenkinsVersion": "2.426.3",
+      "migrationName": "Setup dependabot",
+      "migrationDescription": "Setup dependabot for the Jenkins plugin if it doesn't exist.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/appscan-plugin/pull/264",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 10,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2025-10-03T18-22-33.json",
+      "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
+      "timestamp": "2025-10-03T18-22-33"
+    },
+    {
       "pluginVersion": "1.7.0",
       "jenkinsBaseline": "2.426",
       "targetBaseline": "2.426",
@@ -31,7 +78,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "dbd91c2c1399de1d2083d5fa29f606b4884824e6",
+      "defaultBranchLatestCommitSha": "1575d214f96e1b2acd124b3de3658a00e14660bb",
       "timestamp": "2025-07-23T08-23-00"
     }
   ]
