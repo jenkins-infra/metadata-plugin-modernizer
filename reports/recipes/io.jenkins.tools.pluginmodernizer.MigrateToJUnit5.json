@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJUnit5",
-  "totalApplications": 5,
+  "totalApplications": 6,
   "successCount": 1,
-  "failureCount": 3,
+  "failureCount": 4,
   "plugins": [
+    {
+      "pluginName": "pipeline-multibranch-defaults",
+      "status": "fail",
+      "timestamp": "2025-10-05T13-47-45"
+    },
     {
       "pluginName": "absint-a3",
       "status": "fail",
