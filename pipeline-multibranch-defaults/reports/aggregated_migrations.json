@@ -1,0 +1,30 @@
+{
+  "pluginName": "pipeline-multibranch-defaults",
+  "pluginRepository": "https://github.com/jenkinsci/pipeline-multibranch-defaults-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "2.1",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.361",
+      "effectiveBaseline": "2.361",
+      "jenkinsVersion": "2.361.4",
+      "migrationName": "Migrate to JUnit 5",
+      "migrationDescription": "Migrate tests to JUnit5.",
+      "tags": [
+        "testing",
+        "migration"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateToJUnit5",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2025-10-05T13-47-45.json",
+      "path": "metadata-plugin-modernizer/pipeline-multibranch-defaults/modernization-metadata",
+      "timestamp": "2025-10-05T13-47-45"
+    }
+  ]
+}
