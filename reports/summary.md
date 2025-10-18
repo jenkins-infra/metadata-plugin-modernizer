@@ -1,6 +1,6 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2025-10-16 00:35:08 UTC
+Generated on: 2025-10-18 00:32:11 UTC
 
 ## Overview
 - **Total Migrations**: 882
@@ -11,12 +11,12 @@ Generated on: 2025-10-16 00:35:08 UTC
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion: 31 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
-- io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 2 failures
+- io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
 - io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 2 failures
-- io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
-- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
+- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
+- io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
 
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
