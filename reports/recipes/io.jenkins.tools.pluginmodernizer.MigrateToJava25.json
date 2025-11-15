@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
-  "totalApplications": 43,
-  "successCount": 42,
+  "totalApplications": 44,
+  "successCount": 43,
   "failureCount": 1,
   "plugins": [
+    {
+      "pluginName": "jackson3-api",
+      "status": "success",
+      "timestamp": "2025-11-13T04-53-08"
+    },
     {
       "pluginName": "flyway-api",
       "status": "success",
