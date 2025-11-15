@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/jackson3-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "3.0.2-19.vb_706c7683d71",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.1",
+      "migrationName": "Migrate plugins to Java 25",
+      "migrationDescription": "Migrate plugins to Java 25 LTS.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2025-11-13T04-53-08.json",
+      "path": "metadata-plugin-modernizer/jackson3-api/modernization-metadata",
+      "timestamp": "2025-11-13T04-53-08"
+    },
+    {
       "pluginVersion": "3.0.1-11.v1db_b_61c8b_e4d",
       "jenkinsBaseline": "2.504",
       "targetBaseline": "2.504",
