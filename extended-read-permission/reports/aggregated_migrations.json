@@ -1,0 +1,29 @@
+{
+  "pluginName": "extended-read-permission",
+  "pluginRepository": "https://github.com/jenkinsci/extended-read-permission-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "61.vf24570ff3b_e9",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/extended-read-permission-plugin/pull/39",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2025-11-18T08-20-43.json",
+      "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata",
+      "timestamp": "2025-11-18T08-20-43"
+    }
+  ]
+}
