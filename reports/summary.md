@@ -1,11 +1,11 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2025-11-16 00:39:22 UTC
+Generated on: 2025-11-22 00:34:57 UTC
 
 ## Overview
-- **Total Migrations**: 918
+- **Total Migrations**: 920
 - **Failed Migrations**: 575
-- **Success Rate**: 37.36%
+- **Success Rate**: 37.50%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
@@ -249,10 +249,10 @@ Generated on: 2025-11-16 00:39:22 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 236 | - |
-| Open PRs | 86 | 36.44% |
-| Closed PRs | 16 | 6.78% |
-| Merged PRs | 134 | 56.78% |
+| Total PRs | 238 | - |
+| Open PRs | 88 | 36.97% |
+| Closed PRs | 16 | 6.72% |
+| Merged PRs | 134 | 56.30% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
