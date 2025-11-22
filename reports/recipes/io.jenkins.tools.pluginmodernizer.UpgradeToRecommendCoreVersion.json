@@ -1,9 +1,19 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
-  "totalApplications": 74,
-  "successCount": 64,
+  "totalApplications": 76,
+  "successCount": 66,
   "failureCount": 10,
   "plugins": [
+    {
+      "pluginName": "extended-read-permission",
+      "status": "success",
+      "timestamp": "2025-11-18T08-20-43"
+    },
+    {
+      "pluginName": "extra-tool-installers",
+      "status": "success",
+      "timestamp": "2025-11-18T05-51-04"
+    },
     {
       "pluginName": "nunit",
       "status": "fail",
