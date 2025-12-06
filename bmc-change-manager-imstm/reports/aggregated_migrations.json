@@ -14,7 +14,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/bmc-change-manager-imstm-plugin/pull/25",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 10,
       "deletions": 0,
@@ -40,7 +40,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "12c841920f7d60a58d15a3e063414351de956043",
+      "defaultBranchLatestCommitSha": "761069998a34dfdc54e6bcec0b72c9991e94c450",
       "timestamp": "2025-07-15T14-04-09"
     },
     {
@@ -55,7 +55,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.AddCodeOwner",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/bmc-change-manager-imstm-plugin/pull/24",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 1,
       "deletions": 0,
@@ -81,7 +81,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "12c841920f7d60a58d15a3e063414351de956043",
+      "defaultBranchLatestCommitSha": "761069998a34dfdc54e6bcec0b72c9991e94c450",
       "timestamp": "2025-07-15T13-59-53"
     },
     {
@@ -121,7 +121,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "12c841920f7d60a58d15a3e063414351de956043",
+      "defaultBranchLatestCommitSha": "761069998a34dfdc54e6bcec0b72c9991e94c450",
       "timestamp": "2025-07-15T13-36-22"
     }
   ]
