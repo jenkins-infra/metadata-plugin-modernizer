@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/pipeline-stage-view-plugin/pull/401",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 5,
   "deletions": 1,
@@ -41,5 +41,5 @@
   },
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "8704c9bc591cafeffa2f89f55a381f179c2b421d"
+  "defaultBranchLatestCommitSha": "10b8a1aa17c747471330f295af68e2303b42353b"
 }
