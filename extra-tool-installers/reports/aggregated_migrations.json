@@ -16,13 +16,21 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/extra-tool-installers-plugin/pull/173",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 1,
       "deletions": 1,
       "changedFiles": 1,
       "key": "2025-11-18T05-51-04.json",
       "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "49986550c2218bcd4ae55a61d26c859d88bb49a6",
       "timestamp": "2025-11-18T05-51-04"
     },
     {
