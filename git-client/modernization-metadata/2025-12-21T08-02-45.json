@@ -1,0 +1,25 @@
+{
+  "pluginName": "git-client",
+  "pluginRepository": "https://github.com/jenkinsci/git-client-plugin.git",
+  "pluginVersion": "6.4.3",
+  "jenkinsBaseline": "2.504",
+  "targetBaseline": "2.504",
+  "effectiveBaseline": "2.504",
+  "jenkinsVersion": "2.504.3",
+  "migrationName": "Add plugins BOM",
+  "migrationDescription": "Add the Jenkins BOM to the dependenciesManagement section of the pom.xml.",
+  "tags": [
+    "chore",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.AddPluginsBom",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2025-12-21T08-02-45.json",
+  "path": "metadata-plugin-modernizer/git-client/modernization-metadata"
+}
