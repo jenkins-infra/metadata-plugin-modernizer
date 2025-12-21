@@ -1,0 +1,25 @@
+{
+  "pluginName": "jobcacher",
+  "pluginRepository": "https://github.com/jenkinsci/jobcacher-plugin.git",
+  "pluginVersion": "764.v098c635e4315",
+  "jenkinsBaseline": "2.504",
+  "targetBaseline": "2.504",
+  "effectiveBaseline": "2.504",
+  "jenkinsVersion": "2.504.3",
+  "migrationName": "Add plugins BOM",
+  "migrationDescription": "Add the Jenkins BOM to the dependenciesManagement section of the pom.xml.",
+  "tags": [
+    "chore",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.AddPluginsBom",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-plugin/pull/473",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 1,
+  "changedFiles": 1,
+  "key": "2025-12-21T08-04-17.json",
+  "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata"
+}
