@@ -1,0 +1,25 @@
+{
+  "pluginName": "simple-priority-sorter",
+  "pluginRepository": "https://github.com/jenkinsci/simple-priority-sorter-plugin.git",
+  "pluginVersion": "8.v96183e297829",
+  "jenkinsBaseline": "2.516",
+  "targetBaseline": "2.504",
+  "effectiveBaseline": "2.516",
+  "jenkinsVersion": "2.516.3",
+  "migrationName": "Remove old Java version on Jenkinsfile for modern Jenkins versions",
+  "migrationDescription": "Remove old Java version on Jenkinsfile for modern Jenkins versions.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/simple-priority-sorter-plugin/pull/12",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 5,
+  "deletions": 5,
+  "changedFiles": 1,
+  "key": "2026-01-04T10-03-28.json",
+  "path": "metadata-plugin-modernizer/simple-priority-sorter/modernization-metadata"
+}
