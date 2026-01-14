@@ -1,0 +1,25 @@
+{
+  "pluginName": "flyway-runner",
+  "pluginRepository": "https://github.com/jenkinsci/flyway-runner-plugin.git",
+  "pluginVersion": "282.v7e837c0b_ff13",
+  "jenkinsBaseline": "2.516",
+  "targetBaseline": "2.516",
+  "effectiveBaseline": "2.516",
+  "jenkinsVersion": "2.516.3",
+  "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+  "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/flyway-runner-plugin/pull/146",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-01-14T11-55-24.json",
+  "path": "metadata-plugin-modernizer/flyway-runner/modernization-metadata"
+}
