@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
-  "totalApplications": 89,
-  "successCount": 84,
+  "totalApplications": 90,
+  "successCount": 85,
   "failureCount": 5,
   "plugins": [
+    {
+      "pluginName": "filesystem-list-parameter-plugin",
+      "status": "success",
+      "timestamp": "2026-01-27T07-41-20"
+    },
     {
       "pluginName": "log-parser",
       "status": "fail",
