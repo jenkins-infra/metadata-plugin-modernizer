@@ -8,6 +8,30 @@
       "targetBaseline": "2.516",
       "effectiveBaseline": "2.516",
       "jenkinsVersion": "2.516.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/skip-notifications-trait-plugin/pull/309",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-01-24T14-57-10.json",
+      "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata",
+      "timestamp": "2026-01-24T14-57-10"
+    },
+    {
+      "pluginVersion": "576.v7a_67396e2e0b_",
+      "jenkinsBaseline": "2.516",
+      "targetBaseline": "2.516",
+      "effectiveBaseline": "2.516",
+      "jenkinsVersion": "2.516.3",
       "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
       "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
       "tags": [
@@ -43,7 +67,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2026-01-14T12-45-32"
     },
     {
@@ -86,7 +110,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2026-01-14T11-57-53"
     },
     {
@@ -130,7 +154,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2026-01-10T20-42-03"
     },
     {
@@ -173,7 +197,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2026-01-04T09-52-35"
     },
     {
@@ -219,7 +243,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2026-01-03T19-49-35"
     },
     {
@@ -264,7 +288,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2025-10-31T15-53-20"
     },
     {
@@ -334,7 +358,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2025-08-09T10-20-44"
     },
     {
@@ -378,7 +402,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b867e30b51e314ab78c97f588c620cd7d4a6fd74",
+      "defaultBranchLatestCommitSha": "5daf211e0c5b6e8549d0c2e763c2ca28edad0ec6",
       "timestamp": "2025-07-27T11-11-27"
     }
   ]

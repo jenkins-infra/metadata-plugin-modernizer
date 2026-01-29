@@ -24,6 +24,26 @@
       "changedFiles": 15,
       "key": "2026-01-19T08-05-26.json",
       "path": "metadata-plugin-modernizer/saml/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Incrementals": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "Tests / windows-21 / Build (windows-21)": "success",
+        "dependency-review": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "a59ca670e5745e815461a11009cedaa99b013e9b",
       "timestamp": "2026-01-19T08-05-26"
     }
   ]
