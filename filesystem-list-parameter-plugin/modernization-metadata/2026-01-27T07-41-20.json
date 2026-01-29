@@ -15,11 +15,19 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/filesystem-list-parameter-plugin/pull/31",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 1,
   "deletions": 1,
   "changedFiles": 1,
   "key": "2026-01-27T07-41-20.json",
-  "path": "metadata-plugin-modernizer/filesystem-list-parameter-plugin/modernization-metadata"
+  "path": "metadata-plugin-modernizer/filesystem-list-parameter-plugin/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "ffd75ba9c4b0ad3e45dfab493dfcacb8d2fea329"
 }

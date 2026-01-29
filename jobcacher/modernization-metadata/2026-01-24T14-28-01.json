@@ -15,11 +15,20 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-plugin/pull/496",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-28-01.json",
-  "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata"
+  "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "f9565339b2f1bef360d7faf8fc3e158574e0d57a"
 }
