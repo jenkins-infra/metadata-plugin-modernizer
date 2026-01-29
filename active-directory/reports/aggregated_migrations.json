@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/active-directory-plugin/pull/691",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 9,
       "deletions": 4,

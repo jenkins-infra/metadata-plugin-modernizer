@@ -17,13 +17,21 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/job-import-plugin/pull/159",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 12,
       "deletions": 8,
       "changedFiles": 5,
       "key": "2026-01-19T13-58-32.json",
       "path": "metadata-plugin-modernizer/job-import-plugin/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "044a2e819b271dade0106de10291b2fed45836df",
       "timestamp": "2026-01-19T13-58-32"
     }
   ]

@@ -24,6 +24,20 @@
       "changedFiles": 24,
       "key": "2026-01-16T13-33-56.json",
       "path": "metadata-plugin-modernizer/kubernetes/modernization-metadata",
+      "checkRuns": {
+        "Code Coverage": "success",
+        "Incrementals": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Tests / Tests / jdk25": "success",
+        "Tests / Tests / kind-1": "success",
+        "Tests / Tests / kind-2": "success",
+        "auto-merge-safe-deps / auto-merge": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "b59f230bce531a7a38f0dbec8a8ab1c2d51e901d",
       "timestamp": "2026-01-16T13-33-56"
     }
   ]
