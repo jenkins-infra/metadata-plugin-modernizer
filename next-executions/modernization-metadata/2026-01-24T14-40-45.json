@@ -15,11 +15,21 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/next-executions-plugin/pull/213",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-40-45.json",
-  "path": "metadata-plugin-modernizer/next-executions/modernization-metadata"
+  "path": "metadata-plugin-modernizer/next-executions/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "Tests / linux-25 / Build (linux-25)": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "6a5e56f25f90dca18a46685e1e0a18113a644d8b"
 }
