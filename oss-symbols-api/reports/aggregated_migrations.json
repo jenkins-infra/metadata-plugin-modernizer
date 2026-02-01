@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/oss-symbols-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "442.v99039087229b_",
+      "jenkinsBaseline": "2.492",
+      "targetBaseline": "2.492",
+      "effectiveBaseline": "2.492",
+      "jenkinsVersion": "2.492.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/oss-symbols-api-plugin/pull/246",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-01-24T14-45-33.json",
+      "path": "metadata-plugin-modernizer/oss-symbols-api/modernization-metadata",
+      "timestamp": "2026-01-24T14-45-33"
+    },
+    {
       "pluginVersion": "424.ved751e062911",
       "jenkinsBaseline": "2.492",
       "targetBaseline": "2.492",
@@ -31,7 +55,7 @@
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cb7a29c179e0ee54d7d00a8cc1d6891c86fbd68e",
+      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
       "timestamp": "2026-01-14T12-30-36"
     },
     {
@@ -74,7 +98,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cb7a29c179e0ee54d7d00a8cc1d6891c86fbd68e",
+      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
       "timestamp": "2026-01-14T11-35-00"
     },
     {
@@ -118,7 +142,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cb7a29c179e0ee54d7d00a8cc1d6891c86fbd68e",
+      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
       "timestamp": "2026-01-10T20-29-40"
     },
     {
@@ -164,7 +188,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cb7a29c179e0ee54d7d00a8cc1d6891c86fbd68e",
+      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
       "timestamp": "2026-01-03T19-33-32"
     },
     {
@@ -209,7 +233,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cb7a29c179e0ee54d7d00a8cc1d6891c86fbd68e",
+      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
       "timestamp": "2025-08-09T09-03-24"
     },
     {
@@ -253,7 +277,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "cb7a29c179e0ee54d7d00a8cc1d6891c86fbd68e",
+      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
       "timestamp": "2025-07-27T10-13-15"
     }
   ]

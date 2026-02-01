@@ -8,6 +8,30 @@
       "targetBaseline": "2.516",
       "effectiveBaseline": "2.516",
       "jenkinsVersion": "2.516.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/ansible-plugin/pull/376",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-01-27T06-53-24.json",
+      "path": "metadata-plugin-modernizer/ansible/modernization-metadata",
+      "timestamp": "2026-01-27T06-53-24"
+    },
+    {
+      "pluginVersion": "635.v34b_48e979c86",
+      "jenkinsBaseline": "2.516",
+      "targetBaseline": "2.516",
+      "effectiveBaseline": "2.516",
+      "jenkinsVersion": "2.516.3",
       "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
       "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
       "tags": [
@@ -44,7 +68,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "6ff7441de3bfd13767c9934722c058a56b35a51b",
+      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
       "timestamp": "2026-01-14T13-55-56"
     },
     {
@@ -89,7 +113,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "6ff7441de3bfd13767c9934722c058a56b35a51b",
+      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
       "timestamp": "2026-01-13T12-24-27"
     },
     {
@@ -134,7 +158,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "6ff7441de3bfd13767c9934722c058a56b35a51b",
+      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
       "timestamp": "2026-01-13T09-24-10"
     },
     {
@@ -166,7 +190,7 @@
       },
       "checkRunsSummary": "pending",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "6ff7441de3bfd13767c9934722c058a56b35a51b",
+      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
       "timestamp": "2026-01-13T09-18-51"
     }
   ]
