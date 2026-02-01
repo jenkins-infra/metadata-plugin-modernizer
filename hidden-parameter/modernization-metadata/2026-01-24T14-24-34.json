@@ -15,11 +15,21 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/hidden-parameter-plugin/pull/252",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-24-34.json",
-  "path": "metadata-plugin-modernizer/hidden-parameter/modernization-metadata"
+  "path": "metadata-plugin-modernizer/hidden-parameter/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "Tests / linux-25 / Build (linux-25)": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "3f41bb0a22a986467050e89af9db6351c3b6ebda"
 }

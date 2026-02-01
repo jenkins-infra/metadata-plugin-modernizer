@@ -15,11 +15,20 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/database-mariadb-plugin/pull/110",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-11-06.json",
-  "path": "metadata-plugin-modernizer/database-mariadb/modernization-metadata"
+  "path": "metadata-plugin-modernizer/database-mariadb/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "7a6bae1a383d6477c34203985e8fcf58aa0fa41e"
 }
