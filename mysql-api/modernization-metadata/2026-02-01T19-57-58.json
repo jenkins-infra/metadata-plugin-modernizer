@@ -1,0 +1,25 @@
+{
+  "pluginName": "mysql-api",
+  "pluginRepository": "https://github.com/jenkinsci/mysql-api-plugin.git",
+  "pluginVersion": "9.6.0-83.v04c82b_70c653",
+  "jenkinsBaseline": "",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.479",
+  "jenkinsVersion": "2.479.3",
+  "migrationName": "Setup the Jenkinsfile",
+  "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-02-01T19-57-58.json",
+  "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata"
+}
