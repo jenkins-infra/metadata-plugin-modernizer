@@ -1,0 +1,25 @@
+{
+  "pluginName": "mysql-api",
+  "pluginRepository": "https://github.com/jenkinsci/mysql-api-plugin.git",
+  "pluginVersion": "9.6.0-83.v04c82b_70c653",
+  "jenkinsBaseline": "",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.479",
+  "jenkinsVersion": "2.479.3",
+  "migrationName": "Migrate plugins to Java 25",
+  "migrationDescription": "Migrate plugins to Java 25 LTS.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/mysql-api-plugin/pull/52",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 5,
+  "deletions": 3,
+  "changedFiles": 2,
+  "key": "2026-02-01T20-00-07.json",
+  "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata"
+}
