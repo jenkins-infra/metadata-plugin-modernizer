@@ -15,11 +15,19 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/extra-tool-installers-plugin/pull/187",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-14-25.json",
-  "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata"
+  "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "bbba4adcc1d56461f390e63b419f0e1712ca3cb1"
 }

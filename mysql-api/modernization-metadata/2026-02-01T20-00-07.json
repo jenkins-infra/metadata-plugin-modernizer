@@ -15,11 +15,21 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/mysql-api-plugin/pull/52",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 5,
   "deletions": 3,
   "changedFiles": 2,
   "key": "2026-02-01T20-00-07.json",
-  "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata"
+  "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "auto-merge-safe-deps / auto-merge": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "131663a291807dc5e92e0ef57ed319cd332d61a9"
 }

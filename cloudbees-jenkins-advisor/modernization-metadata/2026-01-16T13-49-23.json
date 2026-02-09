@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/cloudbees-jenkins-advisor-plugin/pull/237",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 13,
   "deletions": 8,
@@ -42,5 +42,5 @@
   },
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "6cabff4e12fa5e55ee40ef7c9e4f7f106512f0a6"
+  "defaultBranchLatestCommitSha": "eef9b2693a73089ab89ba3fe746738496449e39b"
 }
