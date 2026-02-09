@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
-  "totalApplications": 623,
-  "successCount": 101,
+  "totalApplications": 624,
+  "successCount": 102,
   "failureCount": 522,
   "plugins": [
+    {
+      "pluginName": "mysql-api",
+      "status": "success",
+      "timestamp": "2026-02-01T19-57-58"
+    },
     {
       "pluginName": "zephyr-enterprise-test-management",
       "status": "success",
