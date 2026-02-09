@@ -15,11 +15,21 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/artifactory-artifact-manager-plugin/pull/150",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-00-01.json",
-  "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata"
+  "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "Tests / linux-25 / Build (linux-25)": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "e9a96c835bacc4a852e68dc694e2d23fa0efc313"
 }

@@ -15,11 +15,19 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/pipeline-cps-oras-plugin/pull/44",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-51-46.json",
-  "path": "metadata-plugin-modernizer/pipeline-cps-oras/modernization-metadata"
+  "path": "metadata-plugin-modernizer/pipeline-cps-oras/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "03384347526f0985cfa19746d3b08efa4754fd86"
 }

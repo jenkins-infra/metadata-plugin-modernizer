@@ -15,11 +15,19 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/s3-jobcacher-storage-plugin/pull/55",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-54-35.json",
-  "path": "metadata-plugin-modernizer/s3-jobcacher-storage/modernization-metadata"
+  "path": "metadata-plugin-modernizer/s3-jobcacher-storage/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "c9a1c2cffbfb23d30fd3c6210f9e3c41a5444538"
 }

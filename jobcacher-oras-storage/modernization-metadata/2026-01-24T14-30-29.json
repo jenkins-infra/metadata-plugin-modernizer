@@ -15,11 +15,20 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin/pull/58",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 20,
   "deletions": 0,
   "changedFiles": 2,
   "key": "2026-01-24T14-30-29.json",
-  "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata"
+  "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "0e90b39e9833fb0785548c21f0c1d1d7a75b5817"
 }
