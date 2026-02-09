@@ -8,6 +8,30 @@
       "targetBaseline": "2.516",
       "effectiveBaseline": "2.516",
       "jenkinsVersion": "2.516.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/extra-tool-installers-plugin/pull/187",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-01-24T14-14-25.json",
+      "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata",
+      "timestamp": "2026-01-24T14-14-25"
+    },
+    {
+      "pluginVersion": "211.v880567f652f0",
+      "jenkinsBaseline": "2.516",
+      "targetBaseline": "2.516",
+      "effectiveBaseline": "2.516",
+      "jenkinsVersion": "2.516.3",
       "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
       "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
       "tags": [
@@ -43,7 +67,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2026-01-14T11-46-39"
     },
     {
@@ -86,7 +110,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2026-01-14T10-47-31"
     },
     {
@@ -130,7 +154,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2026-01-10T19-57-10"
     },
     {
@@ -173,7 +197,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2026-01-04T09-17-31"
     },
     {
@@ -219,7 +243,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2026-01-03T18-53-02"
     },
     {
@@ -250,7 +274,7 @@
       },
       "checkRunsSummary": "pending",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2025-11-18T05-51-04"
     },
     {
@@ -295,7 +319,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2025-10-31T14-56-42"
     },
     {
@@ -341,7 +365,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2025-08-09T09-26-42"
     },
     {
@@ -385,7 +409,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c961ef733c678b42fc61238ddc00b031e4035f47",
+      "defaultBranchLatestCommitSha": "ee941d19df1378ed4e6317a37feb24b391b5aba9",
       "timestamp": "2025-07-27T10-29-13"
     }
   ]

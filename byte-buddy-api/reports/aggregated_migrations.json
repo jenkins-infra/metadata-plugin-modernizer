@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/byte-buddy-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "1.18.4-221.vca_790da_e08fc",
+      "jenkinsBaseline": "2.492",
+      "targetBaseline": "2.492",
+      "effectiveBaseline": "2.492",
+      "jenkinsVersion": "2.492.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/byte-buddy-api-plugin/pull/117",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-01-24T14-06-37.json",
+      "path": "metadata-plugin-modernizer/byte-buddy-api/modernization-metadata",
+      "timestamp": "2026-01-24T14-06-37"
+    },
+    {
       "pluginVersion": "1.18.3-207.v3e9992b_a_e0b_e",
       "jenkinsBaseline": "2.492",
       "targetBaseline": "2.492",
@@ -43,7 +67,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f2a1f552cc7eb09554c7449006bf6b08d5d0b756",
+      "defaultBranchLatestCommitSha": "ca790dae08fc1714a745a22cfad17afaa072abbd",
       "timestamp": "2026-01-14T11-35-18"
     },
     {
@@ -86,7 +110,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f2a1f552cc7eb09554c7449006bf6b08d5d0b756",
+      "defaultBranchLatestCommitSha": "ca790dae08fc1714a745a22cfad17afaa072abbd",
       "timestamp": "2026-01-14T10-38-45"
     },
     {
@@ -130,7 +154,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f2a1f552cc7eb09554c7449006bf6b08d5d0b756",
+      "defaultBranchLatestCommitSha": "ca790dae08fc1714a745a22cfad17afaa072abbd",
       "timestamp": "2026-01-10T19-50-24"
     },
     {
@@ -175,7 +199,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f2a1f552cc7eb09554c7449006bf6b08d5d0b756",
+      "defaultBranchLatestCommitSha": "ca790dae08fc1714a745a22cfad17afaa072abbd",
       "timestamp": "2026-01-03T18-44-58"
     },
     {
@@ -219,7 +243,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f2a1f552cc7eb09554c7449006bf6b08d5d0b756",
+      "defaultBranchLatestCommitSha": "ca790dae08fc1714a745a22cfad17afaa072abbd",
       "timestamp": "2025-08-09T08-42-48"
     },
     {
@@ -262,7 +286,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f2a1f552cc7eb09554c7449006bf6b08d5d0b756",
+      "defaultBranchLatestCommitSha": "ca790dae08fc1714a745a22cfad17afaa072abbd",
       "timestamp": "2025-07-27T09-56-58"
     }
   ]

@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/jackson3-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "3.0.4-55.v5dcc25165f20",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.1",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-01-24T14-25-30.json",
+      "path": "metadata-plugin-modernizer/jackson3-api/modernization-metadata",
+      "timestamp": "2026-01-24T14-25-30"
+    },
+    {
       "pluginVersion": "3.0.3-29.v1fda_758ca_92b_",
       "jenkinsBaseline": "2.504",
       "targetBaseline": "2.504",
@@ -43,7 +67,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "68a62abeba8e0222633dce8f587c1edc5e2aa055",
+      "defaultBranchLatestCommitSha": "5dcc25165f206af77d078fd0e3f01be55f0868ef",
       "timestamp": "2026-01-14T12-04-36"
     },
     {
@@ -86,7 +110,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "68a62abeba8e0222633dce8f587c1edc5e2aa055",
+      "defaultBranchLatestCommitSha": "5dcc25165f206af77d078fd0e3f01be55f0868ef",
       "timestamp": "2026-01-14T11-03-07"
     },
     {
@@ -130,7 +154,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "68a62abeba8e0222633dce8f587c1edc5e2aa055",
+      "defaultBranchLatestCommitSha": "5dcc25165f206af77d078fd0e3f01be55f0868ef",
       "timestamp": "2026-01-10T20-08-08"
     },
     {
@@ -175,7 +199,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "68a62abeba8e0222633dce8f587c1edc5e2aa055",
+      "defaultBranchLatestCommitSha": "5dcc25165f206af77d078fd0e3f01be55f0868ef",
       "timestamp": "2026-01-04T08-58-55"
     },
     {
@@ -243,7 +267,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "68a62abeba8e0222633dce8f587c1edc5e2aa055",
+      "defaultBranchLatestCommitSha": "5dcc25165f206af77d078fd0e3f01be55f0868ef",
       "timestamp": "2025-11-02T10-55-59"
     }
   ]
