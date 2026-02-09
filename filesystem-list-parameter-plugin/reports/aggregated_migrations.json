@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/filesystem-list-parameter-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "0.0.18",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text",
+      "migrationDescription": "Migrate Commons Lang from 2 to 3 and StringEscapeUtils to Commons Text.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/filesystem-list-parameter-plugin/pull/31",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2026-01-27T07-41-20.json",
+      "path": "metadata-plugin-modernizer/filesystem-list-parameter-plugin/modernization-metadata",
+      "timestamp": "2026-01-27T07-41-20"
+    },
+    {
       "pluginVersion": "0.0.17",
       "jenkinsBaseline": "2.479",
       "targetBaseline": "2.479",
@@ -24,6 +48,26 @@
       "changedFiles": 2,
       "key": "2026-01-16T14-49-47.json",
       "path": "metadata-plugin-modernizer/filesystem-list-parameter-plugin/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-21 / Build (linux-21)": "success",
+        "Tests / windows-17 / Build (windows-17)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "ffd75ba9c4b0ad3e45dfab493dfcacb8d2fea329",
       "timestamp": "2026-01-16T14-49-47"
     }
   ]

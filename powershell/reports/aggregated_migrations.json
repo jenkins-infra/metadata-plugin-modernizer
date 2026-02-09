@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/powershell-plugin/pull/40",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 10,
       "deletions": 2,
@@ -43,7 +43,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "6cb38271ffd6953df029d9e5f76dce8c7a6ed0d2",
+      "defaultBranchLatestCommitSha": "7b342130ac4498b67e997bf94935820d411cfd8b",
       "timestamp": "2026-01-15T16-33-23"
     }
   ]

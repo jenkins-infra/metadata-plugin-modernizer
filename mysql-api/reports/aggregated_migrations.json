@@ -1,0 +1,78 @@
+{
+  "pluginName": "mysql-api",
+  "pluginRepository": "https://github.com/jenkinsci/mysql-api-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "9.6.0-83.v04c82b_70c653",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Migrate plugins to Java 25",
+      "migrationDescription": "Migrate plugins to Java 25 LTS.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/mysql-api-plugin/pull/52",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 5,
+      "deletions": 3,
+      "changedFiles": 2,
+      "key": "2026-02-01T20-00-07.json",
+      "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata",
+      "timestamp": "2026-02-01T20-00-07"
+    },
+    {
+      "pluginVersion": "9.6.0-83.v04c82b_70c653",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Setup the Jenkinsfile",
+      "migrationDescription": "Add a missing Jenkinsfile to the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-02-01T19-57-58.json",
+      "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata",
+      "timestamp": "2026-02-01T19-57-58"
+    },
+    {
+      "pluginVersion": "9.6.0-83.v04c82b_70c653",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-02-01T19-51-26.json",
+      "path": "metadata-plugin-modernizer/mysql-api/modernization-metadata",
+      "timestamp": "2026-02-01T19-51-26"
+    }
+  ]
+}

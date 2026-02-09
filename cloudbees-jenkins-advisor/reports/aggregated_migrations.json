@@ -24,6 +24,27 @@
       "changedFiles": 7,
       "key": "2026-01-16T13-49-23.json",
       "path": "metadata-plugin-modernizer/cloudbees-jenkins-advisor/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Incrementals": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-17 / Build (linux-17)": "success",
+        "Tests / windows-21 / Build (windows-21)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "master",
+      "defaultBranchLatestCommitSha": "6cabff4e12fa5e55ee40ef7c9e4f7f106512f0a6",
       "timestamp": "2026-01-16T13-49-23"
     }
   ]
