@@ -16,7 +16,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/absint-a3-plugin/pull/11",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 15,
       "deletions": 18,
@@ -24,11 +24,11 @@
       "key": "2025-09-03T07-37-22.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
       "checkRuns": {
-        "Jenkins": "failure"
+        "Jenkins": null
       },
-      "checkRunsSummary": "failure",
+      "checkRunsSummary": "pending",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
+      "defaultBranchLatestCommitSha": "87b04253970c882ab050c089eca8c441ef18317b",
       "timestamp": "2025-09-03T07-37-22"
     },
     {
@@ -94,7 +94,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/absint-a3-plugin/pull/12",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 10,
       "deletions": 0,
@@ -117,7 +117,7 @@
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
+      "defaultBranchLatestCommitSha": "87b04253970c882ab050c089eca8c441ef18317b",
       "timestamp": "2025-09-02T14-22-13"
     },
     {
@@ -158,7 +158,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/absint-a3-plugin/pull/11",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 15,
       "deletions": 18,
@@ -166,11 +166,11 @@
       "key": "2025-09-02T14-13-06.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
       "checkRuns": {
-        "Jenkins": "failure"
+        "Jenkins": null
       },
-      "checkRunsSummary": "failure",
+      "checkRunsSummary": "pending",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
+      "defaultBranchLatestCommitSha": "87b04253970c882ab050c089eca8c441ef18317b",
       "timestamp": "2025-09-02T14-13-06"
     },
     {
@@ -187,7 +187,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/absint-a3-plugin/pull/10",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 18,
       "deletions": 23,
@@ -195,11 +195,11 @@
       "key": "2025-09-02T14-04-22.json",
       "path": "metadata-plugin-modernizer/absint-a3/modernization-metadata",
       "checkRuns": {
-        "Jenkins": "failure"
+        "Jenkins": null
       },
-      "checkRunsSummary": "failure",
+      "checkRunsSummary": "pending",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
+      "defaultBranchLatestCommitSha": "87b04253970c882ab050c089eca8c441ef18317b",
       "timestamp": "2025-09-02T14-04-22"
     },
     {
@@ -227,7 +227,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "cfea94e872ec3ae345d787715a8494e209f489fd",
+      "defaultBranchLatestCommitSha": "87b04253970c882ab050c089eca8c441ef18317b",
       "timestamp": "2025-07-23T08-03-50"
     }
   ]

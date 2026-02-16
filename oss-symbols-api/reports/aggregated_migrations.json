@@ -17,13 +17,23 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/oss-symbols-api-plugin/pull/246",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 20,
       "deletions": 0,
       "changedFiles": 2,
       "key": "2026-01-24T14-45-33.json",
       "path": "metadata-plugin-modernizer/oss-symbols-api/modernization-metadata",
+      "checkRuns": {
+        "Incrementals": "success",
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2026-01-24T14-45-33"
     },
     {
@@ -55,7 +65,7 @@
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2026-01-14T12-30-36"
     },
     {
@@ -98,7 +108,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2026-01-14T11-35-00"
     },
     {
@@ -142,7 +152,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2026-01-10T20-29-40"
     },
     {
@@ -188,7 +198,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2026-01-03T19-33-32"
     },
     {
@@ -233,7 +243,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2025-08-09T09-03-24"
     },
     {
@@ -277,7 +287,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "99039087229ba5828fce825692f573cd12ee4f65",
+      "defaultBranchLatestCommitSha": "e6df91ea83a646131c9b125d56ccdb1ab04279ce",
       "timestamp": "2025-07-27T10-13-15"
     }
   ]

@@ -17,13 +17,23 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/artifactory-client-api-plugin/pull/88",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 20,
       "deletions": 0,
       "changedFiles": 2,
       "key": "2026-01-24T14-01-25.json",
       "path": "metadata-plugin-modernizer/artifactory-client-api/modernization-metadata",
+      "checkRuns": {
+        "Incrementals": "success",
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2026-01-24T14-01-25"
     },
     {
@@ -67,7 +77,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c4b1c7cc9b5c55940a59def5ed8a7f0c8b7b3786",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2026-01-14T11-27-21"
     },
     {
@@ -110,7 +120,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c4b1c7cc9b5c55940a59def5ed8a7f0c8b7b3786",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2026-01-14T10-31-51"
     },
     {
@@ -154,7 +164,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c4b1c7cc9b5c55940a59def5ed8a7f0c8b7b3786",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2026-01-10T19-44-57"
     },
     {
@@ -199,7 +209,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c4b1c7cc9b5c55940a59def5ed8a7f0c8b7b3786",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2026-01-03T18-38-26"
     },
     {
@@ -243,7 +253,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c4b1c7cc9b5c55940a59def5ed8a7f0c8b7b3786",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2025-08-09T08-39-24"
     },
     {
@@ -286,7 +296,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "c4b1c7cc9b5c55940a59def5ed8a7f0c8b7b3786",
+      "defaultBranchLatestCommitSha": "8f74aeaeba07deb9471bc68770addd135e69c8a0",
       "timestamp": "2025-07-27T09-53-39"
     }
   ]
