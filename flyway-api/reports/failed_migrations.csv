@@ -1,7 +1,7 @@
 migrationId,migrationStatus
+io.jenkins.tools.pluginmodernizer.MigrateToJava25,fail
+io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion,fail
 io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins,fail
 io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion,fail
-io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion,fail
-io.jenkins.tools.pluginmodernizer.MigrateToJava25,fail
 io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins,fail
 io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins,fail
