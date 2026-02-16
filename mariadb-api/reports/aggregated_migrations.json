@@ -17,13 +17,23 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/mariadb-api-plugin/pull/97",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 20,
       "deletions": 0,
       "changedFiles": 2,
       "key": "2026-01-24T14-39-32.json",
       "path": "metadata-plugin-modernizer/mariadb-api/modernization-metadata",
+      "checkRuns": {
+        "Incrementals": "success",
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2026-01-24T14-39-32"
     },
     {
@@ -67,7 +77,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "d244eb3db344456eba2deb97861ca2877959da7e",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2026-01-14T12-22-56"
     },
     {
@@ -110,7 +120,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "d244eb3db344456eba2deb97861ca2877959da7e",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2026-01-14T11-22-47"
     },
     {
@@ -154,7 +164,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "d244eb3db344456eba2deb97861ca2877959da7e",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2026-01-10T20-24-15"
     },
     {
@@ -199,7 +209,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "d244eb3db344456eba2deb97861ca2877959da7e",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2026-01-03T19-27-03"
     },
     {
@@ -243,7 +253,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "d244eb3db344456eba2deb97861ca2877959da7e",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2025-08-09T09-01-28"
     },
     {
@@ -286,7 +296,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "d244eb3db344456eba2deb97861ca2877959da7e",
+      "defaultBranchLatestCommitSha": "05a68a68abfdb6eb5d6590b6c6e29818d38ff0e2",
       "timestamp": "2025-07-27T10-11-39"
     }
   ]

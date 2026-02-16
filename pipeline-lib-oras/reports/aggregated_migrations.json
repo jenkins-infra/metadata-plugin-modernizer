@@ -17,13 +17,22 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/pipeline-lib-oras-plugin/pull/41",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 20,
       "deletions": 0,
       "changedFiles": 2,
       "key": "2026-01-24T14-50-32.json",
       "path": "metadata-plugin-modernizer/pipeline-lib-oras/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2026-01-24T14-50-32"
     },
     {
@@ -67,7 +76,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2026-01-14T12-37-01"
     },
     {
@@ -110,7 +119,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2026-01-14T11-45-14"
     },
     {
@@ -154,7 +163,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2026-01-10T20-36-01"
     },
     {
@@ -197,7 +206,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2026-01-04T09-45-00"
     },
     {
@@ -243,7 +252,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2026-01-03T19-41-07"
     },
     {
@@ -288,7 +297,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2025-10-31T15-40-49"
     },
     {
@@ -333,7 +342,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2025-08-30T13-03-41"
     },
     {
@@ -379,7 +388,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2025-08-09T10-10-22"
     },
     {
@@ -423,7 +432,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "fab1bd598a11c9fa50271658bfbb83796b535814",
+      "defaultBranchLatestCommitSha": "77a7dcf557830e2622e28119df7466baa99cdd35",
       "timestamp": "2025-07-27T11-02-56"
     }
   ]

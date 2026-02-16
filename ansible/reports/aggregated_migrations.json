@@ -17,13 +17,34 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/ansible-plugin/pull/376",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 20,
       "deletions": 0,
       "changedFiles": 2,
       "key": "2026-01-27T06-53-24.json",
       "path": "metadata-plugin-modernizer/ansible/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Incrementals": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "Tests / windows-21 / Build (windows-21)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "59da734016e5d6e9017a75fffcc3de3897d926a2",
       "timestamp": "2026-01-27T06-53-24"
     },
     {
@@ -68,7 +89,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
+      "defaultBranchLatestCommitSha": "59da734016e5d6e9017a75fffcc3de3897d926a2",
       "timestamp": "2026-01-14T13-55-56"
     },
     {
@@ -113,7 +134,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
+      "defaultBranchLatestCommitSha": "59da734016e5d6e9017a75fffcc3de3897d926a2",
       "timestamp": "2026-01-13T12-24-27"
     },
     {
@@ -158,7 +179,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
+      "defaultBranchLatestCommitSha": "59da734016e5d6e9017a75fffcc3de3897d926a2",
       "timestamp": "2026-01-13T09-24-10"
     },
     {
@@ -190,7 +211,7 @@
       },
       "checkRunsSummary": "pending",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "06b7167fba63df9fba4f7c841e36920122a61212",
+      "defaultBranchLatestCommitSha": "59da734016e5d6e9017a75fffcc3de3897d926a2",
       "timestamp": "2026-01-13T09-18-51"
     }
   ]
