@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/ssh-agents-plugin/pull/985",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 10,
       "deletions": 5,
@@ -48,7 +48,7 @@
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "0bcc466e4323dc0d47787b56f3f75b3e91b88a02",
+      "defaultBranchLatestCommitSha": "86811604989281ca1c09cf9de2123b5324065a6f",
       "timestamp": "2026-01-15T14-36-20"
     },
     {
