@@ -1,0 +1,22 @@
+{
+  "name": "metadata-plugin-modernizer",
+  "version": "1.0.0",
+  "description": "Modernization metadata contains information about automated migrations performed on Jenkins plugins using the `plugin-modernizer-tool`. It includes details such as:\r - Pull requests created in the target plugin repositories.\r - Whether the migration for a given plugin succeeded or failed.\r - Whether the pull request made by the plugin-modernizer-tool was merged or not.\r - Other migration-related data points.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "aggregate": "node scripts/aggregate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maanvi212006/metadata-plugin-modernizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Maanvi212006/metadata-plugin-modernizer/issues"
+  },
+  "homepage": "https://github.com/Maanvi212006/metadata-plugin-modernizer#readme"
+}

@@ -1,0 +1,1714 @@
+[
+  {
+    "plugin_name": "absint-a3",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "active-directory",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "adaptive-disconnector",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "advanced-installer-msi-builder",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "agent-loadbalance",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "agent-server-parameter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aio-tests",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "alauda-devops-credentials-provider",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "alauda-devops-pipeline",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "alauda-kubernetes-support",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "alauda-pipeline",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "alibabacloud-credentials",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "alibabacloud-ecs",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "alibabacloud-edas",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aliyun-oss-uploader",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "allure-jenkins-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "anchore-container-scanner",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "android-emulator",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ansible",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ansible-tower",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "apifortress",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "app-detector",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "appcenter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "appetize",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "applatix",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "appray",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "apprenda",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "appscan",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aqua-security-scanner",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "arachni-scanner",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "arestocats",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "artifact-promotion",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "artifactory",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "artifactory-artifact-manager",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "artifactory-client-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "ascentialtest-cmd-line",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "asm-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "audit-log",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "audit2db",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "autoaction-step",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "autocancel",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "autonomiq",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-bucket-credentials",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "aws-codecommit-jobs",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-device-farm",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-kinesis-consumer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-lambda",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-lambda-cloud",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-parameter-store",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-sam",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "aws-sqs-trigger",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "awseb-deployment-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "azure-acs",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "azure-event-grid-notifier",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "backlog",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "backup",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "badge",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "beagle-security",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "bitbucket-approve",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "bitbucket-filter-project-trait",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "bitbucket-kubernetes-credentials",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "bitbucket-pullrequest-builder",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "bitkeeper",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "blackduck-coverity-on-polaris",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "blackduck-security-scan",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "BlazeMeterJenkinsPlugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "blink1",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "block-build-final-project",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "block-queued-job",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "block-same-builds",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "bmc-change-manager-imstm",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "bmc-rpd",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "boot-clj",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "breachlock-dast",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "browserstack-integration",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "btc-embeddedplatform",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "build-blocker-plugin",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "build-discarder",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "build-executors-filter-offline",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "build-health-cache-updater",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "build-history-metrics-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "build-metrics",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "build-token-trigger",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "buildrotator",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "buildtriggerbadge",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "byte-buddy-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "byteguard-build-actions",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "ca-mat-performance-benchmarking-by-broadcom",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ca-service-virtualization",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "carbonetes-serverless-container-scanning-and-policy-compliance",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "categorized-view",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "changelog-history",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "chef-tracking",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "chosen-views-tabbar",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "chromedriver",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "clearcase-ucm-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudbees-devoptics-enabler",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudbees-enabler",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudbees-feature-management",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudbees-jenkins-advisor",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudcoreo-deploytime",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudevents",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "cloudguard-shiftleft",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cloudshare-docker",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cmakebuilder",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "codebeamer-result-trend-updater",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "codebeamer-xunit-importer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "codecommit-url-helper",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "codedx",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "codeql",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "codescene",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "codesonar",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "collabnet",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "command-launcher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "comments-remover",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "commons-lang-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "commons-math3-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "compress-buildlog",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "computer-queue-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-common-configuration",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-strobe-measurement",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-topaz-for-enterprise-data",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-topaz-for-total-test",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-topaz-utilities",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-xpediter-code-coverage",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "compuware-zadviser-api",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "config-driven-pipeline",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "configuration-as-code-secret-ssm",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "consul",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "content-replace",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "continuum",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "conventional-commits",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "convert-to-pipeline",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "coordinator",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "copado",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "copyartifact",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cortex-metrics",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "countjobs-viewstabbar",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "coverage-badges-extension",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "cron-shelve",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "crx-content-package-deployer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cucumber-living-documentation",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "curseforge-publisher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "custom-build-properties",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "custom-checkbox-parameter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "custom-job-icon",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "custom-tools-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "CustomHistory",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "customized-build-message",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "cygwin-process-killer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "dagshub-branch-source",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "daily-quote",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "database-mariadb",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "dbforge-devops-automation-for-sqlserver",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "depbuilder",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "dependency-queue-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "deploy-dashboard",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "deploy-integrationserver",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "describe-with-params",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "description-column-plugin",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "diagnostics",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "diawi-upload",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "digitalocean-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "dingding-json-pusher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "disable-failed-job",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "disable-github-multibranch-status",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "docker-build-publish",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "docker-commons",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "docker-custom-build-environment",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "docker-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "docker-slaves",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "docker-workflow",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "dos-trigger",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "dropdown-viewstabbar-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "dynamic_extended_choice_parameter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ease-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "easyqa",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ec2-fleet",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "eclipse-update-site",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ecs-publisher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "emmacoveragecolumn",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "emotional-jenkins-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "envinject-api",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "environment-filter-utils",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "environment-manager",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "exclusive-label-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "extended-read-permission",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "extension-filter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "extra-columns",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "extra-tool-installers",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "extreme-feedback",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "extreme-notification",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ezwall",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "failedJobDeactivator",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "figlet-buildstep",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "file-operations",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "files-found-trigger",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "filesystem-list-parameter-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "flyway-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "flyway-runner",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "fogbugz",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "fxcop-runner",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "gallio",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "git",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "git-parameter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "git-userContent",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "git-version-monitor",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "gitbucket",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "gitcolony-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "github-issues",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "github-oauth",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "github-organization-folder",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "gitlab-kubernetes-credentials",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "gitlab-oauth",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "google-analytics-usage-reporter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "google-git-notes-publisher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "groovy-label-assignment",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "gson-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "harvest",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "hckrnews",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "heavy-job",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "hidden-parameter",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "housekeeper",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "htmlresource",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "http-post",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "humbug",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "humio",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "hyper-commons",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "hyper-slaves",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ibm-security-appscanstandard-scanner",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "icescrum",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ifttt-build-notifier",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "imagecomparison",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "inflectra-spira-integration",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "integrity-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "internetmeme",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "ipmessenger-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "itest",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ivy",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jackson3-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "jcaptcha-plugin",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "jenkins-flowdock-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jenkinsci-appspider-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jenkinswalldisplay",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jgiven",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jigomerge",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jira",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jira-steps",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jms-messaging",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jnr-posix-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "job-import-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jobcacher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jobcacher-artifactory-storage",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "jobcacher-oras-storage",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "jobdelete-builder",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jobrequeue",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jobrevision",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "jobtemplates",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "joda-time-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "json-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "json-path-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "jsoup",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "jsunit",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "junit-attachments",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "kanboard",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "katalon",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "keep-slave-disconnected",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "kiuwanJenkinsPlugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "klocwork",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "kryptowire",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "kubernetes",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ldap",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "lifx-notifier",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "list-command",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "loadcomplete",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "loadfocus-loadtest",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "locale",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "log-parser",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "login-theme",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "lucene-search",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mailmap-resolver",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "marathon",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mariadb-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "matlab",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "Matrix-sorter-plugin",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "mdtool",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mentor-questa-vrm",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "metrics-datadog",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "metrics-graphite",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mission-control-view",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mqtt-notification-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "msginject",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mttr",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "multi-branch-project-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "multi-module-tests-publisher",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "mysql-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "next-executions",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "nodelabelparameter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "nouvola-divecloud",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "nunit",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "Office-365-Connector",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "one-shot-executor",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "onesky",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "openid4java",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "openshift-k8s-credentials",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "openstack-cloud",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "oracle-cloud-infrastructure-compute",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "oracle-cloud-infrastructure-compute-classic",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "oras-java-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "oss-symbols-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "parallels-desktop",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "parameter-pool",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "parameter-separator",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "parasoft-findings",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "partyparrotstatus",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pending-changes",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "percentage-du-node-column",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "php-builtin-web-server",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pipeline-as-yaml",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-build-step",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-cps-http",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pipeline-cps-oras",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-dependency-walker",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pipeline-graph-analysis",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-groovy-lib",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pipeline-keep-running-step",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-lib-oras",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-multibranch-defaults",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pipeline-npm",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pipeline-stage-view",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "pipeline-utility-steps",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "piwikanalytics",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "popper-api",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "post-completed-build-result",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "postgresql-fingerprint-storage",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "powershell",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "pretested-integration",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "probely-security",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "prqa-plugin",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "puppet",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "qmetry-for-jira-test-management",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "qmetry-test-management",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "qtest",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "quality-gates",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "quayio-trigger",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "qy-wechat-notification",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "radiatorviewplugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "rally-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "readonly-parameters",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "redgate-sql-ci",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "regression-report-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "reports",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "requests",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "reverse-proxy-auth-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "runscope",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "s3-jobcacher-storage",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "safe-batch-environment-filter",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "saml",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "sasunit-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "scm-filter-branch-pr",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "scmskip",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "scripted-cloud-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "selected-tests-executor",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "sensedia-api-platform",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "shared-workspace",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "sidebar-update-notification",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "silk-performer-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "simple-priority-sorter",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "sitemonitor",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "skip-notifications-trait",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "slack-uploader",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "slave-squatter",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "sonar",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "sonarqube-generic-coverage",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "spoonscript",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "spotinst",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "spring-initalzr",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "srcclr-installer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "ssh-slaves",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "stackify-deployment-recorder",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "stoplightio-report",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "svn-partial-release-mgr",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "syslog-logger",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "tekton-client",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "terminal",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "TestComplete",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "TestFairy",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "testingbot",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "testng-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "testodyssey-execution",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "testquality-updater",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "testsigma",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "throttle-concurrents",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "thucydides",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "trac-publisher-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "tracking-svn",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "tuleap-oauth",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "unity3d-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "usage-in-plugins",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "vagrant",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "vault-scm-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "vectorcast-coverage",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "vectorcast-execution",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "view26",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "viewVC",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "vmware-vrealize-automation-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "vmware-vrealize-orchestrator",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "vncrecorder",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "vncviewer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "wavefront",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "webhook-eventsource",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "webload",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "websocket",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "wildfly-deployer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "wix",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "workflow-basic-steps",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "workflow-durable-task-step",
+    "deprecated_apis_used": false
+  },
+  {
+    "plugin_name": "workflow-job",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "workplace-notifier",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "wwpass-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "xframe-filter-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "xpath-config-viewer",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "xunit",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "yandex-metrica",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "youtrack-plugin",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "zapper",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "zentimestamp",
+    "deprecated_apis_used": true
+  },
+  {
+    "plugin_name": "zephyr-enterprise-test-management",
+    "deprecated_apis_used": true
+  }
+]
