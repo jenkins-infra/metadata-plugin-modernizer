@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/jira-plugin/pull/1151",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 23,
       "deletions": 22,
@@ -43,7 +43,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "e953843e065055aa03357de506e8b2e1c1fba5a3",
+      "defaultBranchLatestCommitSha": "45107b660c254303b67ce8ba0d52015cab93734f",
       "timestamp": "2026-01-19T06-58-56"
     }
   ]
