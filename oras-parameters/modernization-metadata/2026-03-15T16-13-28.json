@@ -1,0 +1,25 @@
+{
+  "pluginName": "oras-parameters",
+  "pluginRepository": "https://github.com/jenkinsci/oras-parameters-plugin.git",
+  "pluginVersion": "15.v4142725a_7f94",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Setup auto-merge workflows",
+  "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/oras-parameters-plugin/pull/10",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 20,
+  "deletions": 0,
+  "changedFiles": 2,
+  "key": "2026-03-15T16-13-28.json",
+  "path": "metadata-plugin-modernizer/oras-parameters/modernization-metadata"
+}
