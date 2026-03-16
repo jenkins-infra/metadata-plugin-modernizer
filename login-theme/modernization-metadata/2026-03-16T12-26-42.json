@@ -1,0 +1,24 @@
+{
+  "pluginName": "login-theme",
+  "pluginRepository": "https://github.com/jenkinsci/login-theme-plugin.git",
+  "pluginVersion": "284.v95044396a_484",
+  "jenkinsBaseline": "2.492",
+  "targetBaseline": "2.516",
+  "effectiveBaseline": "2.492",
+  "jenkinsVersion": "2.492.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/login-theme-plugin/pull/173",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 3,
+  "deletions": 4,
+  "changedFiles": 2,
+  "key": "2026-03-16T12-26-42.json",
+  "path": "metadata-plugin-modernizer/login-theme/modernization-metadata"
+}
