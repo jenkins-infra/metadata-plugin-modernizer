@@ -1,0 +1,25 @@
+{
+  "pluginName": "pipeline-as-yaml",
+  "pluginRepository": "https://github.com/jenkinsci/pipeline-as-yaml-plugin.git",
+  "pluginVersion": "270.vc348a_45d9214",
+  "jenkinsBaseline": "2.516",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.516",
+  "jenkinsVersion": "2.516.3",
+  "migrationName": "Switch from Dependabot to Renovate",
+  "migrationDescription": "Switch from Dependabot to Renovate for the Jenkins plugin.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.SwitchToRenovate",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/pipeline-as-yaml-plugin/pull/154",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 6,
+  "deletions": 10,
+  "changedFiles": 2,
+  "key": "2026-03-16T12-41-20.json",
+  "path": "metadata-plugin-modernizer/pipeline-as-yaml/modernization-metadata"
+}
