@@ -1,0 +1,25 @@
+{
+  "pluginName": "database-sqlserver",
+  "pluginRepository": "https://github.com/jenkinsci/database-sqlserver-plugin.git",
+  "pluginVersion": "91.v61e8e4680cdc",
+  "jenkinsBaseline": "2.479",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.479",
+  "jenkinsVersion": "2.479.3",
+  "migrationName": "Switch from Dependabot to Renovate",
+  "migrationDescription": "Switch from Dependabot to Renovate for the Jenkins plugin.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.SwitchToRenovate",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/database-sqlserver-plugin/pull/90",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 6,
+  "deletions": 12,
+  "changedFiles": 2,
+  "key": "2026-03-20T11-25-45.json",
+  "path": "metadata-plugin-modernizer/database-sqlserver/modernization-metadata"
+}
