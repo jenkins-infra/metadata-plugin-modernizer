@@ -1,0 +1,25 @@
+{
+  "pluginName": "sqlserver-api",
+  "pluginRepository": "https://github.com/jenkinsci/sqlserver-api-plugin.git",
+  "pluginVersion": "13.4.0.jre11-211.vc15e6a_3d6e16",
+  "jenkinsBaseline": "2.479",
+  "targetBaseline": "2.479",
+  "effectiveBaseline": "2.479",
+  "jenkinsVersion": "2.479.3",
+  "migrationName": "Setup auto-merge workflows",
+  "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/sqlserver-api-plugin/pull/105",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 20,
+  "deletions": 0,
+  "changedFiles": 2,
+  "key": "2026-03-20T15-47-42.json",
+  "path": "metadata-plugin-modernizer/sqlserver-api/modernization-metadata"
+}
