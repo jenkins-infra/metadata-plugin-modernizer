@@ -1,0 +1,25 @@
+{
+  "pluginName": "database-sqlserver",
+  "pluginRepository": "https://github.com/jenkinsci/database-sqlserver-plugin.git",
+  "pluginVersion": "189.v1570ed89285c",
+  "jenkinsBaseline": "2.516",
+  "targetBaseline": "2.516",
+  "effectiveBaseline": "2.516",
+  "jenkinsVersion": "2.516.3",
+  "migrationName": "Setup auto-merge workflows",
+  "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/database-sqlserver-plugin/pull/94",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 20,
+  "deletions": 0,
+  "changedFiles": 2,
+  "key": "2026-03-20T15-46-07.json",
+  "path": "metadata-plugin-modernizer/database-sqlserver/modernization-metadata"
+}
