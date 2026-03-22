@@ -1,0 +1,77 @@
+{
+  "pluginName": "database-sqlserver",
+  "pluginRepository": "https://github.com/jenkinsci/database-sqlserver-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "189.v1570ed89285c",
+      "jenkinsBaseline": "2.516",
+      "targetBaseline": "2.516",
+      "effectiveBaseline": "2.516",
+      "jenkinsVersion": "2.516.3",
+      "migrationName": "Setup auto-merge workflows",
+      "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/database-sqlserver-plugin/pull/94",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 20,
+      "deletions": 0,
+      "changedFiles": 2,
+      "key": "2026-03-20T15-46-07.json",
+      "path": "metadata-plugin-modernizer/database-sqlserver/modernization-metadata",
+      "timestamp": "2026-03-20T15-46-07"
+    },
+    {
+      "pluginVersion": "91.v61e8e4680cdc",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.516",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/database-sqlserver-plugin/pull/93",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 3,
+      "deletions": 2,
+      "changedFiles": 1,
+      "key": "2026-03-20T12-22-40.json",
+      "path": "metadata-plugin-modernizer/database-sqlserver/modernization-metadata",
+      "timestamp": "2026-03-20T12-22-40"
+    },
+    {
+      "pluginVersion": "91.v61e8e4680cdc",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Switch from Dependabot to Renovate",
+      "migrationDescription": "Switch from Dependabot to Renovate for the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SwitchToRenovate",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/database-sqlserver-plugin/pull/90",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 6,
+      "deletions": 12,
+      "changedFiles": 2,
+      "key": "2026-03-20T11-25-45.json",
+      "path": "metadata-plugin-modernizer/database-sqlserver/modernization-metadata",
+      "timestamp": "2026-03-20T11-25-45"
+    }
+  ]
+}
