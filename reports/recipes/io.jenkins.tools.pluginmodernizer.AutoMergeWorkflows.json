@@ -1,9 +1,24 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
-  "totalApplications": 51,
-  "successCount": 51,
+  "totalApplications": 54,
+  "successCount": 54,
   "failureCount": 0,
   "plugins": [
+    {
+      "pluginName": "sqlserver-api",
+      "status": "success",
+      "timestamp": "2026-03-20T15-47-42"
+    },
+    {
+      "pluginName": "database-sqlserver",
+      "status": "success",
+      "timestamp": "2026-03-20T15-46-07"
+    },
+    {
+      "pluginName": "oras-parameters",
+      "status": "success",
+      "timestamp": "2026-03-15T16-13-28"
+    },
     {
       "pluginName": "mysql-api",
       "status": "success",
