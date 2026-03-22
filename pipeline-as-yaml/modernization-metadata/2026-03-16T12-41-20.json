@@ -15,11 +15,19 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.SwitchToRenovate",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/pipeline-as-yaml-plugin/pull/154",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 6,
   "deletions": 10,
   "changedFiles": 2,
   "key": "2026-03-16T12-41-20.json",
-  "path": "metadata-plugin-modernizer/pipeline-as-yaml/modernization-metadata"
+  "path": "metadata-plugin-modernizer/pipeline-as-yaml/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "pending",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "1febfc679410feea0a941133bee508a8a035d4e3"
 }
