@@ -1,9 +1,24 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.SwitchToRenovate",
-  "totalApplications": 48,
-  "successCount": 48,
+  "totalApplications": 51,
+  "successCount": 51,
   "failureCount": 0,
   "plugins": [
+    {
+      "pluginName": "database-sqlserver",
+      "status": "success",
+      "timestamp": "2026-03-20T11-25-45"
+    },
+    {
+      "pluginName": "sqlserver-api",
+      "status": "success",
+      "timestamp": "2026-03-20T11-23-06"
+    },
+    {
+      "pluginName": "pipeline-as-yaml",
+      "status": "success",
+      "timestamp": "2026-03-16T12-41-20"
+    },
     {
       "pluginName": "ansible",
       "status": "success",
