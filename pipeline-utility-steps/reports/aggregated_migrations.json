@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/pipeline-utility-steps-plugin/pull/485",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 36,
       "deletions": 35,
@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "7437e16851a157e6a28da17c4fa37415daa4c177",
+      "defaultBranchLatestCommitSha": "b4d46819fc49fbe72f63a499d07e0abfbc85e9a6",
       "timestamp": "2026-01-15T16-24-02"
     }
   ]
