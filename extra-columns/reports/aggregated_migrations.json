@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/extra-columns-plugin/pull/96",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 3,
       "deletions": 2,
@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "0c40b4f249dc02e05163dd4d82475a3ac6906415",
+      "defaultBranchLatestCommitSha": "faf2cd763e9b0d293b21b3c33f3a26a5a3ea65a9",
       "timestamp": "2026-01-16T13-43-48"
     }
   ]
