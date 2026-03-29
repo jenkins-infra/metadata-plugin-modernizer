@@ -1,9 +1,24 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
-  "totalApplications": 112,
-  "successCount": 96,
+  "totalApplications": 115,
+  "successCount": 99,
   "failureCount": 16,
   "plugins": [
+    {
+      "pluginName": "database-sqlserver",
+      "status": "success",
+      "timestamp": "2026-03-20T12-22-40"
+    },
+    {
+      "pluginName": "pipeline-as-yaml",
+      "status": "success",
+      "timestamp": "2026-03-16T12-33-00"
+    },
+    {
+      "pluginName": "login-theme",
+      "status": "success",
+      "timestamp": "2026-03-16T12-26-42"
+    },
     {
       "pluginName": "ansible",
       "status": "success",

@@ -4,6 +4,82 @@
   "migrations": [
     {
       "pluginVersion": "270.vc348a_45d9214",
+      "jenkinsBaseline": "2.516",
+      "targetBaseline": "2.479",
+      "effectiveBaseline": "2.516",
+      "jenkinsVersion": "2.516.3",
+      "migrationName": "Switch from Dependabot to Renovate",
+      "migrationDescription": "Switch from Dependabot to Renovate for the Jenkins plugin.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.SwitchToRenovate",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/pipeline-as-yaml-plugin/pull/154",
+      "pullRequestStatus": "merged",
+      "dryRun": false,
+      "additions": 6,
+      "deletions": 10,
+      "changedFiles": 2,
+      "key": "2026-03-16T12-41-20.json",
+      "path": "metadata-plugin-modernizer/pipeline-as-yaml/modernization-metadata",
+      "checkRuns": {
+        "Jenkins": null,
+        "Jenkins Security Scan": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "pending",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "1febfc679410feea0a941133bee508a8a035d4e3",
+      "timestamp": "2026-03-16T12-41-20"
+    },
+    {
+      "pluginVersion": "270.vc348a_45d9214",
+      "jenkinsBaseline": "2.479",
+      "targetBaseline": "2.516",
+      "effectiveBaseline": "2.479",
+      "jenkinsVersion": "2.479.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/pipeline-as-yaml-plugin/pull/152",
+      "pullRequestStatus": "merged",
+      "dryRun": false,
+      "additions": 12,
+      "deletions": 11,
+      "changedFiles": 5,
+      "key": "2026-03-16T12-33-00.json",
+      "path": "metadata-plugin-modernizer/pipeline-as-yaml/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "Code Coverage": "success",
+        "ESLint": "success",
+        "Incrementals": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-21 / Build (linux-21)": "success",
+        "Tests / windows-17 / Build (windows-17)": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "1febfc679410feea0a941133bee508a8a035d4e3",
+      "timestamp": "2026-03-16T12-33-00"
+    },
+    {
+      "pluginVersion": "270.vc348a_45d9214",
       "jenkinsBaseline": "2.479",
       "targetBaseline": "2.479",
       "effectiveBaseline": "2.479",
@@ -43,7 +119,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "180e0892d058ffc8ce35ac6d37fa558aa7d795d9",
+      "defaultBranchLatestCommitSha": "1febfc679410feea0a941133bee508a8a035d4e3",
       "timestamp": "2025-11-02T11-00-41"
     }
   ]
