@@ -1,0 +1,24 @@
+{
+  "pluginName": "exclusive-label-plugin",
+  "pluginRepository": "https://github.com/jenkinsci/exclusive-labels-plugin.git",
+  "pluginVersion": "19.v40532946d413",
+  "jenkinsBaseline": "2.516",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.516",
+  "jenkinsVersion": "2.516.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/exclusive-labels-plugin/pull/21",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-04-06T12-47-26.json",
+  "path": "metadata-plugin-modernizer/exclusive-label-plugin/modernization-metadata"
+}
