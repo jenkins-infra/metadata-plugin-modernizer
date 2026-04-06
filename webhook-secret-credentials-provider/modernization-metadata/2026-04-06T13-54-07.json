@@ -1,0 +1,24 @@
+{
+  "pluginName": "webhook-secret-credentials-provider",
+  "pluginRepository": "https://github.com/jenkinsci/webhook-secret-credentials-provider-plugin.git",
+  "pluginVersion": "16.v0cfa_f0215cf5",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/webhook-secret-credentials-provider-plugin/pull/18",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 1,
+  "changedFiles": 1,
+  "key": "2026-04-06T13-54-07.json",
+  "path": "metadata-plugin-modernizer/webhook-secret-credentials-provider/modernization-metadata"
+}
