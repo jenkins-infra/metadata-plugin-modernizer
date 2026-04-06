@@ -1,0 +1,24 @@
+{
+  "pluginName": "postgresql-fingerprint-storage",
+  "pluginRepository": "https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin.git",
+  "pluginVersion": "426.vf9f89a_59cc26",
+  "jenkinsBaseline": "2.504",
+  "targetBaseline": "2.504",
+  "effectiveBaseline": "2.504",
+  "jenkinsVersion": "2.504.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "fail",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-04-06T13-43-34.json",
+  "path": "metadata-plugin-modernizer/postgresql-fingerprint-storage/modernization-metadata"
+}
