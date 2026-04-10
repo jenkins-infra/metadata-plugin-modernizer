@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 0 * * 0'  # runs weekly
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   fetch-metadata:
@@ -22,7 +24,7 @@ jobs:
 
       - name: Fetch plugin metadata
         run: |
-          node scripts/fetch-metadata.js
+          node scripts/fetch_metadata.js
 
       - name: Commit generated data
         run: |
@@ -31,4 +33,3 @@ jobs:
           git add usage-by-plugins.json
           git commit -m "Update plugin usage metadata [skip ci]" || echo "No changes"
           git push
-          
