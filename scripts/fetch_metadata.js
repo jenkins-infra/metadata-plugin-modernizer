@@ -1,8 +1,17 @@
-// scripts/fetch_metadata.js (temporary for testing)
+// scripts/fetch_metadata.js
+// TODO: Implement real fetching from Jenkins Update Center
+
 const fs = require('fs');
 
-// Dummy metadata to test workflow
-const metadata = [{ name: "dummy-plugin", deprecated: false }];
+console.log('=== Plugin Metadata Fetch Started ===');
 
-fs.writeFileSync('usage-by-plugins.json', JSON.stringify(metadata, null, 2));
-console.log('Updated usage-by-plugins.json (dummy)');
+const data = {
+  lastUpdated: new Date().toISOString(),
+  totalPlugins: 0,                    // TODO: fetch real count
+  message: "Plugin usage metadata updated via GitHub Actions workflow",
+  note: "Real data fetching logic will be added based on mentor feedback"
+};
+
+fs.writeFileSync('usage-by-plugins.json', JSON.stringify(data, null, 2) + '\n');
+
+console.log('Successfully updated usage-by-plugins.json');
