@@ -1,16 +1,16 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-04-06 00:56:22 UTC
+Generated on: 2026-04-15 00:59:21 UTC
 
 ## Overview
-- **Total Migrations**: 1244
-- **Failed Migrations**: 587
-- **Success Rate**: 52.81%
+- **Total Migrations**: 1279
+- **Failed Migrations**: 588
+- **Success Rate**: 54.03%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion: 32 failures
-- io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 16 failures
+- io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 17 failures
 - io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 5 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
@@ -190,6 +190,7 @@ Generated on: 2026-04-06 00:56:22 UTC
 - [pipeline-multibranch-defaults](../pipeline-multibranch-defaults/reports/failed_migrations.csv)
 - [piwikanalytics](../piwikanalytics/reports/failed_migrations.csv)
 - [post-completed-build-result](../post-completed-build-result/reports/failed_migrations.csv)
+- [postgresql-fingerprint-storage](../postgresql-fingerprint-storage/reports/failed_migrations.csv)
 - [pretested-integration](../pretested-integration/reports/failed_migrations.csv)
 - [probely-security](../probely-security/reports/failed_migrations.csv)
 - [puppet](../puppet/reports/failed_migrations.csv)
@@ -252,10 +253,30 @@ Generated on: 2026-04-06 00:56:22 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 541 | - |
-| Open PRs | 80 | 14.79% |
-| Closed PRs | 26 | 4.81% |
-| Merged PRs | 435 | 80.41% |
+| Total PRs | 575 | - |
+| Open PRs | 114 | 19.83% |
+| Closed PRs | 26 | 4.52% |
+| Merged PRs | 435 | 75.65% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
+
+## Migration Timeline
+- **2025-06**: 1 success, 1 fail, 2 total
+- **2025-07**: 164 success, 377 fail, 541 total
+- **2025-08**: 50 success, 5 fail, 55 total
+- **2025-09**: 50 success, 181 fail, 231 total
+- **2025-10**: 25 success, 9 fail, 34 total
+- **2025-11**: 5 success, 2 fail, 7 total
+- **2026-01**: 300 success, 12 fail, 312 total
+- **2026-02**: 3 success, 0 fail, 3 total
+- **2026-03**: 9 success, 0 fail, 9 total
+- **2026-04**: 34 success, 1 fail, 35 total
+
+## Tags
+- **skip-verification**: 756
+- **chore**: 756
+- **dependencies**: 361
+- **migration**: 192
+- **developer**: 156
+- **testing**: 6
