@@ -1,8 +1,8 @@
 {
-  "generatedOn": "2026-04-06 00:56:22 UTC",
-  "totalMigrations": 1244,
-  "failedMigrations": 587,
-  "successRate": 52.81,
+  "generatedOn": "2026-04-15 00:59:21 UTC",
+  "totalMigrations": 1279,
+  "failedMigrations": 588,
+  "successRate": 54.03,
   "failuresByRecipe": [
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
@@ -14,7 +14,7 @@
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
-      "failures": 16
+      "failures": 17
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
@@ -216,6 +216,7 @@
     "pipeline-multibranch-defaults",
     "piwikanalytics",
     "post-completed-build-result",
+    "postgresql-fingerprint-storage",
     "pretested-integration",
     "probely-security",
     "puppet",
@@ -275,12 +276,100 @@
     "zentimestamp"
   ],
   "pullRequestStats": {
-    "total": 541,
-    "open": 80,
+    "total": 575,
+    "open": 114,
     "closed": 26,
     "merged": 435,
-    "openRate": 14.79,
-    "closedRate": 4.81,
-    "mergeRate": 80.41
-  }
+    "openRate": 19.83,
+    "closedRate": 4.52,
+    "mergeRate": 75.65
+  },
+  "timeline": [
+    {
+      "month": "2025-06",
+      "success": 1,
+      "fail": 1,
+      "total": 2
+    },
+    {
+      "month": "2025-07",
+      "success": 164,
+      "fail": 377,
+      "total": 541
+    },
+    {
+      "month": "2025-08",
+      "success": 50,
+      "fail": 5,
+      "total": 55
+    },
+    {
+      "month": "2025-09",
+      "success": 50,
+      "fail": 181,
+      "total": 231
+    },
+    {
+      "month": "2025-10",
+      "success": 25,
+      "fail": 9,
+      "total": 34
+    },
+    {
+      "month": "2025-11",
+      "success": 5,
+      "fail": 2,
+      "total": 7
+    },
+    {
+      "month": "2026-01",
+      "success": 300,
+      "fail": 12,
+      "total": 312
+    },
+    {
+      "month": "2026-02",
+      "success": 3,
+      "fail": 0,
+      "total": 3
+    },
+    {
+      "month": "2026-03",
+      "success": 9,
+      "fail": 0,
+      "total": 9
+    },
+    {
+      "month": "2026-04",
+      "success": 34,
+      "fail": 1,
+      "total": 35
+    }
+  ],
+  "tags": [
+    {
+      "tag": "skip-verification",
+      "count": 756
+    },
+    {
+      "tag": "chore",
+      "count": 756
+    },
+    {
+      "tag": "dependencies",
+      "count": 361
+    },
+    {
+      "tag": "migration",
+      "count": 192
+    },
+    {
+      "tag": "developer",
+      "count": 156
+    },
+    {
+      "tag": "testing",
+      "count": 6
+    }
+  ]
 }
