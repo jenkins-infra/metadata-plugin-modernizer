@@ -1,0 +1,25 @@
+{
+  "pluginName": "flyway-runner",
+  "pluginRepository": "https://github.com/jenkinsci/flyway-runner-plugin.git",
+  "pluginVersion": "282.v7e837c0b_ff13",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/flyway-runner-plugin/pull/158",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T09-49-13.json",
+  "path": "metadata-plugin-modernizer/flyway-runner/modernization-metadata"
+}
