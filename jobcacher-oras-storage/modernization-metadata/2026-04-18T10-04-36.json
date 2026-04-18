@@ -1,0 +1,25 @@
+{
+  "pluginName": "jobcacher-oras-storage",
+  "pluginRepository": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin.git",
+  "pluginVersion": "128.v17124edd7332",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin/pull/73",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T10-04-36.json",
+  "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata"
+}
