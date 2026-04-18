@@ -1,0 +1,25 @@
+{
+  "pluginName": "extended-read-permission",
+  "pluginRepository": "https://github.com/jenkinsci/extended-read-permission-plugin.git",
+  "pluginVersion": "68.vd270568a_7520",
+  "jenkinsBaseline": "",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/extended-read-permission-plugin/pull/57",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T09-43-10.json",
+  "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata"
+}
