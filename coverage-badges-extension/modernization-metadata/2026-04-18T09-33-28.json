@@ -1,0 +1,25 @@
+{
+  "pluginName": "coverage-badges-extension",
+  "pluginRepository": "https://github.com/jenkinsci/coverage-badges-extension-plugin.git",
+  "pluginVersion": "197.vb_390173d00ec",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/coverage-badges-extension-plugin/pull/132",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T09-33-28.json",
+  "path": "metadata-plugin-modernizer/coverage-badges-extension/modernization-metadata"
+}
