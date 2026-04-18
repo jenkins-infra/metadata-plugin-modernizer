@@ -1,0 +1,25 @@
+{
+  "pluginName": "database-mariadb",
+  "pluginRepository": "https://github.com/jenkinsci/database-mariadb-plugin.git",
+  "pluginVersion": "182.v8f1d21b_7c825",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/database-mariadb-plugin/pull/118",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T09-35-25.json",
+  "path": "metadata-plugin-modernizer/database-mariadb/modernization-metadata"
+}
