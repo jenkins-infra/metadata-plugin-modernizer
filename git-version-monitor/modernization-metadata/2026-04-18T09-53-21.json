@@ -1,0 +1,25 @@
+{
+  "pluginName": "git-version-monitor",
+  "pluginRepository": "https://github.com/jenkinsci/git-version-monitor-plugin.git",
+  "pluginVersion": "41.v0cfdf922b_b_0c",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/git-version-monitor-plugin/pull/39",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T09-53-21.json",
+  "path": "metadata-plugin-modernizer/git-version-monitor/modernization-metadata"
+}
