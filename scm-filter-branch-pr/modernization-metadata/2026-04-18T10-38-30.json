@@ -1,0 +1,25 @@
+{
+  "pluginName": "scm-filter-branch-pr",
+  "pluginRepository": "https://github.com/jenkinsci/scm-filter-branch-pr-plugin.git",
+  "pluginVersion": "264.v39ce4f34d572",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/scm-filter-branch-pr-plugin/pull/136",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T10-38-30.json",
+  "path": "metadata-plugin-modernizer/scm-filter-branch-pr/modernization-metadata"
+}
