@@ -1,0 +1,25 @@
+{
+  "pluginName": "pipeline-lib-oras",
+  "pluginRepository": "https://github.com/jenkinsci/pipeline-lib-oras-plugin.git",
+  "pluginVersion": "90.vecb_55543088a_",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/pipeline-lib-oras-plugin/pull/55",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T10-27-34.json",
+  "path": "metadata-plugin-modernizer/pipeline-lib-oras/modernization-metadata"
+}
