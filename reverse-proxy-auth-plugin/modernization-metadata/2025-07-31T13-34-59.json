@@ -27,7 +27,7 @@
     "pre-commit": "success",
     "security-scan / scan": "success"
   },
-  "checkRunsSummary": "pending",
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "b2d0ef82cf2cd9a0655c8be37ae54efd6594b2cf"
 }
