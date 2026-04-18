@@ -1,0 +1,25 @@
+{
+  "pluginName": "next-executions",
+  "pluginRepository": "https://github.com/jenkinsci/next-executions-plugin.git",
+  "pluginVersion": "517.vc2c2ca_1b_c808",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/next-executions-plugin/pull/223",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T10-13-36.json",
+  "path": "metadata-plugin-modernizer/next-executions/modernization-metadata"
+}
