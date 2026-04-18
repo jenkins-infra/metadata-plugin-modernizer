@@ -1,0 +1,25 @@
+{
+  "pluginName": "extra-tool-installers",
+  "pluginRepository": "https://github.com/jenkinsci/extra-tool-installers-plugin.git",
+  "pluginVersion": "211.v880567f652f0",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/extra-tool-installers-plugin/pull/196",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T09-41-36.json",
+  "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata"
+}
