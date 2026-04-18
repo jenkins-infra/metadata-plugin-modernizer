@@ -40,7 +40,7 @@
     "auto-merge-safe-deps / auto-merge": "success",
     "security-scan / scan": "success"
   },
-  "checkRunsSummary": "pending",
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "7d122e63010dcd0f9f56c793c190c030ffbc69ed"
 }

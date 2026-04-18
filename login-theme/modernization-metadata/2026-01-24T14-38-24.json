@@ -39,7 +39,7 @@
     "Tests / windows-21 / Build (windows-21)": "success",
     "security-scan / scan": "success"
   },
-  "checkRunsSummary": "pending",
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "b297d7ba027f5e97f91fe41bbd617d94f4cfdf47"
 }

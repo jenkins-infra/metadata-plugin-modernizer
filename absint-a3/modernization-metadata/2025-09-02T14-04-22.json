@@ -24,7 +24,7 @@
   "checkRuns": {
     "Jenkins": null
   },
-  "checkRunsSummary": "pending",
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "87b04253970c882ab050c089eca8c441ef18317b"
 }
