@@ -1,0 +1,25 @@
+{
+  "pluginName": "skip-notifications-trait",
+  "pluginRepository": "https://github.com/jenkinsci/skip-notifications-trait-plugin.git",
+  "pluginVersion": "576.v7a_67396e2e0b_",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/skip-notifications-trait-plugin/pull/317",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-04-18T10-41-15.json",
+  "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata"
+}
