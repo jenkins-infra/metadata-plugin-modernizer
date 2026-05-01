@@ -29,7 +29,7 @@
         "Jenkins Security Scan": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "89a0ee6b0a63c3abb96e3f9c56b4159e9f894435",
       "timestamp": "2026-01-19T13-58-32"

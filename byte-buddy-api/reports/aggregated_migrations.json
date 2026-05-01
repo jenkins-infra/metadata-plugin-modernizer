@@ -30,7 +30,7 @@
         "Tests / linux-25 / Build (linux-25)": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "a3eadef0aef104aadaccee51a78cff04ba9476a6",
       "timestamp": "2026-01-24T14-06-37"

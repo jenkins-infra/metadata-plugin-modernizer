@@ -37,7 +37,7 @@
         "Tests / linux-11 / Build (linux-11)": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "94a9aa3ec8c045b3dbb7e927e092e538c519e012",
       "timestamp": "2025-07-07T08-34-55"

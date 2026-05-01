@@ -4,6 +4,30 @@
   "migrations": [
     {
       "pluginVersion": "218.vb_b_f388660e8b_",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin/pull/127",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T10-02-34.json",
+      "path": "metadata-plugin-modernizer/jobcacher-artifactory-storage/modernization-metadata",
+      "timestamp": "2026-04-18T10-02-34"
+    },
+    {
+      "pluginVersion": "218.vb_b_f388660e8b_",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.516",
@@ -74,7 +98,7 @@
         "Tests / linux-25 / Build (linux-25)": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "9d790f494c341d28fb99e7dad82f6124a662245f",
       "timestamp": "2026-01-24T14-29-14"

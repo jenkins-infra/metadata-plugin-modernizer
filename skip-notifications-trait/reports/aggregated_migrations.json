@@ -4,6 +4,54 @@
   "migrations": [
     {
       "pluginVersion": "576.v7a_67396e2e0b_",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Remove Release Drafter if CD is enabled",
+      "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/skip-notifications-trait-plugin/pull/322",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2026-04-25T16-48-58.json",
+      "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata",
+      "timestamp": "2026-04-25T16-48-58"
+    },
+    {
+      "pluginVersion": "576.v7a_67396e2e0b_",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/skip-notifications-trait-plugin/pull/317",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T10-41-15.json",
+      "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata",
+      "timestamp": "2026-04-18T10-41-15"
+    },
+    {
+      "pluginVersion": "576.v7a_67396e2e0b_",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.516",
@@ -74,7 +122,7 @@
         "Tests / linux-25 / Build (linux-25)": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "8948314994d68bfceeef178e2da64f47abc5c29f",
       "timestamp": "2026-01-24T14-57-10"

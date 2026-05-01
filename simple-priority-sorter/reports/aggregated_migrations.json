@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/simple-priority-sorter-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "47.v920b_a_09b_0e77",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/simple-priority-sorter-plugin/pull/33",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T10-43-31.json",
+      "path": "metadata-plugin-modernizer/simple-priority-sorter/modernization-metadata",
+      "timestamp": "2026-04-18T10-43-31"
+    },
+    {
       "pluginVersion": "36.v0c14c3a_9f60d",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
@@ -74,7 +98,7 @@
         "Tests / linux-25 / Build (linux-25)": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "920ba09b0e776b95366f8d0c4509bc56b220af38",
       "timestamp": "2026-01-24T14-58-23"

@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/ldap-plugin/pull/372",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 11,
       "deletions": 7,
@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "256a79043f6ef43fa9a7bf8f24d667a71301559c",
+      "defaultBranchLatestCommitSha": "af4a70e14df5ae0762bc4a41e4458c96fb5d156f",
       "timestamp": "2025-09-09T17-10-47"
     }
   ]

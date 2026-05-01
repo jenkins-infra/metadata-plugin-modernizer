@@ -4,6 +4,30 @@
   "migrations": [
     {
       "pluginVersion": "62.v260cb_8db_5b_fa_",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/s3-jobcacher-storage-plugin/pull/68",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T10-36-45.json",
+      "path": "metadata-plugin-modernizer/s3-jobcacher-storage/modernization-metadata",
+      "timestamp": "2026-04-18T10-36-45"
+    },
+    {
+      "pluginVersion": "62.v260cb_8db_5b_fa_",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.516",
@@ -73,7 +97,7 @@
         "Jenkins Security Scan": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "0c4935c6d37a5d114e3f806332c0969c51c9d515",
       "timestamp": "2026-01-24T14-54-35"
