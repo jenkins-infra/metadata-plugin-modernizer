@@ -1,11 +1,11 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-04-18 00:53:50 UTC
+Generated on: 2026-05-01 01:10:10 UTC
 
 ## Overview
-- **Total Migrations**: 1279
-- **Failed Migrations**: 588
-- **Success Rate**: 54.03%
+- **Total Migrations**: 1316
+- **Failed Migrations**: 589
+- **Success Rate**: 55.24%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
@@ -16,6 +16,7 @@ Generated on: 2026-04-18 00:53:50 UTC
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
+- io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
 - io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
 
@@ -145,6 +146,7 @@ Generated on: 2026-04-18 00:53:50 UTC
 - [jgiven](../jgiven/reports/failed_migrations.csv)
 - [jigomerge](../jigomerge/reports/failed_migrations.csv)
 - [jira-steps](../jira-steps/reports/failed_migrations.csv)
+- [jobcacher](../jobcacher/reports/failed_migrations.csv)
 - [jobdelete-builder](../jobdelete-builder/reports/failed_migrations.csv)
 - [jobrequeue](../jobrequeue/reports/failed_migrations.csv)
 - [jobrevision](../jobrevision/reports/failed_migrations.csv)
@@ -253,10 +255,10 @@ Generated on: 2026-04-18 00:53:50 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 575 | - |
-| Open PRs | 80 | 13.91% |
-| Closed PRs | 30 | 5.22% |
-| Merged PRs | 465 | 80.87% |
+| Total PRs | 611 | - |
+| Open PRs | 115 | 18.82% |
+| Closed PRs | 31 | 5.07% |
+| Merged PRs | 465 | 76.10% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
@@ -271,12 +273,12 @@ Generated on: 2026-04-18 00:53:50 UTC
 - **2026-01**: 300 success, 12 fail, 312 total
 - **2026-02**: 3 success, 0 fail, 3 total
 - **2026-03**: 9 success, 0 fail, 9 total
-- **2026-04**: 34 success, 1 fail, 35 total
+- **2026-04**: 70 success, 2 fail, 72 total
 
 ## Tags
-- **skip-verification**: 756
-- **chore**: 756
-- **dependencies**: 361
-- **migration**: 192
+- **skip-verification**: 758
+- **chore**: 758
+- **dependencies**: 396
+- **migration**: 227
 - **developer**: 156
 - **testing**: 6

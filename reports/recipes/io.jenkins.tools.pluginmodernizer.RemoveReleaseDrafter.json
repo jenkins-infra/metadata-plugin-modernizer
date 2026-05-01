@@ -1,0 +1,18 @@
+{
+  "recipeId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "totalApplications": 2,
+  "successCount": 2,
+  "failureCount": 0,
+  "plugins": [
+    {
+      "pluginName": "bitbucket-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-04-25T16-50-23"
+    },
+    {
+      "pluginName": "skip-notifications-trait",
+      "status": "success",
+      "timestamp": "2026-04-25T16-48-58"
+    }
+  ]
+}

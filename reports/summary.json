@@ -1,8 +1,8 @@
 {
-  "generatedOn": "2026-04-18 00:53:50 UTC",
-  "totalMigrations": 1279,
-  "failedMigrations": 588,
-  "successRate": 54.03,
+  "generatedOn": "2026-05-01 01:10:10 UTC",
+  "totalMigrations": 1316,
+  "failedMigrations": 589,
+  "successRate": 55.24,
   "failuresByRecipe": [
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
@@ -34,6 +34,10 @@
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
+      "failures": 1
+    },
+    {
+      "recipeId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
       "failures": 1
     },
     {
@@ -171,6 +175,7 @@
     "jgiven",
     "jigomerge",
     "jira-steps",
+    "jobcacher",
     "jobdelete-builder",
     "jobrequeue",
     "jobrevision",
@@ -276,13 +281,13 @@
     "zentimestamp"
   ],
   "pullRequestStats": {
-    "total": 575,
-    "open": 80,
-    "closed": 30,
+    "total": 611,
+    "open": 115,
+    "closed": 31,
     "merged": 465,
-    "openRate": 13.91,
-    "closedRate": 5.22,
-    "mergeRate": 80.87
+    "openRate": 18.82,
+    "closedRate": 5.07,
+    "mergeRate": 76.1
   },
   "timeline": [
     {
@@ -341,27 +346,27 @@
     },
     {
       "month": "2026-04",
-      "success": 34,
-      "fail": 1,
-      "total": 35
+      "success": 70,
+      "fail": 2,
+      "total": 72
     }
   ],
   "tags": [
     {
       "tag": "skip-verification",
-      "count": 756
+      "count": 758
     },
     {
       "tag": "chore",
-      "count": 756
+      "count": 758
     },
     {
       "tag": "dependencies",
-      "count": 361
+      "count": 396
     },
     {
       "tag": "migration",
-      "count": 192
+      "count": 227
     },
     {
       "tag": "developer",
