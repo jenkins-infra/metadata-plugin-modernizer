@@ -4,6 +4,54 @@
   "migrations": [
     {
       "pluginVersion": "613.v124fea_1166d5",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Remove Release Drafter if CD is enabled",
+      "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/bitbucket-kubernetes-credentials-plugin/pull/361",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 1,
+      "changedFiles": 1,
+      "key": "2026-04-25T16-50-23.json",
+      "path": "metadata-plugin-modernizer/bitbucket-kubernetes-credentials/modernization-metadata",
+      "timestamp": "2026-04-25T16-50-23"
+    },
+    {
+      "pluginVersion": "613.v124fea_1166d5",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/bitbucket-kubernetes-credentials-plugin/pull/356",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T09-29-10.json",
+      "path": "metadata-plugin-modernizer/bitbucket-kubernetes-credentials/modernization-metadata",
+      "timestamp": "2026-04-18T09-29-10"
+    },
+    {
+      "pluginVersion": "613.v124fea_1166d5",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.516",

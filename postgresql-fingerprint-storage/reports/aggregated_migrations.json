@@ -8,6 +8,30 @@
       "targetBaseline": "2.504",
       "effectiveBaseline": "2.504",
       "jenkinsVersion": "2.504.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin/pull/408",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T10-34-00.json",
+      "path": "metadata-plugin-modernizer/postgresql-fingerprint-storage/modernization-metadata",
+      "timestamp": "2026-04-18T10-34-00"
+    },
+    {
+      "pluginVersion": "426.vf9f89a_59cc26",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.3",
       "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
       "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
       "tags": [
@@ -52,7 +76,7 @@
         "Jenkins Security Scan": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "bbfd39de2f6048b9b651515ee7ab215e27cd0642",
       "timestamp": "2026-01-24T14-53-13"

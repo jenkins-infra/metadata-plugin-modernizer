@@ -4,6 +4,30 @@
   "migrations": [
     {
       "pluginVersion": "325.v94b_7548124cb_",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/login-theme-plugin/pull/176",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-04-18T10-10-55.json",
+      "path": "metadata-plugin-modernizer/login-theme/modernization-metadata",
+      "timestamp": "2026-04-18T10-10-55"
+    },
+    {
+      "pluginVersion": "325.v94b_7548124cb_",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.516",
@@ -129,7 +153,7 @@
         "Tests / windows-21 / Build (windows-21)": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "b297d7ba027f5e97f91fe41bbd617d94f4cfdf47",
       "timestamp": "2026-01-24T14-38-24"

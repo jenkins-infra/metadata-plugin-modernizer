@@ -4,6 +4,30 @@
   "migrations": [
     {
       "pluginVersion": "826.v5e8436d03083",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `ban-deprecated-stapler.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-04-18T10-00-30.json",
+      "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata",
+      "timestamp": "2026-04-18T10-00-30"
+    },
+    {
+      "pluginVersion": "826.v5e8436d03083",
       "jenkinsBaseline": "2.516",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.516",
@@ -75,7 +99,7 @@
         "Jenkins Security Scan": "success",
         "security-scan / scan": "success"
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "main",
       "defaultBranchLatestCommitSha": "cffa6334e0d65d25c12a948366025be719d042d1",
       "timestamp": "2026-01-24T14-28-01"

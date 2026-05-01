@@ -58,7 +58,7 @@
       "checkRuns": {
         "Jenkins": null
       },
-      "checkRunsSummary": "pending",
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "d488a2734e302b3f68a3f3e02c05338c0a577ad2",
       "timestamp": "2025-08-18T13-42-12"
