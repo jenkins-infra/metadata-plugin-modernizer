@@ -15,11 +15,22 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/skip-notifications-trait-plugin/pull/322",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 0,
   "deletions": 1,
   "changedFiles": 1,
   "key": "2026-04-25T16-48-58.json",
-  "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata"
+  "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata",
+  "checkRuns": {
+    "Incrementals": "success",
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "Tests / linux-25 / Build (linux-25)": "success",
+    "auto-merge-safe-deps / auto-merge": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "success",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "bf5e11e9b158433b46ae45728a0828173cc3818f"
 }
