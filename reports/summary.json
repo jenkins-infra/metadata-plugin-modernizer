@@ -1,8 +1,8 @@
 {
-  "generatedOn": "2026-05-01 01:10:10 UTC",
-  "totalMigrations": 1316,
+  "generatedOn": "2026-05-05 01:00:36 UTC",
+  "totalMigrations": 1317,
   "failedMigrations": 589,
-  "successRate": 55.24,
+  "successRate": 55.28,
   "failuresByRecipe": [
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
@@ -281,13 +281,13 @@
     "zentimestamp"
   ],
   "pullRequestStats": {
-    "total": 611,
-    "open": 115,
+    "total": 612,
+    "open": 80,
     "closed": 31,
-    "merged": 465,
-    "openRate": 18.82,
+    "merged": 501,
+    "openRate": 13.07,
     "closedRate": 5.07,
-    "mergeRate": 76.1
+    "mergeRate": 81.86
   },
   "timeline": [
     {
@@ -349,16 +349,22 @@
       "success": 70,
       "fail": 2,
       "total": 72
+    },
+    {
+      "month": "2026-05",
+      "success": 1,
+      "fail": 0,
+      "total": 1
     }
   ],
   "tags": [
     {
       "tag": "skip-verification",
-      "count": 758
+      "count": 759
     },
     {
       "tag": "chore",
-      "count": 758
+      "count": 759
     },
     {
       "tag": "dependencies",
