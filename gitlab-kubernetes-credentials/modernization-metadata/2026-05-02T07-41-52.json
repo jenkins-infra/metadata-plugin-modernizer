@@ -15,11 +15,20 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/gitlab-kubernetes-credentials-plugin/pull/311",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 0,
   "deletions": 1,
   "changedFiles": 1,
   "key": "2026-05-02T07-41-52.json",
-  "path": "metadata-plugin-modernizer/gitlab-kubernetes-credentials/modernization-metadata"
+  "path": "metadata-plugin-modernizer/gitlab-kubernetes-credentials/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": null,
+    "Jenkins Security Scan": "success",
+    "auto-merge-safe-deps / auto-merge": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "success",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "aabc6e69c21023f42e98cf17ca566c52afa59be9"
 }
