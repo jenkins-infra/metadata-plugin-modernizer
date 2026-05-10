@@ -5,7 +5,7 @@ charset-normalizer==3.4.2
 cryptography==45.0.4
 Deprecated==1.2.18
 idna==3.10
-jsonschema==4.24.0
+jsonschema==4.26.0
 jsonschema-specifications==2025.4.1
 pycparser==2.22
 PyGithub==2.6.1
