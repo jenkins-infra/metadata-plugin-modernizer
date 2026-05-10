@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
-  "totalApplications": 2,
-  "successCount": 2,
+  "totalApplications": 3,
+  "successCount": 3,
   "failureCount": 0,
   "plugins": [
+    {
+      "pluginName": "gitlab-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-05-02T07-41-52"
+    },
     {
       "pluginName": "bitbucket-kubernetes-credentials",
       "status": "success",
