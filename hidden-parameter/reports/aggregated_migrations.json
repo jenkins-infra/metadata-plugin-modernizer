@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/hidden-parameter-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "546.vdeec4ce8b_26f",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/hidden-parameter-plugin/pull/266",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-05-23T16-36-18.json",
+      "path": "metadata-plugin-modernizer/hidden-parameter/modernization-metadata",
+      "timestamp": "2026-05-23T16-36-18"
+    },
+    {
       "pluginVersion": "504.v610a_b_b_c05003",
       "jenkinsBaseline": "2.528",
       "targetBaseline": "2.528",
