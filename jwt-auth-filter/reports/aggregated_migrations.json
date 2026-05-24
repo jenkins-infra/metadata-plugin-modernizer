@@ -1,0 +1,30 @@
+{
+  "pluginName": "jwt-auth-filter",
+  "pluginRepository": "https://github.com/jenkinsci/jwt-auth-filter-plugin.git",
+  "migrations": [
+    {
+      "pluginVersion": "36.v4a_80b_6b_209a_4",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-05-23T15-41-55.json",
+      "path": "metadata-plugin-modernizer/jwt-auth-filter/modernization-metadata",
+      "timestamp": "2026-05-23T15-41-55"
+    }
+  ]
+}
