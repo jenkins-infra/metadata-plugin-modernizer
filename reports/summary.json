@@ -1,8 +1,8 @@
 {
-  "generatedOn": "2026-05-23 01:09:17 UTC",
-  "totalMigrations": 1317,
-  "failedMigrations": 589,
-  "successRate": 55.28,
+  "generatedOn": "2026-05-24 01:14:57 UTC",
+  "totalMigrations": 1334,
+  "failedMigrations": 590,
+  "successRate": 55.77,
   "failuresByRecipe": [
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
@@ -31,6 +31,10 @@
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion",
       "failures": 2
+    },
+    {
+      "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "failures": 1
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
@@ -181,6 +185,7 @@
     "jobrevision",
     "jobtemplates",
     "jsunit",
+    "jwt-auth-filter",
     "kanboard",
     "keep-slave-disconnected",
     "kiuwanJenkinsPlugin",
@@ -281,13 +286,13 @@
     "zentimestamp"
   ],
   "pullRequestStats": {
-    "total": 612,
-    "open": 79,
+    "total": 628,
+    "open": 95,
     "closed": 31,
     "merged": 502,
-    "openRate": 12.91,
-    "closedRate": 5.07,
-    "mergeRate": 82.03
+    "openRate": 15.13,
+    "closedRate": 4.94,
+    "mergeRate": 79.94
   },
   "timeline": [
     {
@@ -352,9 +357,9 @@
     },
     {
       "month": "2026-05",
-      "success": 1,
-      "fail": 0,
-      "total": 1
+      "success": 17,
+      "fail": 1,
+      "total": 18
     }
   ],
   "tags": [
@@ -368,11 +373,11 @@
     },
     {
       "tag": "dependencies",
-      "count": 396
+      "count": 413
     },
     {
       "tag": "migration",
-      "count": 227
+      "count": 244
     },
     {
       "tag": "developer",
