@@ -1,0 +1,93 @@
+{
+  "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "totalApplications": 17,
+  "successCount": 16,
+  "failureCount": 1,
+  "plugins": [
+    {
+      "pluginName": "jcaptcha-plugin",
+      "status": "success",
+      "timestamp": "2026-05-23T16-37-50"
+    },
+    {
+      "pluginName": "hidden-parameter",
+      "status": "success",
+      "timestamp": "2026-05-23T16-36-18"
+    },
+    {
+      "pluginName": "git-version-monitor",
+      "status": "success",
+      "timestamp": "2026-05-23T16-34-15"
+    },
+    {
+      "pluginName": "gitlab-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-05-23T16-32-30"
+    },
+    {
+      "pluginName": "flyway-runner",
+      "status": "success",
+      "timestamp": "2026-05-23T16-30-18"
+    },
+    {
+      "pluginName": "file-operations",
+      "status": "success",
+      "timestamp": "2026-05-23T16-27-36"
+    },
+    {
+      "pluginName": "extended-read-permission",
+      "status": "success",
+      "timestamp": "2026-05-23T16-24-16"
+    },
+    {
+      "pluginName": "extra-tool-installers",
+      "status": "success",
+      "timestamp": "2026-05-23T16-22-42"
+    },
+    {
+      "pluginName": "extension-filter",
+      "status": "success",
+      "timestamp": "2026-05-23T16-20-43"
+    },
+    {
+      "pluginName": "exclusive-label-plugin",
+      "status": "success",
+      "timestamp": "2026-05-23T16-18-47"
+    },
+    {
+      "pluginName": "database-mariadb",
+      "status": "success",
+      "timestamp": "2026-05-23T16-16-55"
+    },
+    {
+      "pluginName": "coverage-badges-extension",
+      "status": "success",
+      "timestamp": "2026-05-23T16-15-17"
+    },
+    {
+      "pluginName": "build-history-metrics-plugin",
+      "status": "success",
+      "timestamp": "2026-05-23T16-13-07"
+    },
+    {
+      "pluginName": "bitbucket-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-05-23T16-10-58"
+    },
+    {
+      "pluginName": "joda-time-api",
+      "status": "success",
+      "timestamp": "2026-05-23T15-56-33"
+    },
+    {
+      "pluginName": "asm-api",
+      "status": "success",
+      "timestamp": "2026-05-23T15-50-58"
+    },
+    {
+      "pluginName": "jwt-auth-filter",
+      "status": "fail",
+      "timestamp": "2026-05-23T15-41-55"
+    }
+  ]
+}

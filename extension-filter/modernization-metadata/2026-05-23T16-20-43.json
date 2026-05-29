@@ -21,5 +21,15 @@
   "deletions": 0,
   "changedFiles": 1,
   "key": "2026-05-23T16-20-43.json",
-  "path": "metadata-plugin-modernizer/extension-filter/modernization-metadata"
+  "path": "metadata-plugin-modernizer/extension-filter/modernization-metadata",
+  "checkRuns": {
+    "Jenkins": "failure",
+    "Jenkins Security Scan": "success",
+    "Tests / linux-25 / Build (linux-25)": "success",
+    "auto-merge-safe-deps / auto-merge": "success",
+    "security-scan / scan": "success"
+  },
+  "checkRunsSummary": "failure",
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "98359df5ca424fd7c0e5ba963e47d5fceff6aaf1"
 }

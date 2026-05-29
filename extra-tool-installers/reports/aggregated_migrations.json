@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/extra-tool-installers-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "234.v67a_eca_496b_8b_",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/extra-tool-installers-plugin/pull/201",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-05-23T16-22-42.json",
+      "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata",
+      "timestamp": "2026-05-23T16-22-42"
+    },
+    {
       "pluginVersion": "211.v880567f652f0",
       "jenkinsBaseline": "2.528",
       "targetBaseline": "2.528",
