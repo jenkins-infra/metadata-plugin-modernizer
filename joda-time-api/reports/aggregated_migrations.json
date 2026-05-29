@@ -17,13 +17,34 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/joda-time-api-plugin/pull/105",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "merged",
       "dryRun": false,
       "additions": 1,
       "deletions": 0,
       "changedFiles": 1,
       "key": "2026-05-23T15-56-33.json",
       "path": "metadata-plugin-modernizer/joda-time-api/modernization-metadata",
+      "checkRuns": {
+        "CPD": "success",
+        "CheckStyle": "success",
+        "ESLint": "success",
+        "Incrementals": "success",
+        "Java Compiler": "success",
+        "JavaDoc": "success",
+        "Jenkins": "success",
+        "Jenkins Security Scan": "success",
+        "Maven": "success",
+        "Open Tasks Scanner": "success",
+        "PMD": "success",
+        "SpotBugs": "success",
+        "Tests / linux-25 / Build (linux-25)": "success",
+        "Tests / windows-21 / Build (windows-21)": "success",
+        "auto-merge-safe-deps / auto-merge": "success",
+        "security-scan / scan": "success"
+      },
+      "checkRunsSummary": "success",
+      "defaultBranch": "main",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2026-05-23T15-56-33"
     },
     {
@@ -67,7 +88,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2026-01-24T14-31-34"
     },
     {
@@ -111,7 +132,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2026-01-14T12-12-29"
     },
     {
@@ -154,7 +175,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2026-01-14T11-11-44"
     },
     {
@@ -198,7 +219,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2026-01-10T20-15-10"
     },
     {
@@ -243,7 +264,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2026-01-03T19-14-53"
     },
     {
@@ -287,7 +308,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2025-08-09T08-52-02"
     },
     {
@@ -330,7 +351,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "422befce56e04e1fba0db37080930297d852fcc1",
+      "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366",
       "timestamp": "2025-07-27T10-03-42"
     }
   ]
