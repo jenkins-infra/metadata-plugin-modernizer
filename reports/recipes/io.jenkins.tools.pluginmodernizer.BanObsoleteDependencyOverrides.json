@@ -1,7 +1,7 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
-  "totalApplications": 17,
-  "successCount": 16,
+  "totalApplications": 18,
+  "successCount": 17,
   "failureCount": 1,
   "plugins": [
     {
@@ -73,6 +73,11 @@
       "pluginName": "bitbucket-kubernetes-credentials",
       "status": "success",
       "timestamp": "2026-05-23T16-10-58"
+    },
+    {
+      "pluginName": "artifactory-artifact-manager",
+      "status": "success",
+      "timestamp": "2026-05-23T16-08-43"
     },
     {
       "pluginName": "joda-time-api",
