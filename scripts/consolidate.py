@@ -146,8 +146,7 @@ def load_plugin(root: Path, plugin_id: str) -> dict | None:
 
 
 # Assemble the full consolidated report from summary, recipes and all plugins.
-def build_report(root: Path) -> dict:
-    summary = load_summary(root)
+def build_report(root: Path, summary: dict) -> dict:
     recipes = load_recipes(root)
     plugin_ids = discover_plugins(root)
 
@@ -294,7 +293,7 @@ def main() -> None:
         sys.exit(1)
 
     summary = load_summary(input_dir)
-    report = build_report(input_dir)
+    report = build_report(input_dir, summary)
 
     if not validate_report(report, summary):
         log.error("Report validation failed")
