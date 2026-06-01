@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-05-31T01:39:01Z",
+  "generatedAt": "2026-06-01T15:14:23Z",
   "dataSource": "https://github.com/jenkins-infra/metadata-plugin-modernizer",
   "meta": {
     "source_sha256": "23d5dbad8a2bc4093f2acaa49728c24011b3b3d581f8e14e8422b236c4555f16",
-    "parsed_at": "2026-05-31T01:39:01Z"
+    "parsed_at": "2026-06-01T15:14:23Z"
   },
   "overview": {
     "totalPlugins": 431,
