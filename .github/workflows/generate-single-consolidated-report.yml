@@ -1,7 +1,7 @@
 name: Generate single Consolidated JSON Report
 on:
   schedule:
-    - cron: '0 1 * * 0,3'  # Runs at 01:00 UTC on Sunday and Wednesday
+    - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
   workflow_dispatch:
 
 permissions:
