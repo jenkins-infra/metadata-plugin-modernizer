@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-06-01T15:14:23Z",
+  "generatedAt": "2026-06-03T02:00:00Z",
   "dataSource": "https://github.com/jenkins-infra/metadata-plugin-modernizer",
   "meta": {
-    "source_sha256": "23d5dbad8a2bc4093f2acaa49728c24011b3b3d581f8e14e8422b236c4555f16",
-    "parsed_at": "2026-06-01T15:14:23Z"
+    "source_sha256": "fbaf431d5edaeeb85fb42759461a2ba1024b527527b7b4eeeb3abb3e30120d2d",
+    "parsed_at": "2026-06-03T02:00:00Z"
   },
   "overview": {
     "totalPlugins": 431,
@@ -8568,7 +8568,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "593bea400e03fe5630822fb5f3f85173bf2bbf9c"
+          "defaultBranchLatestCommitSha": "39604b8b35513c9fcd70161f70fdbb9816631980"
         }
       ]
     },
@@ -12455,7 +12455,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12502,7 +12502,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12548,7 +12548,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12595,7 +12595,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12639,7 +12639,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12684,7 +12684,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12728,7 +12728,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12773,7 +12773,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12808,7 +12808,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12853,7 +12853,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12899,7 +12899,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b836b750753aed833b14283965ca4cc21f13eb4c"
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         },
         {
           "pluginName": "artifactory-artifact-manager",
@@ -12918,13 +12918,34 @@
           "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
           "migrationStatus": "success",
           "pullRequestUrl": "https://github.com/jenkinsci/artifactory-artifact-manager-plugin/pull/165",
-          "pullRequestStatus": "open",
+          "pullRequestStatus": "merged",
           "dryRun": false,
           "additions": 1,
           "deletions": 0,
           "changedFiles": 1,
           "key": "2026-05-23T16-08-43.json",
-          "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata"
+          "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata",
+          "checkRuns": {
+            "CPD": "success",
+            "CheckStyle": "success",
+            "ESLint": "success",
+            "Incrementals": "success",
+            "Java Compiler": "success",
+            "JavaDoc": "success",
+            "Jenkins": "success",
+            "Jenkins Security Scan": "success",
+            "Maven": "success",
+            "Open Tasks Scanner": "success",
+            "PMD": "success",
+            "SpotBugs": "success",
+            "Tests / linux-25 / Build (linux-25)": "success",
+            "Tests / windows-21 / Build (windows-21)": "success",
+            "auto-merge-safe-deps / auto-merge": "success",
+            "security-scan / scan": "success"
+          },
+          "checkRunsSummary": "success",
+          "defaultBranch": "main",
+          "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
         }
       ]
     },
@@ -15975,7 +15996,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "e1ad59769a30983f98e406f538a3804fb6997516"
+          "defaultBranchLatestCommitSha": "31db7e2613686f0c7da81ad7d6e7402a43f07b04"
         }
       ]
     },
@@ -16812,7 +16833,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -16858,7 +16879,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -16903,7 +16924,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -16973,7 +16994,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17019,7 +17040,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17064,7 +17085,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17110,7 +17131,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17156,7 +17177,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17202,7 +17223,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17249,7 +17270,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17296,7 +17317,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         },
         {
           "pluginName": "bitbucket-kubernetes-credentials",
@@ -17343,7 +17364,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "6b33de829d42658aed1468bb5fe28e3c223ff47e"
+          "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
         }
       ]
     },
@@ -21338,7 +21359,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         },
         {
           "pluginName": "byte-buddy-api",
@@ -21383,7 +21404,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         },
         {
           "pluginName": "byte-buddy-api",
@@ -21429,7 +21450,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         },
         {
           "pluginName": "byte-buddy-api",
@@ -21474,7 +21495,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         },
         {
           "pluginName": "byte-buddy-api",
@@ -21518,7 +21539,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         },
         {
           "pluginName": "byte-buddy-api",
@@ -21563,7 +21584,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         },
         {
           "pluginName": "byte-buddy-api",
@@ -21597,7 +21618,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f9cc3c8dc3167055420cdfdca13758876bfebc1a"
+          "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
         }
       ]
     },
@@ -24474,7 +24495,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "2e576d00fe19c8687a29bb952b4553f6a26bef28"
+          "defaultBranchLatestCommitSha": "d115c24a18417d17019cfa2bfe1b32287798bed4"
         }
       ]
     },
@@ -27627,7 +27648,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "3ac31afee795e50ca26bdf2d6bf07624aa129937"
+          "defaultBranchLatestCommitSha": "e76ac0d6341e5a19dd313b082577327ce046f55a"
         }
       ]
     },
@@ -33383,7 +33404,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "c33955ed0908f382f6239944846b8af37ae7c540"
+          "defaultBranchLatestCommitSha": "d0403860220db9817f92901f68fcad26d3be461c"
         }
       ]
     },
@@ -33525,7 +33546,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "02980a95433672abd807e74889f89bdf1fcd2c6f"
+          "defaultBranchLatestCommitSha": "7bba279479c421cba2de340f6d22f1b341fbf876"
         }
       ]
     },
@@ -42854,7 +42875,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8b4efe65daae10da17ca2982db9c0fe847515429"
+          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
         },
         {
           "pluginName": "flyway-api",
@@ -42998,7 +43019,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8b4efe65daae10da17ca2982db9c0fe847515429"
+          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
         },
         {
           "pluginName": "flyway-api",
@@ -43042,7 +43063,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8b4efe65daae10da17ca2982db9c0fe847515429"
+          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
         },
         {
           "pluginName": "flyway-api",
@@ -43087,7 +43108,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8b4efe65daae10da17ca2982db9c0fe847515429"
+          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
         },
         {
           "pluginName": "flyway-api",
@@ -43132,7 +43153,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8b4efe65daae10da17ca2982db9c0fe847515429"
+          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
         }
       ]
     },
@@ -43719,7 +43740,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -43766,7 +43787,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -43837,7 +43858,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -43907,7 +43928,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -43978,7 +43999,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -44023,7 +44044,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -44069,7 +44090,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -44115,7 +44136,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -44162,7 +44183,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         },
         {
           "pluginName": "flyway-runner",
@@ -44209,7 +44230,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "9ceb855eb3b84312b37de596fca0a0fad506b5c4"
+          "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
         }
       ]
     },
@@ -45085,7 +45106,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "c24683aab7ebb16ce958c663bb3db162460db675"
+          "defaultBranchLatestCommitSha": "01a2a4ed9f66a07195aa77410a14121000be0a48"
         }
       ]
     },
@@ -45726,7 +45747,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -45771,7 +45792,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -45816,7 +45837,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -45862,7 +45883,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -45908,7 +45929,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -45954,7 +45975,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -46001,7 +46022,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         },
         {
           "pluginName": "git-version-monitor",
@@ -46048,7 +46069,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "71c60a5a1c305534d4684e801da1384c0a2a84da"
+          "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
         }
       ]
     },
@@ -49079,7 +49100,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         },
         {
           "pluginName": "gson-api",
@@ -49124,7 +49145,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         },
         {
           "pluginName": "gson-api",
@@ -49170,7 +49191,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         },
         {
           "pluginName": "gson-api",
@@ -49215,7 +49236,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         },
         {
           "pluginName": "gson-api",
@@ -49259,7 +49280,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         },
         {
           "pluginName": "gson-api",
@@ -49304,7 +49325,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         },
         {
           "pluginName": "gson-api",
@@ -49349,7 +49370,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "8eefe5515533e500b31d49c6729869cb589dead8"
+          "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
         }
       ]
     },
@@ -50441,7 +50462,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50488,7 +50509,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50534,7 +50555,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50581,7 +50602,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50625,7 +50646,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50670,7 +50691,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50714,7 +50735,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50759,7 +50780,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50794,7 +50815,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50839,7 +50860,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50885,7 +50906,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         },
         {
           "pluginName": "hidden-parameter",
@@ -50931,7 +50952,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "68fd2607ca5f6e6e97800fd3885afb463dca39bf"
+          "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
         }
       ]
     },
@@ -54302,7 +54323,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "2a39fe46893200797630702f12fb762d09bb1b29"
+          "defaultBranchLatestCommitSha": "650285bdb1ef8da8bd5cd76896048a518a6e3178"
         }
       ]
     },
@@ -54626,7 +54647,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a733feb45284adfb4360a77fce6924302d82ed9e"
+          "defaultBranchLatestCommitSha": "804303fd947a1e70b6942e6108c314d7c153197c"
         },
         {
           "pluginName": "jackson3-api",
@@ -54697,7 +54718,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a733feb45284adfb4360a77fce6924302d82ed9e"
+          "defaultBranchLatestCommitSha": "804303fd947a1e70b6942e6108c314d7c153197c"
         },
         {
           "pluginName": "jackson3-api",
@@ -54742,7 +54763,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a733feb45284adfb4360a77fce6924302d82ed9e"
+          "defaultBranchLatestCommitSha": "804303fd947a1e70b6942e6108c314d7c153197c"
         },
         {
           "pluginName": "jackson3-api",
@@ -54786,7 +54807,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a733feb45284adfb4360a77fce6924302d82ed9e"
+          "defaultBranchLatestCommitSha": "804303fd947a1e70b6942e6108c314d7c153197c"
         },
         {
           "pluginName": "jackson3-api",
@@ -54831,7 +54852,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a733feb45284adfb4360a77fce6924302d82ed9e"
+          "defaultBranchLatestCommitSha": "804303fd947a1e70b6942e6108c314d7c153197c"
         },
         {
           "pluginName": "jackson3-api",
@@ -55479,7 +55500,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55526,7 +55547,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55572,7 +55593,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55619,7 +55640,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55663,7 +55684,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55708,7 +55729,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55753,7 +55774,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55797,7 +55818,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55842,7 +55863,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55877,7 +55898,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55922,7 +55943,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -55968,7 +55989,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         },
         {
           "pluginName": "jcaptcha-plugin",
@@ -56014,7 +56035,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "a88bb3af669c425fcff40a8f46f0ece865158419"
+          "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
         }
       ]
     },
@@ -57802,7 +57823,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "e92e0dd3d53629e4095b6041ceb80b39576b281b"
+          "defaultBranchLatestCommitSha": "5d4985c9eec86a53c6103720c31ae8ced2e105e8"
         }
       ]
     },
@@ -59282,7 +59303,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59329,7 +59350,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59375,7 +59396,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59422,7 +59443,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59466,7 +59487,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59511,7 +59532,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59555,7 +59576,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59600,7 +59621,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59634,7 +59655,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59679,7 +59700,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         },
         {
           "pluginName": "jobcacher-artifactory-storage",
@@ -59725,7 +59746,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d0519179835b3a4bc89981c240381aaa3ca6d464"
+          "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
         }
       ]
     },
@@ -60264,7 +60285,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60311,7 +60332,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60357,7 +60378,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60404,7 +60425,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60449,7 +60470,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60495,7 +60516,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60540,7 +60561,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60586,7 +60607,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60620,7 +60641,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60666,7 +60687,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         },
         {
           "pluginName": "jobcacher-oras-storage",
@@ -60713,7 +60734,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "bb091f76fa050bd06dee232a231710d30cbf9167"
+          "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
         }
       ]
     },
@@ -63114,7 +63135,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         },
         {
           "pluginName": "json-path-api",
@@ -63159,7 +63180,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         },
         {
           "pluginName": "json-path-api",
@@ -63205,7 +63226,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         },
         {
           "pluginName": "json-path-api",
@@ -63250,7 +63271,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         },
         {
           "pluginName": "json-path-api",
@@ -63294,7 +63315,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         },
         {
           "pluginName": "json-path-api",
@@ -63339,7 +63360,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         },
         {
           "pluginName": "json-path-api",
@@ -63384,7 +63405,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "291edcb4c1b5e9be5b09de17d83f21a6501eff3a"
+          "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
         }
       ]
     },
@@ -66009,7 +66030,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "6a97cd233959da6d87b9a69d4a05847f24312183"
+          "defaultBranchLatestCommitSha": "7d278edfdac975de50c1ea7fc50d8efa1e9d2b82"
         }
       ]
     },
@@ -67297,7 +67318,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67344,7 +67365,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67390,7 +67411,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67437,7 +67458,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67481,7 +67502,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67526,7 +67547,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67570,7 +67591,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67615,7 +67636,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67660,7 +67681,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67705,7 +67726,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         },
         {
           "pluginName": "locale",
@@ -67751,7 +67772,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "7896a72565840e4461a4fce45abe613504325239"
+          "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
         }
       ]
     },
@@ -68424,7 +68445,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68471,7 +68492,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68542,7 +68563,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68611,7 +68632,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68655,7 +68676,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68700,7 +68721,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68745,7 +68766,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68790,7 +68811,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68835,7 +68856,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         },
         {
           "pluginName": "login-theme",
@@ -68881,7 +68902,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "f981e50b836906f9b9a964aeb4b524133d0292bb"
+          "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
         }
       ]
     },
@@ -69625,7 +69646,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         },
         {
           "pluginName": "mariadb-api",
@@ -69670,7 +69691,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         },
         {
           "pluginName": "mariadb-api",
@@ -69716,7 +69737,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         },
         {
           "pluginName": "mariadb-api",
@@ -69761,7 +69782,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         },
         {
           "pluginName": "mariadb-api",
@@ -69805,7 +69826,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         },
         {
           "pluginName": "mariadb-api",
@@ -69850,7 +69871,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         },
         {
           "pluginName": "mariadb-api",
@@ -69885,7 +69906,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "feed75c683f58613ee6d7564ff69cd0222ca5b15"
+          "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
         }
       ]
     },
@@ -72269,7 +72290,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72316,7 +72337,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72362,7 +72383,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72434,7 +72455,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72503,7 +72524,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72548,7 +72569,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72592,7 +72613,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72637,7 +72658,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72672,7 +72693,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72717,7 +72738,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         },
         {
           "pluginName": "next-executions",
@@ -72763,7 +72784,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "2021c586cc4fb9b07ffaf3518438d984eaea338c"
+          "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
         }
       ]
     },
@@ -75740,7 +75761,7 @@
           "checkRuns": {},
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "2f78710523fb848b1832cef77896cf9fbd3dcbe2"
+          "defaultBranchLatestCommitSha": "a240f47b6e808ee37b4bd7cc9b82a9183a36d840"
         },
         {
           "pluginName": "oracle-cloud-infrastructure-compute",
@@ -75769,7 +75790,7 @@
           "checkRuns": {},
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "2f78710523fb848b1832cef77896cf9fbd3dcbe2"
+          "defaultBranchLatestCommitSha": "a240f47b6e808ee37b4bd7cc9b82a9183a36d840"
         },
         {
           "pluginName": "oracle-cloud-infrastructure-compute",
@@ -75798,7 +75819,7 @@
           "checkRuns": {},
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "2f78710523fb848b1832cef77896cf9fbd3dcbe2"
+          "defaultBranchLatestCommitSha": "a240f47b6e808ee37b4bd7cc9b82a9183a36d840"
         }
       ]
     },
@@ -76996,7 +77017,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         },
         {
           "pluginName": "oss-symbols-api",
@@ -77042,7 +77063,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         },
         {
           "pluginName": "oss-symbols-api",
@@ -77089,7 +77110,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         },
         {
           "pluginName": "oss-symbols-api",
@@ -77134,7 +77155,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         },
         {
           "pluginName": "oss-symbols-api",
@@ -77178,7 +77199,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         },
         {
           "pluginName": "oss-symbols-api",
@@ -77211,7 +77232,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         },
         {
           "pluginName": "oss-symbols-api",
@@ -77246,7 +77267,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "46e634a63b99efcebc93890e3f848bdeae4e62ee"
+          "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
         }
       ]
     },
@@ -78116,7 +78137,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78163,7 +78184,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78234,7 +78255,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78327,7 +78348,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78371,7 +78392,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78416,7 +78437,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78451,7 +78472,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78496,7 +78517,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         },
         {
           "pluginName": "parameter-separator",
@@ -78542,7 +78563,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d21fc3ce1b06a72395f832d932868cf38973282c"
+          "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
         }
       ]
     },
@@ -80315,7 +80336,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80347,7 +80368,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80418,7 +80439,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80487,7 +80508,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80531,7 +80552,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80576,7 +80597,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80611,7 +80632,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80656,7 +80677,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         },
         {
           "pluginName": "pipeline-cps-http",
@@ -80702,7 +80723,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "e2996d2a692493dba8cca9251e3162c21f45ab53"
+          "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
         }
       ]
     },
@@ -81273,7 +81294,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81320,7 +81341,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81366,7 +81387,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81412,7 +81433,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81459,7 +81480,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81503,7 +81524,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81548,7 +81569,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81592,7 +81613,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81637,7 +81658,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81670,7 +81691,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81715,7 +81736,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         },
         {
           "pluginName": "pipeline-cps-oras",
@@ -81761,7 +81782,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "74ceb0f71880aa703b8f356fe6074c37b75937a9"
+          "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
         }
       ]
     },
@@ -89973,7 +89994,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         },
         {
           "pluginName": "scm-filter-branch-pr",
@@ -90018,7 +90039,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         },
         {
           "pluginName": "scm-filter-branch-pr",
@@ -90063,7 +90084,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         },
         {
           "pluginName": "scm-filter-branch-pr",
@@ -90109,7 +90130,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         },
         {
           "pluginName": "scm-filter-branch-pr",
@@ -90153,7 +90174,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         },
         {
           "pluginName": "scm-filter-branch-pr",
@@ -90199,7 +90220,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         },
         {
           "pluginName": "scm-filter-branch-pr",
@@ -90246,7 +90267,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "b50177b42781de031482a2ba3a9cc79b9d905b7b"
+          "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
         }
       ]
     },
@@ -94093,7 +94114,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "862e75a2ecc0eaca6148fbb9e7b76b8c10cc5034"
+          "defaultBranchLatestCommitSha": "542712be1affa5eeb5a35f69aec5d88e1aad25ce"
         },
         {
           "pluginName": "sqlserver-api",
@@ -94138,7 +94159,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "862e75a2ecc0eaca6148fbb9e7b76b8c10cc5034"
+          "defaultBranchLatestCommitSha": "542712be1affa5eeb5a35f69aec5d88e1aad25ce"
         }
       ]
     },
@@ -95462,7 +95483,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "1992c72e6ef943fcbe1779c75fea53f87bb34881"
+          "defaultBranchLatestCommitSha": "8dbe7e21aa2d34d9c0b4ebc5d69ac5b66db0dec3"
         }
       ]
     },
@@ -95925,7 +95946,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "304b6222b5f9ea88ce115848434f3d00c7b9ee66"
+          "defaultBranchLatestCommitSha": "5fde893653ad5e98b3ac5b7d935495c29d8e604c"
         }
       ]
     },
