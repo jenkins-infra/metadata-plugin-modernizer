@@ -1,0 +1,25 @@
+{
+  "pluginName": "nunit",
+  "pluginRepository": "https://github.com/jenkinsci/nunit-plugin.git",
+  "pluginVersion": "648.vdc8c6431f464",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/nunit-plugin/pull/192",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-06-06T16-39-47.json",
+  "path": "metadata-plugin-modernizer/nunit/modernization-metadata"
+}
