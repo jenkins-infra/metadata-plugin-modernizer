@@ -1,0 +1,25 @@
+{
+  "pluginName": "s3-jobcacher-storage",
+  "pluginRepository": "https://github.com/jenkinsci/s3-jobcacher-storage-plugin.git",
+  "pluginVersion": "62.v260cb_8db_5b_fa_",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "migrationStatus": "fail",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-06T17-01-25.json",
+  "path": "metadata-plugin-modernizer/s3-jobcacher-storage/modernization-metadata"
+}
