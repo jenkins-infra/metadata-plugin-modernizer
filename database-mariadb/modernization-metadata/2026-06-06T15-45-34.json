@@ -1,0 +1,25 @@
+{
+  "pluginName": "database-mariadb",
+  "pluginRepository": "https://github.com/jenkinsci/database-mariadb-plugin.git",
+  "pluginVersion": "182.v8f1d21b_7c825",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-06T15-45-34.json",
+  "path": "metadata-plugin-modernizer/database-mariadb/modernization-metadata"
+}
