@@ -1,0 +1,25 @@
+{
+  "pluginName": "parameter-separator",
+  "pluginRepository": "https://github.com/jenkinsci/parameter-separator-plugin.git",
+  "pluginVersion": "334.v1fc0e534c71d",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/parameter-separator-plugin/pull/169",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-06-06T16-47-18.json",
+  "path": "metadata-plugin-modernizer/parameter-separator/modernization-metadata"
+}
