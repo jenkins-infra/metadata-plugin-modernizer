@@ -1,0 +1,25 @@
+{
+  "pluginName": "json-path-api",
+  "pluginRepository": "https://github.com/jenkinsci/json-path-api-plugin.git",
+  "pluginVersion": "3.0.0-218.vcd4dd1355de2",
+  "jenkinsBaseline": "2.492",
+  "targetBaseline": "2.492",
+  "effectiveBaseline": "2.492",
+  "jenkinsVersion": "2.492.3",
+  "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/json-path-api-plugin/pull/120",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 1,
+  "deletions": 0,
+  "changedFiles": 1,
+  "key": "2026-06-06T16-27-02.json",
+  "path": "metadata-plugin-modernizer/json-path-api/modernization-metadata"
+}
