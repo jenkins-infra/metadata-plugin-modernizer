@@ -1,0 +1,25 @@
+{
+  "pluginName": "asm-api",
+  "pluginRepository": "https://github.com/jenkinsci/asm-api-plugin.git",
+  "pluginVersion": "9.10.1-216.va_9256d3b_844b_",
+  "jenkinsBaseline": "2.492",
+  "targetBaseline": "2.492",
+  "effectiveBaseline": "2.492",
+  "jenkinsVersion": "2.492.3",
+  "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+  "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+  "tags": [
+    "migration",
+    "dependencies"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-06T15-35-02.json",
+  "path": "metadata-plugin-modernizer/asm-api/modernization-metadata"
+}
