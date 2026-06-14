@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/gson-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "2.14.0-201.v8eefe5515533",
+      "jenkinsBaseline": "2.492",
+      "targetBaseline": "2.492",
+      "effectiveBaseline": "2.492",
+      "jenkinsVersion": "2.492.3",
+      "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/gson-api-plugin/pull/113",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-06-06T16-05-21.json",
+      "path": "metadata-plugin-modernizer/gson-api/modernization-metadata",
+      "timestamp": "2026-06-06T16-05-21"
+    },
+    {
       "pluginVersion": "2.13.2-173.va_a_092315913c",
       "jenkinsBaseline": "2.492",
       "targetBaseline": "2.492",
