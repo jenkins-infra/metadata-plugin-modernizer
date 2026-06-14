@@ -1,8 +1,8 @@
 {
-  "generatedOn": "2026-06-06 01:12:43 UTC",
-  "totalMigrations": 1335,
-  "failedMigrations": 590,
-  "successRate": 55.81,
+  "generatedOn": "2026-06-14 01:23:51 UTC",
+  "totalMigrations": 1388,
+  "failedMigrations": 592,
+  "successRate": 57.35,
   "failuresByRecipe": [
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
@@ -29,19 +29,19 @@
       "failures": 3
     },
     {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion",
-      "failures": 2
+      "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "failures": 3
     },
     {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
-      "failures": 1
+      "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion",
+      "failures": 2
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
       "failures": 1
     },
     {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "recipeId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
       "failures": 1
     },
     {
@@ -49,7 +49,7 @@
       "failures": 1
     },
     {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
+      "recipeId": "io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses",
       "failures": 1
     }
   ],
@@ -239,6 +239,7 @@
     "readonly-parameters",
     "redgate-sql-ci",
     "runscope",
+    "s3-jobcacher-storage",
     "sasunit-plugin",
     "scripted-cloud-plugin",
     "selected-tests-executor",
@@ -286,13 +287,13 @@
     "zentimestamp"
   ],
   "pullRequestStats": {
-    "total": 629,
-    "open": 79,
+    "total": 659,
+    "open": 109,
     "closed": 31,
     "merged": 519,
-    "openRate": 12.56,
-    "closedRate": 4.93,
-    "mergeRate": 82.51
+    "openRate": 16.54,
+    "closedRate": 4.7,
+    "mergeRate": 78.76
   },
   "timeline": [
     {
@@ -360,6 +361,12 @@
       "success": 18,
       "fail": 1,
       "total": 19
+    },
+    {
+      "month": "2026-06",
+      "success": 51,
+      "fail": 2,
+      "total": 53
     }
   ],
   "tags": [
@@ -373,11 +380,11 @@
     },
     {
       "tag": "dependencies",
-      "count": 414
+      "count": 467
     },
     {
       "tag": "migration",
-      "count": 245
+      "count": 298
     },
     {
       "tag": "developer",
