@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/jackson3-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "3.1.4-81.v804303fd947a_",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.1",
+      "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-06-06T16-10-52.json",
+      "path": "metadata-plugin-modernizer/jackson3-api/modernization-metadata",
+      "timestamp": "2026-06-06T16-10-52"
+    },
+    {
       "pluginVersion": "3.0.4-55.v5dcc25165f20",
       "jenkinsBaseline": "2.504",
       "targetBaseline": "2.504",
