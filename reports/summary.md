@@ -1,11 +1,11 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-06-06 01:12:43 UTC
+Generated on: 2026-06-19 01:27:50 UTC
 
 ## Overview
-- **Total Migrations**: 1335
-- **Failed Migrations**: 590
-- **Success Rate**: 55.81%
+- **Total Migrations**: 1388
+- **Failed Migrations**: 592
+- **Success Rate**: 57.35%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
@@ -14,12 +14,12 @@ Generated on: 2026-06-06 01:12:43 UTC
 - io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 5 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
+- io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
-- io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
-- io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides: 1 failures
-- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
+- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
+- io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
 
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
@@ -207,6 +207,7 @@ Generated on: 2026-06-06 01:12:43 UTC
 - [readonly-parameters](../readonly-parameters/reports/failed_migrations.csv)
 - [redgate-sql-ci](../redgate-sql-ci/reports/failed_migrations.csv)
 - [runscope](../runscope/reports/failed_migrations.csv)
+- [s3-jobcacher-storage](../s3-jobcacher-storage/reports/failed_migrations.csv)
 - [sasunit-plugin](../sasunit-plugin/reports/failed_migrations.csv)
 - [scripted-cloud-plugin](../scripted-cloud-plugin/reports/failed_migrations.csv)
 - [selected-tests-executor](../selected-tests-executor/reports/failed_migrations.csv)
@@ -257,10 +258,10 @@ Generated on: 2026-06-06 01:12:43 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 629 | - |
-| Open PRs | 79 | 12.56% |
-| Closed PRs | 31 | 4.93% |
-| Merged PRs | 519 | 82.51% |
+| Total PRs | 659 | - |
+| Open PRs | 109 | 16.54% |
+| Closed PRs | 31 | 4.70% |
+| Merged PRs | 519 | 78.76% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
@@ -277,11 +278,12 @@ Generated on: 2026-06-06 01:12:43 UTC
 - **2026-03**: 9 success, 0 fail, 9 total
 - **2026-04**: 70 success, 2 fail, 72 total
 - **2026-05**: 18 success, 1 fail, 19 total
+- **2026-06**: 51 success, 2 fail, 53 total
 
 ## Tags
 - **skip-verification**: 759
 - **chore**: 759
-- **dependencies**: 414
-- **migration**: 245
+- **dependencies**: 467
+- **migration**: 298
 - **developer**: 156
 - **testing**: 6
