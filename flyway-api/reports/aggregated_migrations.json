@@ -3,6 +3,30 @@
   "pluginRepository": "https://github.com/jenkinsci/flyway-api-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "12.8.1-451.v919e47247ce1",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+      "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+      "tags": [
+        "migration",
+        "dependencies"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/flyway-api-plugin/pull/267",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 1,
+      "deletions": 0,
+      "changedFiles": 1,
+      "key": "2026-06-06T15-59-24.json",
+      "path": "metadata-plugin-modernizer/flyway-api/modernization-metadata",
+      "timestamp": "2026-06-06T15-59-24"
+    },
+    {
       "pluginVersion": "11.20.2-404.v5a_37d081847a_",
       "jenkinsBaseline": "2.479",
       "targetBaseline": "2.479",
@@ -43,7 +67,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4",
+      "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22",
       "timestamp": "2026-01-24T14-18-25"
     },
     {
@@ -87,7 +111,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4",
+      "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22",
       "timestamp": "2026-01-14T11-53-02"
     },
     {
@@ -130,7 +154,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4",
+      "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22",
       "timestamp": "2026-01-14T10-52-28"
     },
     {
@@ -174,7 +198,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4",
+      "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22",
       "timestamp": "2026-01-10T20-01-08"
     },
     {
@@ -313,7 +337,7 @@
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4",
+      "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22",
       "timestamp": "2025-08-09T11-32-33"
     },
     {
