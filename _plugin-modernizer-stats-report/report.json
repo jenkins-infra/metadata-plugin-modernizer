@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-06-06T01:45:45Z",
+  "generatedAt": "2026-06-19T02:02:59Z",
   "dataSource": "https://github.com/jenkins-infra/metadata-plugin-modernizer",
   "meta": {
-    "source_sha256": "f81d0d445b08b9a4583fa01fb9539ca797da1c1153345a9594c2febbc88b3dc3",
-    "parsed_at": "2026-06-06T01:45:45Z"
+    "source_sha256": "93933ee19a1ce92e45c9665f177a00bc52aaf8f8459b06b26ad8fbdf6c6fa222",
+    "parsed_at": "2026-06-19T02:02:59Z"
   },
   "overview": {
     "totalPlugins": 431,
@@ -7655,7 +7655,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "5d9cbb0bce185c2585e7dc68cd4e6238477ea0b2"
+          "defaultBranchLatestCommitSha": "3336c3a56fc8c68afa06b384fcc02bf226925cc0"
         }
       ]
     },
@@ -8528,7 +8528,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "39604b8b35513c9fcd70161f70fdbb9816631980",
+          "defaultBranchLatestCommitSha": "b52fa10df1e84388391f7abc4b9a56cc65fb9a43",
           "timestamp": "2026-01-15T16-40-01"
         }
       ],
@@ -9957,7 +9957,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d4387576ab272fae27f3d95e52a8e79f2bf1b69d",
+          "defaultBranchLatestCommitSha": "734a658afb247194e944da2a32bf049dadfef9a5",
           "timestamp": "2026-01-27T06-53-24"
         },
         {
@@ -10002,7 +10002,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d4387576ab272fae27f3d95e52a8e79f2bf1b69d",
+          "defaultBranchLatestCommitSha": "734a658afb247194e944da2a32bf049dadfef9a5",
           "timestamp": "2026-01-14T13-55-56"
         },
         {
@@ -10047,7 +10047,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d4387576ab272fae27f3d95e52a8e79f2bf1b69d",
+          "defaultBranchLatestCommitSha": "734a658afb247194e944da2a32bf049dadfef9a5",
           "timestamp": "2026-01-13T12-24-27"
         },
         {
@@ -10092,7 +10092,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d4387576ab272fae27f3d95e52a8e79f2bf1b69d",
+          "defaultBranchLatestCommitSha": "734a658afb247194e944da2a32bf049dadfef9a5",
           "timestamp": "2026-01-13T09-24-10"
         },
         {
@@ -10124,7 +10124,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "d4387576ab272fae27f3d95e52a8e79f2bf1b69d",
+          "defaultBranchLatestCommitSha": "734a658afb247194e944da2a32bf049dadfef9a5",
           "timestamp": "2026-01-13T09-18-51"
         }
       ],
@@ -12967,6 +12967,56 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "43d65a19558cd09134c73fe469e7cf4e206c92fa"
+        },
+        {
+          "pluginName": "artifactory-artifact-manager",
+          "pluginRepository": "https://github.com/jenkinsci/artifactory-artifact-manager-plugin.git",
+          "pluginVersion": "275.v941a_4e4a_7df3",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T14-56-39.json",
+          "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata"
+        },
+        {
+          "pluginName": "artifactory-artifact-manager",
+          "pluginRepository": "https://github.com/jenkinsci/artifactory-artifact-manager-plugin.git",
+          "pluginVersion": "275.v941a_4e4a_7df3",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-32-24.json",
+          "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata"
         }
       ]
     },
@@ -13579,6 +13629,56 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "bfef489fb0e4d2c7d77240511ab363a0bebec19f"
+        },
+        {
+          "pluginName": "artifactory-client-api",
+          "pluginRepository": "https://github.com/jenkinsci/artifactory-client-api-plugin.git",
+          "pluginVersion": "2.19.0-158.ve20b_86b_a_d36a_",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/artifactory-client-api-plugin/pull/95",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T14-58-41.json",
+          "path": "metadata-plugin-modernizer/artifactory-client-api/modernization-metadata"
+        },
+        {
+          "pluginName": "artifactory-client-api",
+          "pluginRepository": "https://github.com/jenkinsci/artifactory-client-api-plugin.git",
+          "pluginVersion": "2.19.0-158.ve20b_86b_a_d36a_",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T15-33-53.json",
+          "path": "metadata-plugin-modernizer/artifactory-client-api/modernization-metadata"
         }
       ]
     },
@@ -14393,6 +14493,56 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "a9256d3b844b3808347cfbb4600a925534eba746"
+        },
+        {
+          "pluginName": "asm-api",
+          "pluginRepository": "https://github.com/jenkinsci/asm-api-plugin.git",
+          "pluginVersion": "9.10.1-216.va_9256d3b_844b_",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-00-21.json",
+          "path": "metadata-plugin-modernizer/asm-api/modernization-metadata"
+        },
+        {
+          "pluginName": "asm-api",
+          "pluginRepository": "https://github.com/jenkinsci/asm-api-plugin.git",
+          "pluginVersion": "9.10.1-216.va_9256d3b_844b_",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-35-02.json",
+          "path": "metadata-plugin-modernizer/asm-api/modernization-metadata"
         }
       ]
     },
@@ -17386,6 +17536,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "c1b71e4ac9f45e0df9bf1f577f3335c625319231"
+        },
+        {
+          "pluginName": "bitbucket-kubernetes-credentials",
+          "pluginRepository": "https://github.com/jenkinsci/bitbucket-kubernetes-credentials-plugin.git",
+          "pluginVersion": "662.v96d8b_a_90e07e",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-36-56.json",
+          "path": "metadata-plugin-modernizer/bitbucket-kubernetes-credentials/modernization-metadata"
         }
       ]
     },
@@ -18490,7 +18665,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "364515a029f931907ad7fbd080bb7b6f96970bef"
+          "defaultBranchLatestCommitSha": "5024cb56b4762cb7fab8a6f11ed134ba5fc07720"
         },
         {
           "pluginName": "bmc-change-manager-imstm",
@@ -18532,7 +18707,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "364515a029f931907ad7fbd080bb7b6f96970bef"
+          "defaultBranchLatestCommitSha": "5024cb56b4762cb7fab8a6f11ed134ba5fc07720"
         },
         {
           "pluginName": "bmc-change-manager-imstm",
@@ -18574,7 +18749,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "364515a029f931907ad7fbd080bb7b6f96970bef"
+          "defaultBranchLatestCommitSha": "5024cb56b4762cb7fab8a6f11ed134ba5fc07720"
         }
       ]
     },
@@ -20491,6 +20666,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "addad8ee053a7a8cd8d156d45fab96828a4b19b8"
+        },
+        {
+          "pluginName": "build-history-metrics-plugin",
+          "pluginRepository": "https://github.com/jenkinsci/build-history-metrics-plugin.git",
+          "pluginVersion": "217.vf34ff6a_b_41ca_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-38-49.json",
+          "path": "metadata-plugin-modernizer/build-history-metrics-plugin/modernization-metadata"
         }
       ]
     },
@@ -21640,6 +21840,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "86a51bb431233b8365dff77b72a0540f0990a774"
+        },
+        {
+          "pluginName": "byte-buddy-api",
+          "pluginRepository": "https://github.com/jenkinsci/byte-buddy-api-plugin.git",
+          "pluginVersion": "1.18.9-239.v86a_51b_b_43123",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/byte-buddy-api-plugin/pull/130",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T15-40-26.json",
+          "path": "metadata-plugin-modernizer/byte-buddy-api/modernization-metadata"
         }
       ]
     },
@@ -22008,7 +22233,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "0d41be5c30c5e763f41e139d34996b6732e9aca4"
+          "defaultBranchLatestCommitSha": "ebcf67dfa437f46183c11b800decc95d1116b424"
         }
       ]
     },
@@ -25338,6 +25563,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "299f58737423181074b89750dfb88f1d39ebc638"
+        },
+        {
+          "pluginName": "commons-math3-api",
+          "pluginRepository": "https://github.com/jenkinsci/commons-math3-api-plugin.git",
+          "pluginVersion": "3.6.1-104.vc3227d955289",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/commons-math3-api-plugin/pull/59",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T15-41-52.json",
+          "path": "metadata-plugin-modernizer/commons-math3-api/modernization-metadata"
         }
       ]
     },
@@ -28815,6 +29065,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "77265be4b4cfe653d45fd30f64142e5c7050bcb9"
+        },
+        {
+          "pluginName": "coverage-badges-extension",
+          "pluginRepository": "https://github.com/jenkinsci/coverage-badges-extension-plugin.git",
+          "pluginVersion": "234.v43c3ef3878b_c",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-43-44.json",
+          "path": "metadata-plugin-modernizer/coverage-badges-extension/modernization-metadata"
         }
       ]
     },
@@ -31425,6 +31700,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "b63b780fcf3fc85ccdaba25edbf6c24dfe9dccb0"
+        },
+        {
+          "pluginName": "database-mariadb",
+          "pluginRepository": "https://github.com/jenkinsci/database-mariadb-plugin.git",
+          "pluginVersion": "182.v8f1d21b_7c825",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-45-34.json",
+          "path": "metadata-plugin-modernizer/database-mariadb/modernization-metadata"
         }
       ]
     },
@@ -36961,6 +37261,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "93a1a54421350480b570938b318f0202573263ef"
+        },
+        {
+          "pluginName": "exclusive-label-plugin",
+          "pluginRepository": "https://github.com/jenkinsci/exclusive-labels-plugin.git",
+          "pluginVersion": "19.v40532946d413",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-47-14.json",
+          "path": "metadata-plugin-modernizer/exclusive-label-plugin/modernization-metadata"
         }
       ]
     },
@@ -37864,6 +38189,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "0ab07e9f7ee9bf647ee68c667d0580a8535603b3"
+        },
+        {
+          "pluginName": "extended-read-permission",
+          "pluginRepository": "https://github.com/jenkinsci/extended-read-permission-plugin.git",
+          "pluginVersion": "68.vd270568a_7520",
+          "jenkinsBaseline": "",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-52-17.json",
+          "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata"
         }
       ]
     },
@@ -38907,6 +39257,31 @@
           "checkRunsSummary": "failure",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "ec91ba0ad931998ccf8ac328eeba69533674a0fe"
+        },
+        {
+          "pluginName": "extension-filter",
+          "pluginRepository": "https://github.com/jenkinsci/extension-filter-plugin.git",
+          "pluginVersion": "268.v953673b_16e81",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-49-05.json",
+          "path": "metadata-plugin-modernizer/extension-filter/modernization-metadata"
         }
       ]
     },
@@ -40137,6 +40512,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "a7ff8a43fb2339d58544aebfa973c44a00b28da6"
+        },
+        {
+          "pluginName": "extra-tool-installers",
+          "pluginRepository": "https://github.com/jenkinsci/extra-tool-installers-plugin.git",
+          "pluginVersion": "234.v67a_eca_496b_8b_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-50-49.json",
+          "path": "metadata-plugin-modernizer/extra-tool-installers/modernization-metadata"
         }
       ]
     },
@@ -42041,6 +42441,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "d85b6dcad65c770a3ee2fcb24770d9e1c7bf2be5"
+        },
+        {
+          "pluginName": "file-operations",
+          "pluginRepository": "https://github.com/jenkinsci/file-operations-plugin.git",
+          "pluginVersion": "439.vdc9d3b_d74b_d9",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T15-55-20.json",
+          "path": "metadata-plugin-modernizer/file-operations/modernization-metadata"
         }
       ]
     },
@@ -42896,7 +43321,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
+          "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22"
         },
         {
           "pluginName": "flyway-api",
@@ -43040,7 +43465,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
+          "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22"
         },
         {
           "pluginName": "flyway-api",
@@ -43084,7 +43509,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
+          "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22"
         },
         {
           "pluginName": "flyway-api",
@@ -43129,7 +43554,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
+          "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22"
         },
         {
           "pluginName": "flyway-api",
@@ -43174,7 +43599,32 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "558c9d32434fd973b3793205ce974d924861fbf4"
+          "defaultBranchLatestCommitSha": "780b9a4359bdb64360fa449c8676cfa55a147e22"
+        },
+        {
+          "pluginName": "flyway-api",
+          "pluginRepository": "https://github.com/jenkinsci/flyway-api-plugin.git",
+          "pluginVersion": "12.8.1-451.v919e47247ce1",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/flyway-api-plugin/pull/267",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T15-59-24.json",
+          "path": "metadata-plugin-modernizer/flyway-api/modernization-metadata"
         }
       ]
     },
@@ -44252,6 +44702,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "e8264d4fe0c2df201e07efc35769e3ec099b1ab1"
+        },
+        {
+          "pluginName": "flyway-runner",
+          "pluginRepository": "https://github.com/jenkinsci/flyway-runner-plugin.git",
+          "pluginVersion": "282.v7e837c0b_ff13",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-01-56.json",
+          "path": "metadata-plugin-modernizer/flyway-runner/modernization-metadata"
         }
       ]
     },
@@ -46091,6 +46566,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "f11c63bd1454a14c5fc8151e748b1d87729b5647"
+        },
+        {
+          "pluginName": "git-version-monitor",
+          "pluginRepository": "https://github.com/jenkinsci/git-version-monitor-plugin.git",
+          "pluginVersion": "41.v0cfdf922b_b_0c",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-06-53.json",
+          "path": "metadata-plugin-modernizer/git-version-monitor/modernization-metadata"
         }
       ]
     },
@@ -46814,7 +47314,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "58047b5cc14b1e3c3c6a9b38de9b5f0ca03bb593",
+          "defaultBranchLatestCommitSha": "7b24940520ece8cce6fbdf798df11adb4ad3a30b",
           "timestamp": "2026-01-19T14-20-20"
         }
       ],
@@ -48094,6 +48594,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "7e4f1ae2d5228213e3f47364c8d6999496e8e261"
+        },
+        {
+          "pluginName": "gitlab-kubernetes-credentials",
+          "pluginRepository": "https://github.com/jenkinsci/gitlab-kubernetes-credentials-plugin.git",
+          "pluginVersion": "538.v99cc6503c421",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-03-52.json",
+          "path": "metadata-plugin-modernizer/gitlab-kubernetes-credentials/modernization-metadata"
         }
       ]
     },
@@ -49392,6 +49917,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "a8c72b120ae0803db94927643d036527f2b891d5"
+        },
+        {
+          "pluginName": "gson-api",
+          "pluginRepository": "https://github.com/jenkinsci/gson-api-plugin.git",
+          "pluginVersion": "2.14.0-201.v8eefe5515533",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/gson-api-plugin/pull/113",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-05-21.json",
+          "path": "metadata-plugin-modernizer/gson-api/modernization-metadata"
         }
       ]
     },
@@ -50974,6 +51524,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "4a77e6e4d996d1876b7f0b34d656657b013dd61a"
+        },
+        {
+          "pluginName": "hidden-parameter",
+          "pluginRepository": "https://github.com/jenkinsci/hidden-parameter-plugin.git",
+          "pluginVersion": "546.vdeec4ce8b_26f",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-09-04.json",
+          "path": "metadata-plugin-modernizer/hidden-parameter/modernization-metadata"
         }
       ]
     },
@@ -54899,6 +55474,31 @@
           "changedFiles": 0,
           "key": "2026-01-24T14-25-30.json",
           "path": "metadata-plugin-modernizer/jackson3-api/modernization-metadata"
+        },
+        {
+          "pluginName": "jackson3-api",
+          "pluginRepository": "https://github.com/jenkinsci/jackson3-api-plugin.git",
+          "pluginVersion": "3.1.4-81.v804303fd947a_",
+          "jenkinsBaseline": "2.504",
+          "targetBaseline": "2.504",
+          "effectiveBaseline": "2.504",
+          "jenkinsVersion": "2.504.1",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-10-52.json",
+          "path": "metadata-plugin-modernizer/jackson3-api/modernization-metadata"
         }
       ]
     },
@@ -56057,6 +56657,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "7813f448efe1cf01afc0f96ec81e0d66c46d001e"
+        },
+        {
+          "pluginName": "jcaptcha-plugin",
+          "pluginRepository": "https://github.com/jenkinsci/jcaptcha-plugin.git",
+          "pluginVersion": "108.v49e0795497c2",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-12-10.json",
+          "path": "metadata-plugin-modernizer/jcaptcha-plugin/modernization-metadata"
         }
       ]
     },
@@ -57769,6 +58394,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "4e853f9634208d35821c9259f047d731867ae007"
+        },
+        {
+          "pluginName": "jnr-posix-api",
+          "pluginRepository": "https://github.com/jenkinsci/jnr-posix-api-plugin.git",
+          "pluginVersion": "3.1.22-204.v925e2b_09a_42c",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/jnr-posix-api-plugin/pull/151",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-28-34.json",
+          "path": "metadata-plugin-modernizer/jnr-posix-api/modernization-metadata"
         }
       ]
     },
@@ -58792,6 +59442,31 @@
           "changedFiles": 0,
           "key": "2026-04-18T10-00-30.json",
           "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata"
+        },
+        {
+          "pluginName": "jobcacher",
+          "pluginRepository": "https://github.com/jenkinsci/jobcacher-plugin.git",
+          "pluginVersion": "842.v74b_a_026267b_6",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "fail",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-15-17.json",
+          "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata"
         }
       ]
     },
@@ -59768,6 +60443,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "800594d1e1ed91a2dc2a4ff7be431fe415555b09"
+        },
+        {
+          "pluginName": "jobcacher-artifactory-storage",
+          "pluginRepository": "https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin.git",
+          "pluginVersion": "247.vd0519179835b_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin/pull/132",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-17-15.json",
+          "path": "metadata-plugin-modernizer/jobcacher-artifactory-storage/modernization-metadata"
         }
       ]
     },
@@ -60756,6 +61456,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "344b96c03c16e4983648883b19e943b6cc32044f"
+        },
+        {
+          "pluginName": "jobcacher-oras-storage",
+          "pluginRepository": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin.git",
+          "pluginVersion": "144.vb_727c9b_7d229",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin/pull/89",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-20-08.json",
+          "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata"
         }
       ]
     },
@@ -62163,6 +62888,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "abd9570cd5747760ec4edc8c6c9ea279f7346366"
+        },
+        {
+          "pluginName": "joda-time-api",
+          "pluginRepository": "https://github.com/jenkinsci/joda-time-api-plugin.git",
+          "pluginVersion": "2.14.2-193.v422b_efce56e0",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T16-23-48.json",
+          "path": "metadata-plugin-modernizer/joda-time-api/modernization-metadata"
         }
       ]
     },
@@ -62795,6 +63545,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "0b18b8cd4672ac24ccb89a87d6bbf07e8511a675"
+        },
+        {
+          "pluginName": "json-api",
+          "pluginRepository": "https://github.com/jenkinsci/json-api-plugin.git",
+          "pluginVersion": "20260522-217.v0b_18b_8cd4672",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.1",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/json-api-plugin/pull/117",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-25-37.json",
+          "path": "metadata-plugin-modernizer/json-api/modernization-metadata"
         }
       ]
     },
@@ -63427,6 +64202,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "0d4414e28abad6adaf1d1bcf4c420102b5ab87af"
+        },
+        {
+          "pluginName": "json-path-api",
+          "pluginRepository": "https://github.com/jenkinsci/json-path-api-plugin.git",
+          "pluginVersion": "3.0.0-218.vcd4dd1355de2",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/json-path-api-plugin/pull/120",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-27-02.json",
+          "path": "metadata-plugin-modernizer/json-path-api/modernization-metadata"
         }
       ]
     },
@@ -64059,6 +64859,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "8de02bcf6f9c0e6ad0d2b8789bbc252d8e88c65e"
+        },
+        {
+          "pluginName": "jsoup",
+          "pluginRepository": "https://github.com/jenkinsci/jsoup-plugin.git",
+          "pluginVersion": "1.22.2-95.vc5d00f1eb_42d",
+          "jenkinsBaseline": "",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/jsoup-plugin/pull/52",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-29-58.json",
+          "path": "metadata-plugin-modernizer/jsoup/modernization-metadata"
         }
       ]
     },
@@ -64466,7 +65291,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "914ccf27d68582dbe2b45c8fdad0ca533d27b410"
+          "defaultBranchLatestCommitSha": "a45820a005bf3a54c16f6b1be6cb2ace61009225"
         },
         {
           "pluginName": "junit-attachments",
@@ -64513,7 +65338,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "914ccf27d68582dbe2b45c8fdad0ca533d27b410"
+          "defaultBranchLatestCommitSha": "a45820a005bf3a54c16f6b1be6cb2ace61009225"
         },
         {
           "pluginName": "junit-attachments",
@@ -64559,7 +65384,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "914ccf27d68582dbe2b45c8fdad0ca533d27b410"
+          "defaultBranchLatestCommitSha": "a45820a005bf3a54c16f6b1be6cb2ace61009225"
         },
         {
           "pluginName": "junit-attachments",
@@ -64606,7 +65431,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "main",
-          "defaultBranchLatestCommitSha": "914ccf27d68582dbe2b45c8fdad0ca533d27b410"
+          "defaultBranchLatestCommitSha": "a45820a005bf3a54c16f6b1be6cb2ace61009225"
         }
       ]
     },
@@ -67794,6 +68619,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "2477257233e418cb45a898ff2fc2d5241433c71d"
+        },
+        {
+          "pluginName": "locale",
+          "pluginRepository": "https://github.com/jenkinsci/locale-plugin.git",
+          "pluginVersion": "641.v84f22d75fd8b_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/locale-plugin/pull/376",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-32-00.json",
+          "path": "metadata-plugin-modernizer/locale/modernization-metadata"
         }
       ]
     },
@@ -68924,6 +69774,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "f4097f53f9f8595c1de8b418b5c9a2a3a84a93a2"
+        },
+        {
+          "pluginName": "login-theme",
+          "pluginRepository": "https://github.com/jenkinsci/login-theme-plugin.git",
+          "pluginVersion": "325.v94b_7548124cb_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/login-theme-plugin/pull/181",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-33-45.json",
+          "path": "metadata-plugin-modernizer/login-theme/modernization-metadata"
         }
       ]
     },
@@ -69928,6 +70803,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "699325e633c43d12c8ea164cad9a26fca8592357"
+        },
+        {
+          "pluginName": "mariadb-api",
+          "pluginRepository": "https://github.com/jenkinsci/mariadb-api-plugin.git",
+          "pluginVersion": "3.5.8-192.v334b_a_162947e",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/mariadb-api-plugin/pull/104",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-35-08.json",
+          "path": "metadata-plugin-modernizer/mariadb-api/modernization-metadata"
         }
       ]
     },
@@ -72806,6 +73706,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "9b1b3bd3462d194a9090929eed07e69f1791f38c"
+        },
+        {
+          "pluginName": "next-executions",
+          "pluginRepository": "https://github.com/jenkinsci/next-executions-plugin.git",
+          "pluginVersion": "517.vc2c2ca_1b_c808",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/next-executions-plugin/pull/230",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-37-28.json",
+          "path": "metadata-plugin-modernizer/next-executions/modernization-metadata"
         }
       ]
     },
@@ -74122,6 +75047,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "dc8c6431f464bf006fd927b8c4774f4840d13b11"
+        },
+        {
+          "pluginName": "nunit",
+          "pluginRepository": "https://github.com/jenkinsci/nunit-plugin.git",
+          "pluginVersion": "648.vdc8c6431f464",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/nunit-plugin/pull/192",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-39-47.json",
+          "path": "metadata-plugin-modernizer/nunit/modernization-metadata"
         }
       ]
     },
@@ -75602,6 +76552,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "aa836f93c5180c230a42e761d6359aae6944dc52"
+        },
+        {
+          "pluginName": "openshift-k8s-credentials",
+          "pluginRepository": "https://github.com/jenkinsci/openshift-k8s-credentials-plugin.git",
+          "pluginVersion": "324.v23475795707d",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/openshift-k8s-credentials-plugin/pull/334",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-41-43.json",
+          "path": "metadata-plugin-modernizer/openshift-k8s-credentials/modernization-metadata"
         }
       ]
     },
@@ -76411,6 +77386,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "0dfa5daa036e6b1b2340fe163caa332909409d51"
+        },
+        {
+          "pluginName": "oras-java-api",
+          "pluginRepository": "https://github.com/jenkinsci/oras-java-api-plugin.git",
+          "pluginVersion": "0.6.5-200.v0dfa_5da_a_036e",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/oras-java-api-plugin/pull/118",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-43-23.json",
+          "path": "metadata-plugin-modernizer/oras-java-api/modernization-metadata"
         }
       ]
     },
@@ -76695,6 +77695,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "5d402d2ae18ba99ed8cc70dac7e53e13334c0ab7"
+        },
+        {
+          "pluginName": "oras-parameters",
+          "pluginRepository": "https://github.com/jenkinsci/oras-parameters-plugin.git",
+          "pluginVersion": "27.ve7df57fb_154d",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/oras-parameters-plugin/pull/21",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-22-29.json",
+          "path": "metadata-plugin-modernizer/oras-parameters/modernization-metadata"
         }
       ]
     },
@@ -77289,6 +78314,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "4a5d38a661304f90dcbe6c1f8d17623a88a855f7"
+        },
+        {
+          "pluginName": "oss-symbols-api",
+          "pluginRepository": "https://github.com/jenkinsci/oss-symbols-api-plugin.git",
+          "pluginVersion": "456.v46e634a_63b_99",
+          "jenkinsBaseline": "2.492",
+          "targetBaseline": "2.492",
+          "effectiveBaseline": "2.492",
+          "jenkinsVersion": "2.492.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/oss-symbols-api-plugin/pull/258",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-44-59.json",
+          "path": "metadata-plugin-modernizer/oss-symbols-api/modernization-metadata"
         }
       ]
     },
@@ -78585,6 +79635,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "5874c94ebbc0ccb1e5f9ad2f711d5d7ce6b39354"
+        },
+        {
+          "pluginName": "parameter-separator",
+          "pluginRepository": "https://github.com/jenkinsci/parameter-separator-plugin.git",
+          "pluginVersion": "334.v1fc0e534c71d",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/parameter-separator-plugin/pull/169",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-47-18.json",
+          "path": "metadata-plugin-modernizer/parameter-separator/modernization-metadata"
         }
       ]
     },
@@ -79871,7 +80946,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "d277b47f037d35bc23297ae525c6c3b78f894790"
+          "defaultBranchLatestCommitSha": "bda7c5326f1ba3b053af53351420e2fc44b58c18"
         }
       ]
     },
@@ -80745,6 +81820,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "312b50866aa11f27ae838bd62f2128d0b4405cdb"
+        },
+        {
+          "pluginName": "pipeline-cps-http",
+          "pluginRepository": "https://github.com/jenkinsci/pipeline-cps-http-plugin.git",
+          "pluginVersion": "201.v59370c7cf0ec",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/pipeline-cps-http-plugin/pull/91",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-49-30.json",
+          "path": "metadata-plugin-modernizer/pipeline-cps-http/modernization-metadata"
         }
       ]
     },
@@ -81804,6 +82904,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "dce8c2c9b06a325e3350042dba9d149f0a7ad119"
+        },
+        {
+          "pluginName": "pipeline-cps-oras",
+          "pluginRepository": "https://github.com/jenkinsci/pipeline-cps-oras-plugin.git",
+          "pluginVersion": "88.v0d7eff910a_13",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/pipeline-cps-oras-plugin/pull/64",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-55-25.json",
+          "path": "metadata-plugin-modernizer/pipeline-cps-oras/modernization-metadata"
         }
       ]
     },
@@ -82116,7 +83241,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "5cc688825312c805c93cadd0b61c42cdbf45f61f",
+          "defaultBranchLatestCommitSha": "894a9e1c8f2c1c339226d79c47768ae28f31eaa2",
           "timestamp": "2025-09-09T17-26-13"
         }
       ],
@@ -83314,6 +84439,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "75a57d6f7723355c244f923d45b046db2ae68aec"
+        },
+        {
+          "pluginName": "pipeline-lib-oras",
+          "pluginRepository": "https://github.com/jenkinsci/pipeline-lib-oras-plugin.git",
+          "pluginVersion": "90.vecb_55543088a_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/pipeline-lib-oras-plugin/pull/61",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-53-22.json",
+          "path": "metadata-plugin-modernizer/pipeline-lib-oras/modernization-metadata"
         }
       ]
     },
@@ -84355,6 +85505,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "f29ef1b913ce264e5e3f2b89cf08c70ed7ecd09a"
+        },
+        {
+          "pluginName": "pipeline-npm",
+          "pluginRepository": "https://github.com/jenkinsci/pipeline-npm-plugin.git",
+          "pluginVersion": "503.vf29ef1b_913ce",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/pipeline-npm-plugin/pull/268",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-51-13.json",
+          "path": "metadata-plugin-modernizer/pipeline-npm/modernization-metadata"
         }
       ]
     },
@@ -84454,7 +85629,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "c981c07fbce8f320c5b74238f8bf6ce24fda82b2"
+          "defaultBranchLatestCommitSha": "26748282f7688d7bc9c8f7820b9fc312788a657f"
         }
       ]
     },
@@ -85870,6 +87045,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "578141acba9fd4a7fd5fc66a86e84688852fc805"
+        },
+        {
+          "pluginName": "postgresql-fingerprint-storage",
+          "pluginRepository": "https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin.git",
+          "pluginVersion": "426.vf9f89a_59cc26",
+          "jenkinsBaseline": "2.504",
+          "targetBaseline": "2.504",
+          "effectiveBaseline": "2.504",
+          "jenkinsVersion": "2.504.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin/pull/411",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T16-59-32.json",
+          "path": "metadata-plugin-modernizer/postgresql-fingerprint-storage/modernization-metadata"
         }
       ]
     },
@@ -85969,7 +87169,7 @@
           },
           "checkRunsSummary": "success",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "873ffb7932b8cbf833c63b5a9f2eb834c3ad1321"
+          "defaultBranchLatestCommitSha": "86d098586f1d7fac6fa0b7148b4cbcdb99b68209"
         }
       ]
     },
@@ -89245,6 +90445,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "f338abceae04bc3ff67661053aa7aff092dedfdc"
+        },
+        {
+          "pluginName": "s3-jobcacher-storage",
+          "pluginRepository": "https://github.com/jenkinsci/s3-jobcacher-storage-plugin.git",
+          "pluginVersion": "62.v260cb_8db_5b_fa_",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "fail",
+          "pullRequestUrl": "",
+          "pullRequestStatus": "",
+          "dryRun": false,
+          "additions": 0,
+          "deletions": 0,
+          "changedFiles": 0,
+          "key": "2026-06-06T17-01-25.json",
+          "path": "metadata-plugin-modernizer/s3-jobcacher-storage/modernization-metadata"
         }
       ]
     },
@@ -90289,6 +91514,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "e053ee8620ab00832293630d0dcdb1f9893c2a5d"
+        },
+        {
+          "pluginName": "scm-filter-branch-pr",
+          "pluginRepository": "https://github.com/jenkinsci/scm-filter-branch-pr-plugin.git",
+          "pluginVersion": "264.v39ce4f34d572",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/scm-filter-branch-pr-plugin/pull/141",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T17-02-57.json",
+          "path": "metadata-plugin-modernizer/scm-filter-branch-pr/modernization-metadata"
         }
       ]
     },
@@ -90341,7 +91591,7 @@
           },
           "checkRunsSummary": "failure",
           "defaultBranch": "master",
-          "defaultBranchLatestCommitSha": "db3dc61675af8e435788e520122c03e80ddffd40",
+          "defaultBranchLatestCommitSha": "7111131fb5dfa293361e5baae13b14a8beda3262",
           "timestamp": "2026-01-16T14-40-41"
         }
       ],
@@ -91938,6 +93188,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "e800ae9ab387cf14dbd4a748474d4b7b7d7cfe9d"
+        },
+        {
+          "pluginName": "simple-priority-sorter",
+          "pluginRepository": "https://github.com/jenkinsci/simple-priority-sorter-plugin.git",
+          "pluginVersion": "47.v920b_a_09b_0e77",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/simple-priority-sorter-plugin/pull/38",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T17-06-38.json",
+          "path": "metadata-plugin-modernizer/simple-priority-sorter/modernization-metadata"
         }
       ]
     },
@@ -93152,6 +94427,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "bf5e11e9b158433b46ae45728a0828173cc3818f"
+        },
+        {
+          "pluginName": "skip-notifications-trait",
+          "pluginRepository": "https://github.com/jenkinsci/skip-notifications-trait-plugin.git",
+          "pluginVersion": "625.vb_f5e11e9b_158",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/skip-notifications-trait-plugin/pull/323",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T17-04-51.json",
+          "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata"
         }
       ]
     },
@@ -98265,6 +99565,31 @@
           "checkRunsSummary": "success",
           "defaultBranch": "main",
           "defaultBranchLatestCommitSha": "9b8d984d959cc872b203a2991272a451b67afa43"
+        },
+        {
+          "pluginName": "webhook-secret-credentials-provider",
+          "pluginRepository": "https://github.com/jenkinsci/webhook-secret-credentials-provider-plugin.git",
+          "pluginVersion": "16.v0cfa_f0215cf5",
+          "jenkinsBaseline": "2.528",
+          "targetBaseline": "2.528",
+          "effectiveBaseline": "2.528",
+          "jenkinsVersion": "2.528.3",
+          "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
+          "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
+          "tags": [
+            "migration",
+            "dependencies"
+          ],
+          "migrationId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+          "migrationStatus": "success",
+          "pullRequestUrl": "https://github.com/jenkinsci/webhook-secret-credentials-provider-plugin/pull/24",
+          "pullRequestStatus": "open",
+          "dryRun": false,
+          "additions": 1,
+          "deletions": 0,
+          "changedFiles": 1,
+          "key": "2026-06-06T17-08-45.json",
+          "path": "metadata-plugin-modernizer/webhook-secret-credentials-provider/modernization-metadata"
         }
       ]
     },
