@@ -1,9 +1,274 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
-  "totalApplications": 18,
-  "successCount": 17,
-  "failureCount": 1,
+  "totalApplications": 71,
+  "successCount": 68,
+  "failureCount": 3,
   "plugins": [
+    {
+      "pluginName": "webhook-secret-credentials-provider",
+      "status": "success",
+      "timestamp": "2026-06-06T17-08-45"
+    },
+    {
+      "pluginName": "simple-priority-sorter",
+      "status": "success",
+      "timestamp": "2026-06-06T17-06-38"
+    },
+    {
+      "pluginName": "skip-notifications-trait",
+      "status": "success",
+      "timestamp": "2026-06-06T17-04-51"
+    },
+    {
+      "pluginName": "scm-filter-branch-pr",
+      "status": "success",
+      "timestamp": "2026-06-06T17-02-57"
+    },
+    {
+      "pluginName": "s3-jobcacher-storage",
+      "status": "fail",
+      "timestamp": "2026-06-06T17-01-25"
+    },
+    {
+      "pluginName": "postgresql-fingerprint-storage",
+      "status": "success",
+      "timestamp": "2026-06-06T16-59-32"
+    },
+    {
+      "pluginName": "pipeline-cps-oras",
+      "status": "success",
+      "timestamp": "2026-06-06T16-55-25"
+    },
+    {
+      "pluginName": "pipeline-lib-oras",
+      "status": "success",
+      "timestamp": "2026-06-06T16-53-22"
+    },
+    {
+      "pluginName": "pipeline-npm",
+      "status": "success",
+      "timestamp": "2026-06-06T16-51-13"
+    },
+    {
+      "pluginName": "pipeline-cps-http",
+      "status": "success",
+      "timestamp": "2026-06-06T16-49-30"
+    },
+    {
+      "pluginName": "parameter-separator",
+      "status": "success",
+      "timestamp": "2026-06-06T16-47-18"
+    },
+    {
+      "pluginName": "oss-symbols-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-44-59"
+    },
+    {
+      "pluginName": "oras-java-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-43-23"
+    },
+    {
+      "pluginName": "openshift-k8s-credentials",
+      "status": "success",
+      "timestamp": "2026-06-06T16-41-43"
+    },
+    {
+      "pluginName": "nunit",
+      "status": "success",
+      "timestamp": "2026-06-06T16-39-47"
+    },
+    {
+      "pluginName": "next-executions",
+      "status": "success",
+      "timestamp": "2026-06-06T16-37-28"
+    },
+    {
+      "pluginName": "mariadb-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-35-08"
+    },
+    {
+      "pluginName": "login-theme",
+      "status": "success",
+      "timestamp": "2026-06-06T16-33-45"
+    },
+    {
+      "pluginName": "locale",
+      "status": "success",
+      "timestamp": "2026-06-06T16-32-00"
+    },
+    {
+      "pluginName": "jsoup",
+      "status": "success",
+      "timestamp": "2026-06-06T16-29-58"
+    },
+    {
+      "pluginName": "jnr-posix-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-28-34"
+    },
+    {
+      "pluginName": "json-path-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-27-02"
+    },
+    {
+      "pluginName": "json-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-25-37"
+    },
+    {
+      "pluginName": "joda-time-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-23-48"
+    },
+    {
+      "pluginName": "oras-parameters",
+      "status": "success",
+      "timestamp": "2026-06-06T16-22-29"
+    },
+    {
+      "pluginName": "jobcacher-oras-storage",
+      "status": "success",
+      "timestamp": "2026-06-06T16-20-08"
+    },
+    {
+      "pluginName": "jobcacher-artifactory-storage",
+      "status": "success",
+      "timestamp": "2026-06-06T16-17-15"
+    },
+    {
+      "pluginName": "jobcacher",
+      "status": "fail",
+      "timestamp": "2026-06-06T16-15-17"
+    },
+    {
+      "pluginName": "jcaptcha-plugin",
+      "status": "success",
+      "timestamp": "2026-06-06T16-12-10"
+    },
+    {
+      "pluginName": "jackson3-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-10-52"
+    },
+    {
+      "pluginName": "hidden-parameter",
+      "status": "success",
+      "timestamp": "2026-06-06T16-09-04"
+    },
+    {
+      "pluginName": "git-version-monitor",
+      "status": "success",
+      "timestamp": "2026-06-06T16-06-53"
+    },
+    {
+      "pluginName": "gson-api",
+      "status": "success",
+      "timestamp": "2026-06-06T16-05-21"
+    },
+    {
+      "pluginName": "gitlab-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-06-06T16-03-52"
+    },
+    {
+      "pluginName": "flyway-runner",
+      "status": "success",
+      "timestamp": "2026-06-06T16-01-56"
+    },
+    {
+      "pluginName": "flyway-api",
+      "status": "success",
+      "timestamp": "2026-06-06T15-59-24"
+    },
+    {
+      "pluginName": "file-operations",
+      "status": "success",
+      "timestamp": "2026-06-06T15-55-20"
+    },
+    {
+      "pluginName": "extended-read-permission",
+      "status": "success",
+      "timestamp": "2026-06-06T15-52-17"
+    },
+    {
+      "pluginName": "extra-tool-installers",
+      "status": "success",
+      "timestamp": "2026-06-06T15-50-49"
+    },
+    {
+      "pluginName": "extension-filter",
+      "status": "success",
+      "timestamp": "2026-06-06T15-49-05"
+    },
+    {
+      "pluginName": "exclusive-label-plugin",
+      "status": "success",
+      "timestamp": "2026-06-06T15-47-14"
+    },
+    {
+      "pluginName": "database-mariadb",
+      "status": "success",
+      "timestamp": "2026-06-06T15-45-34"
+    },
+    {
+      "pluginName": "coverage-badges-extension",
+      "status": "success",
+      "timestamp": "2026-06-06T15-43-44"
+    },
+    {
+      "pluginName": "commons-math3-api",
+      "status": "success",
+      "timestamp": "2026-06-06T15-41-52"
+    },
+    {
+      "pluginName": "byte-buddy-api",
+      "status": "success",
+      "timestamp": "2026-06-06T15-40-26"
+    },
+    {
+      "pluginName": "build-history-metrics-plugin",
+      "status": "success",
+      "timestamp": "2026-06-06T15-38-49"
+    },
+    {
+      "pluginName": "bitbucket-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-06-06T15-36-56"
+    },
+    {
+      "pluginName": "asm-api",
+      "status": "success",
+      "timestamp": "2026-06-06T15-35-02"
+    },
+    {
+      "pluginName": "artifactory-client-api",
+      "status": "success",
+      "timestamp": "2026-06-06T15-33-53"
+    },
+    {
+      "pluginName": "artifactory-artifact-manager",
+      "status": "success",
+      "timestamp": "2026-06-06T15-32-24"
+    },
+    {
+      "pluginName": "asm-api",
+      "status": "success",
+      "timestamp": "2026-06-06T15-00-21"
+    },
+    {
+      "pluginName": "artifactory-client-api",
+      "status": "success",
+      "timestamp": "2026-06-06T14-58-41"
+    },
+    {
+      "pluginName": "artifactory-artifact-manager",
+      "status": "success",
+      "timestamp": "2026-06-06T14-56-39"
+    },
     {
       "pluginName": "jcaptcha-plugin",
       "status": "success",
