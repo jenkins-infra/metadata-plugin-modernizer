@@ -13,7 +13,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/Matrix-sorter-plugin/pull/4",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 21,
       "deletions": 6,
@@ -25,7 +25,7 @@
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "0639e074187e6b016098c62b67ae5d831a213c8c",
+      "defaultBranchLatestCommitSha": "ec4502d4916659fe797768a4940fa8543d40b8ac",
       "timestamp": "2025-07-02T17-39-11"
     }
   ]
