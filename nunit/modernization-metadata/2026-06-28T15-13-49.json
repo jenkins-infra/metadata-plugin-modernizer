@@ -1,0 +1,24 @@
+{
+  "pluginName": "nunit",
+  "pluginRepository": "https://github.com/jenkinsci/nunit-plugin.git",
+  "pluginVersion": "648.vdc8c6431f464",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/nunit-plugin/pull/193",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 3,
+  "deletions": 3,
+  "changedFiles": 1,
+  "key": "2026-06-28T15-13-49.json",
+  "path": "metadata-plugin-modernizer/nunit/modernization-metadata"
+}
