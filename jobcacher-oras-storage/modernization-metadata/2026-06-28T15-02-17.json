@@ -1,0 +1,24 @@
+{
+  "pluginName": "jobcacher-oras-storage",
+  "pluginRepository": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin.git",
+  "pluginVersion": "144.vb_727c9b_7d229",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin/pull/95",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T15-02-17.json",
+  "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata"
+}
