@@ -1,0 +1,24 @@
+{
+  "pluginName": "jcaptcha-plugin",
+  "pluginRepository": "https://github.com/jenkinsci/jcaptcha-plugin.git",
+  "pluginVersion": "108.v49e0795497c2",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/jcaptcha-plugin/pull/65",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T14-53-37.json",
+  "path": "metadata-plugin-modernizer/jcaptcha-plugin/modernization-metadata"
+}
