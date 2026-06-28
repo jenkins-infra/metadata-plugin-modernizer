@@ -1,0 +1,25 @@
+{
+  "pluginName": "skip-notifications-trait",
+  "pluginRepository": "https://github.com/jenkinsci/skip-notifications-trait-plugin.git",
+  "pluginVersion": "625.vb_f5e11e9b_158",
+  "jenkinsBaseline": "2.541",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.541",
+  "jenkinsVersion": "2.541.3",
+  "migrationName": "Remove Release Drafter if CD is enabled",
+  "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-28T16-28-21.json",
+  "path": "metadata-plugin-modernizer/skip-notifications-trait/modernization-metadata"
+}
