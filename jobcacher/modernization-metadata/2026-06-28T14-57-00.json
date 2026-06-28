@@ -1,0 +1,24 @@
+{
+  "pluginName": "jobcacher",
+  "pluginRepository": "https://github.com/jenkinsci/jobcacher-plugin.git",
+  "pluginVersion": "842.v74b_a_026267b_6",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "fail",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-28T14-57-00.json",
+  "path": "metadata-plugin-modernizer/jobcacher/modernization-metadata"
+}
