@@ -1,0 +1,25 @@
+{
+  "pluginName": "extended-read-permission",
+  "pluginRepository": "https://github.com/jenkinsci/extended-read-permission-plugin.git",
+  "pluginVersion": "68.vd270568a_7520",
+  "jenkinsBaseline": "",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Remove Release Drafter if CD is enabled",
+  "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-28T16-01-35.json",
+  "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata"
+}
