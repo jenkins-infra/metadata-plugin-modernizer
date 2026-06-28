@@ -1,0 +1,25 @@
+{
+  "pluginName": "exclusive-label-plugin",
+  "pluginRepository": "https://github.com/jenkinsci/exclusive-labels-plugin.git",
+  "pluginVersion": "19.v40532946d413",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Remove Release Drafter if CD is enabled",
+  "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-28T15-58-09.json",
+  "path": "metadata-plugin-modernizer/exclusive-label-plugin/modernization-metadata"
+}
