@@ -1,0 +1,24 @@
+{
+  "pluginName": "flyway-runner",
+  "pluginRepository": "https://github.com/jenkinsci/flyway-runner-plugin.git",
+  "pluginVersion": "282.v7e837c0b_ff13",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/flyway-runner-plugin/pull/168",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T14-45-49.json",
+  "path": "metadata-plugin-modernizer/flyway-runner/modernization-metadata"
+}
