@@ -1,0 +1,24 @@
+{
+  "pluginName": "build-history-metrics-plugin",
+  "pluginRepository": "https://github.com/jenkinsci/build-history-metrics-plugin.git",
+  "pluginVersion": "217.vf34ff6a_b_41ca_",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/build-history-metrics-plugin/pull/110",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T14-27-42.json",
+  "path": "metadata-plugin-modernizer/build-history-metrics-plugin/modernization-metadata"
+}
