@@ -1,0 +1,25 @@
+{
+  "pluginName": "openshift-k8s-credentials",
+  "pluginRepository": "https://github.com/jenkinsci/openshift-k8s-credentials-plugin.git",
+  "pluginVersion": "324.v23475795707d",
+  "jenkinsBaseline": "2.541",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.541",
+  "jenkinsVersion": "2.541.3",
+  "migrationName": "Remove Release Drafter if CD is enabled",
+  "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/openshift-k8s-credentials-plugin/pull/336",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T16-19-16.json",
+  "path": "metadata-plugin-modernizer/openshift-k8s-credentials/modernization-metadata"
+}
