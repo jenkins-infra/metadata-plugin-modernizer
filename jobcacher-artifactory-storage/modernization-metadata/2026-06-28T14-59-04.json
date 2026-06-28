@@ -1,0 +1,24 @@
+{
+  "pluginName": "jobcacher-artifactory-storage",
+  "pluginRepository": "https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin.git",
+  "pluginVersion": "250.v0d119ef70b_87",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin/pull/135",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T14-59-04.json",
+  "path": "metadata-plugin-modernizer/jobcacher-artifactory-storage/modernization-metadata"
+}
