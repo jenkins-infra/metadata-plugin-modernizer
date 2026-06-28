@@ -1,0 +1,25 @@
+{
+  "pluginName": "git-version-monitor",
+  "pluginRepository": "https://github.com/jenkinsci/git-version-monitor-plugin.git",
+  "pluginVersion": "41.v0cfdf922b_b_0c",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.528",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Remove Release Drafter if CD is enabled",
+  "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-28T16-06-17.json",
+  "path": "metadata-plugin-modernizer/git-version-monitor/modernization-metadata"
+}
