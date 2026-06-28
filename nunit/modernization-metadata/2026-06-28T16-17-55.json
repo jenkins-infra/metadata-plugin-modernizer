@@ -1,0 +1,25 @@
+{
+  "pluginName": "nunit",
+  "pluginRepository": "https://github.com/jenkinsci/nunit-plugin.git",
+  "pluginVersion": "648.vdc8c6431f464",
+  "jenkinsBaseline": "2.541",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.541",
+  "jenkinsVersion": "2.541.3",
+  "migrationName": "Remove Release Drafter if CD is enabled",
+  "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+  "migrationStatus": "success",
+  "pullRequestUrl": "",
+  "pullRequestStatus": "",
+  "dryRun": false,
+  "additions": 0,
+  "deletions": 0,
+  "changedFiles": 0,
+  "key": "2026-06-28T16-17-55.json",
+  "path": "metadata-plugin-modernizer/nunit/modernization-metadata"
+}
