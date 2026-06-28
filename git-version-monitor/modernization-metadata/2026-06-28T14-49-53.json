@@ -1,0 +1,24 @@
+{
+  "pluginName": "git-version-monitor",
+  "pluginRepository": "https://github.com/jenkinsci/git-version-monitor-plugin.git",
+  "pluginVersion": "41.v0cfdf922b_b_0c",
+  "jenkinsBaseline": "2.528",
+  "targetBaseline": "2.541",
+  "effectiveBaseline": "2.528",
+  "jenkinsVersion": "2.528.3",
+  "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+  "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+  "tags": [
+    "developer"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/git-version-monitor-plugin/pull/47",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 2,
+  "deletions": 2,
+  "changedFiles": 1,
+  "key": "2026-06-28T14-49-53.json",
+  "path": "metadata-plugin-modernizer/git-version-monitor/modernization-metadata"
+}
