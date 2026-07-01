@@ -1,16 +1,16 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-06-28 01:18:09 UTC
+Generated on: 2026-07-01 01:19:00 UTC
 
 ## Overview
-- **Total Migrations**: 1388
-- **Failed Migrations**: 592
-- **Success Rate**: 57.35%
+- **Total Migrations**: 1459
+- **Failed Migrations**: 595
+- **Success Rate**: 59.22%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion: 32 failures
-- io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 17 failures
+- io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 20 failures
 - io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 5 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
@@ -57,6 +57,7 @@ Generated on: 2026-06-28 01:18:09 UTC
 - [backlog](../backlog/reports/failed_migrations.csv)
 - [backup](../backup/reports/failed_migrations.csv)
 - [bitbucket-approve](../bitbucket-approve/reports/failed_migrations.csv)
+- [bitbucket-kubernetes-credentials](../bitbucket-kubernetes-credentials/reports/failed_migrations.csv)
 - [bitkeeper](../bitkeeper/reports/failed_migrations.csv)
 - [blackduck-coverity-on-polaris](../blackduck-coverity-on-polaris/reports/failed_migrations.csv)
 - [blink1](../blink1/reports/failed_migrations.csv)
@@ -258,10 +259,10 @@ Generated on: 2026-06-28 01:18:09 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 659 | - |
-| Open PRs | 78 | 11.84% |
-| Closed PRs | 32 | 4.86% |
-| Merged PRs | 549 | 83.31% |
+| Total PRs | 693 | - |
+| Open PRs | 112 | 16.16% |
+| Closed PRs | 32 | 4.62% |
+| Merged PRs | 549 | 79.22% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
@@ -278,12 +279,12 @@ Generated on: 2026-06-28 01:18:09 UTC
 - **2026-03**: 9 success, 0 fail, 9 total
 - **2026-04**: 70 success, 2 fail, 72 total
 - **2026-05**: 18 success, 1 fail, 19 total
-- **2026-06**: 51 success, 2 fail, 53 total
+- **2026-06**: 119 success, 5 fail, 124 total
 
 ## Tags
-- **skip-verification**: 759
-- **chore**: 759
+- **skip-verification**: 794
+- **chore**: 794
 - **dependencies**: 467
 - **migration**: 298
-- **developer**: 156
+- **developer**: 192
 - **testing**: 6

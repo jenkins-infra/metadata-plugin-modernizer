@@ -1,8 +1,8 @@
 {
-  "generatedOn": "2026-06-28 01:18:09 UTC",
-  "totalMigrations": 1388,
-  "failedMigrations": 592,
-  "successRate": 57.35,
+  "generatedOn": "2026-07-01 01:19:00 UTC",
+  "totalMigrations": 1459,
+  "failedMigrations": 595,
+  "successRate": 59.22,
   "failuresByRecipe": [
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
@@ -14,7 +14,7 @@
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
-      "failures": 17
+      "failures": 20
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
@@ -89,6 +89,7 @@
     "backlog",
     "backup",
     "bitbucket-approve",
+    "bitbucket-kubernetes-credentials",
     "bitkeeper",
     "blackduck-coverity-on-polaris",
     "blink1",
@@ -287,13 +288,13 @@
     "zentimestamp"
   ],
   "pullRequestStats": {
-    "total": 659,
-    "open": 78,
+    "total": 693,
+    "open": 112,
     "closed": 32,
     "merged": 549,
-    "openRate": 11.84,
-    "closedRate": 4.86,
-    "mergeRate": 83.31
+    "openRate": 16.16,
+    "closedRate": 4.62,
+    "mergeRate": 79.22
   },
   "timeline": [
     {
@@ -364,19 +365,19 @@
     },
     {
       "month": "2026-06",
-      "success": 51,
-      "fail": 2,
-      "total": 53
+      "success": 119,
+      "fail": 5,
+      "total": 124
     }
   ],
   "tags": [
     {
       "tag": "skip-verification",
-      "count": 759
+      "count": 794
     },
     {
       "tag": "chore",
-      "count": 759
+      "count": 794
     },
     {
       "tag": "dependencies",
@@ -388,7 +389,7 @@
     },
     {
       "tag": "developer",
-      "count": 156
+      "count": 192
     },
     {
       "tag": "testing",
