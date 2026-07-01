@@ -8,6 +8,53 @@
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.528",
       "jenkinsVersion": "2.528.3",
+      "migrationName": "Remove Release Drafter if CD is enabled",
+      "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-06-28T16-01-35.json",
+      "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata",
+      "timestamp": "2026-06-28T16-01-35"
+    },
+    {
+      "pluginVersion": "68.vd270568a_7520",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.541",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/extended-read-permission-plugin/pull/61",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1,
+      "key": "2026-06-28T14-39-42.json",
+      "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata",
+      "timestamp": "2026-06-28T14-39-42"
+    },
+    {
+      "pluginVersion": "68.vd270568a_7520",
+      "jenkinsBaseline": "",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
       "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
       "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
       "tags": [
