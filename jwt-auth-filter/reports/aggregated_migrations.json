@@ -3,6 +3,29 @@
   "pluginRepository": "https://github.com/jenkinsci/jwt-auth-filter-plugin.git",
   "migrations": [
     {
+      "pluginVersion": "52.v493a_c62a_0373",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.541",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/jwt-auth-filter-plugin/pull/31",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1,
+      "key": "2026-06-28T07-01-51.json",
+      "path": "metadata-plugin-modernizer/jwt-auth-filter/modernization-metadata",
+      "timestamp": "2026-06-28T07-01-51"
+    },
+    {
       "pluginVersion": "36.v4a_80b_6b_209a_4",
       "jenkinsBaseline": "2.528",
       "targetBaseline": "2.528",

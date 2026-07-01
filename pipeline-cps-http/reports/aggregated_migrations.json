@@ -4,6 +4,53 @@
   "migrations": [
     {
       "pluginVersion": "201.v59370c7cf0ec",
+      "jenkinsBaseline": "2.541",
+      "targetBaseline": "2.541",
+      "effectiveBaseline": "2.541",
+      "jenkinsVersion": "2.541.3",
+      "migrationName": "Remove Release Drafter if CD is enabled",
+      "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-06-28T16-21-40.json",
+      "path": "metadata-plugin-modernizer/pipeline-cps-http/modernization-metadata",
+      "timestamp": "2026-06-28T16-21-40"
+    },
+    {
+      "pluginVersion": "201.v59370c7cf0ec",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.541",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/pipeline-cps-http-plugin/pull/92",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1,
+      "key": "2026-06-28T15-20-45.json",
+      "path": "metadata-plugin-modernizer/pipeline-cps-http/modernization-metadata",
+      "timestamp": "2026-06-28T15-20-45"
+    },
+    {
+      "pluginVersion": "201.v59370c7cf0ec",
       "jenkinsBaseline": "2.528",
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.528",

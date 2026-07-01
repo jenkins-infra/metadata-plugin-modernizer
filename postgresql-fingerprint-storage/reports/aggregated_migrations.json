@@ -8,6 +8,53 @@
       "targetBaseline": "2.504",
       "effectiveBaseline": "2.504",
       "jenkinsVersion": "2.504.3",
+      "migrationName": "Remove Release Drafter if CD is enabled",
+      "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-06-28T16-25-29.json",
+      "path": "metadata-plugin-modernizer/postgresql-fingerprint-storage/modernization-metadata",
+      "timestamp": "2026-06-28T16-25-29"
+    },
+    {
+      "pluginVersion": "426.vf9f89a_59cc26",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "fail",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-06-28T15-28-21.json",
+      "path": "metadata-plugin-modernizer/postgresql-fingerprint-storage/modernization-metadata",
+      "timestamp": "2026-06-28T15-28-21"
+    },
+    {
+      "pluginVersion": "426.vf9f89a_59cc26",
+      "jenkinsBaseline": "2.504",
+      "targetBaseline": "2.504",
+      "effectiveBaseline": "2.504",
+      "jenkinsVersion": "2.504.3",
       "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
       "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
       "tags": [

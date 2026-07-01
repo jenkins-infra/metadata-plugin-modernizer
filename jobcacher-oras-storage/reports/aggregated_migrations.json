@@ -8,6 +8,53 @@
       "targetBaseline": "2.528",
       "effectiveBaseline": "2.528",
       "jenkinsVersion": "2.528.3",
+      "migrationName": "Remove Release Drafter if CD is enabled",
+      "migrationDescription": "Remove Release Drafter if CD is enabled. See https://www.jenkins.io/doc/developer/publishing/releasing-cd/#configure-release-drafter.",
+      "tags": [
+        "skip-verification",
+        "chore"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
+      "migrationStatus": "success",
+      "pullRequestUrl": "",
+      "pullRequestStatus": "",
+      "dryRun": false,
+      "additions": 0,
+      "deletions": 0,
+      "changedFiles": 0,
+      "key": "2026-06-28T16-12-04.json",
+      "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata",
+      "timestamp": "2026-06-28T16-12-04"
+    },
+    {
+      "pluginVersion": "144.vb_727c9b_7d229",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.541",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
+      "migrationName": "Upgrade to the latest recommended core version and ensure the BOM matches the core version",
+      "migrationDescription": "Upgrade to the latest recommended core version and ensure the BOM matches the core version.",
+      "tags": [
+        "developer"
+      ],
+      "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
+      "migrationStatus": "success",
+      "pullRequestUrl": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin/pull/95",
+      "pullRequestStatus": "open",
+      "dryRun": false,
+      "additions": 2,
+      "deletions": 2,
+      "changedFiles": 1,
+      "key": "2026-06-28T15-02-17.json",
+      "path": "metadata-plugin-modernizer/jobcacher-oras-storage/modernization-metadata",
+      "timestamp": "2026-06-28T15-02-17"
+    },
+    {
+      "pluginVersion": "144.vb_727c9b_7d229",
+      "jenkinsBaseline": "2.528",
+      "targetBaseline": "2.528",
+      "effectiveBaseline": "2.528",
+      "jenkinsVersion": "2.528.3",
       "migrationName": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`",
       "migrationDescription": "Ensure the pom.xml contains the property `banObsoleteDependencyOverrides.skip` set to `false`.",
       "tags": [
@@ -45,7 +92,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-06-06T16-20-08"
     },
     {
@@ -91,7 +138,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-04-18T10-04-36"
     },
     {
@@ -136,7 +183,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-04-06T13-16-26"
     },
     {
@@ -169,7 +216,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-01-24T14-30-29"
     },
     {
@@ -214,7 +261,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-01-14T12-11-05"
     },
     {
@@ -258,7 +305,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-01-14T11-10-11"
     },
     {
@@ -303,7 +350,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-01-10T20-13-51"
     },
     {
@@ -347,7 +394,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-01-04T09-32-05"
     },
     {
@@ -393,7 +440,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2026-01-03T19-13-28"
     },
     {
@@ -438,7 +485,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2025-10-31T15-18-48"
     },
     {
@@ -484,7 +531,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2025-08-09T09-48-18"
     },
     {
@@ -528,7 +575,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f78d52b8345c67c5bdd25df5ea3e68935c0d0bfd",
+      "defaultBranchLatestCommitSha": "ecbe43ab934508c3e4138c21565451c7a704acb4",
       "timestamp": "2025-07-27T10-44-24"
     }
   ]
