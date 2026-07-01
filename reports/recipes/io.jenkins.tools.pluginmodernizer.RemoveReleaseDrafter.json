@@ -1,9 +1,184 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.RemoveReleaseDrafter",
-  "totalApplications": 3,
-  "successCount": 3,
+  "totalApplications": 38,
+  "successCount": 38,
   "failureCount": 0,
   "plugins": [
+    {
+      "pluginName": "webhook-secret-credentials-provider",
+      "status": "success",
+      "timestamp": "2026-06-28T16-30-10"
+    },
+    {
+      "pluginName": "simple-priority-sorter",
+      "status": "success",
+      "timestamp": "2026-06-28T16-29-14"
+    },
+    {
+      "pluginName": "skip-notifications-trait",
+      "status": "success",
+      "timestamp": "2026-06-28T16-28-21"
+    },
+    {
+      "pluginName": "scm-filter-branch-pr",
+      "status": "success",
+      "timestamp": "2026-06-28T16-27-23"
+    },
+    {
+      "pluginName": "s3-jobcacher-storage",
+      "status": "success",
+      "timestamp": "2026-06-28T16-26-30"
+    },
+    {
+      "pluginName": "postgresql-fingerprint-storage",
+      "status": "success",
+      "timestamp": "2026-06-28T16-25-29"
+    },
+    {
+      "pluginName": "pipeline-cps-oras",
+      "status": "success",
+      "timestamp": "2026-06-28T16-24-26"
+    },
+    {
+      "pluginName": "pipeline-lib-oras",
+      "status": "success",
+      "timestamp": "2026-06-28T16-23-30"
+    },
+    {
+      "pluginName": "pipeline-npm",
+      "status": "success",
+      "timestamp": "2026-06-28T16-22-34"
+    },
+    {
+      "pluginName": "pipeline-cps-http",
+      "status": "success",
+      "timestamp": "2026-06-28T16-21-40"
+    },
+    {
+      "pluginName": "parameter-separator",
+      "status": "success",
+      "timestamp": "2026-06-28T16-20-28"
+    },
+    {
+      "pluginName": "openshift-k8s-credentials",
+      "status": "success",
+      "timestamp": "2026-06-28T16-19-16"
+    },
+    {
+      "pluginName": "nunit",
+      "status": "success",
+      "timestamp": "2026-06-28T16-17-55"
+    },
+    {
+      "pluginName": "next-executions",
+      "status": "success",
+      "timestamp": "2026-06-28T16-16-44"
+    },
+    {
+      "pluginName": "login-theme",
+      "status": "success",
+      "timestamp": "2026-06-28T16-15-35"
+    },
+    {
+      "pluginName": "locale",
+      "status": "success",
+      "timestamp": "2026-06-28T16-14-26"
+    },
+    {
+      "pluginName": "oras-parameters",
+      "status": "success",
+      "timestamp": "2026-06-28T16-13-16"
+    },
+    {
+      "pluginName": "jobcacher-oras-storage",
+      "status": "success",
+      "timestamp": "2026-06-28T16-12-04"
+    },
+    {
+      "pluginName": "jobcacher-artifactory-storage",
+      "status": "success",
+      "timestamp": "2026-06-28T16-10-52"
+    },
+    {
+      "pluginName": "jobcacher",
+      "status": "success",
+      "timestamp": "2026-06-28T16-09-41"
+    },
+    {
+      "pluginName": "jcaptcha-plugin",
+      "status": "success",
+      "timestamp": "2026-06-28T16-08-28"
+    },
+    {
+      "pluginName": "hidden-parameter",
+      "status": "success",
+      "timestamp": "2026-06-28T16-07-26"
+    },
+    {
+      "pluginName": "git-version-monitor",
+      "status": "success",
+      "timestamp": "2026-06-28T16-06-17"
+    },
+    {
+      "pluginName": "gitlab-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-06-28T16-05-10"
+    },
+    {
+      "pluginName": "flyway-runner",
+      "status": "success",
+      "timestamp": "2026-06-28T16-03-57"
+    },
+    {
+      "pluginName": "file-operations",
+      "status": "success",
+      "timestamp": "2026-06-28T16-02-46"
+    },
+    {
+      "pluginName": "extended-read-permission",
+      "status": "success",
+      "timestamp": "2026-06-28T16-01-35"
+    },
+    {
+      "pluginName": "extra-tool-installers",
+      "status": "success",
+      "timestamp": "2026-06-28T16-00-30"
+    },
+    {
+      "pluginName": "extension-filter",
+      "status": "success",
+      "timestamp": "2026-06-28T15-59-17"
+    },
+    {
+      "pluginName": "exclusive-label-plugin",
+      "status": "success",
+      "timestamp": "2026-06-28T15-58-09"
+    },
+    {
+      "pluginName": "database-mariadb",
+      "status": "success",
+      "timestamp": "2026-06-28T15-57-01"
+    },
+    {
+      "pluginName": "coverage-badges-extension",
+      "status": "success",
+      "timestamp": "2026-06-28T15-55-55"
+    },
+    {
+      "pluginName": "build-history-metrics-plugin",
+      "status": "success",
+      "timestamp": "2026-06-28T15-54-40"
+    },
+    {
+      "pluginName": "bitbucket-kubernetes-credentials",
+      "status": "success",
+      "timestamp": "2026-06-28T15-53-29"
+    },
+    {
+      "pluginName": "artifactory-artifact-manager",
+      "status": "success",
+      "timestamp": "2026-06-28T15-52-14"
+    },
     {
       "pluginName": "gitlab-kubernetes-credentials",
       "status": "success",
