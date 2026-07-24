@@ -15,15 +15,17 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/testingbot-plugin/pull/9",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 12,
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-09-04T10-39-40.json",
   "path": "metadata-plugin-modernizer/testingbot/modernization-metadata",
-  "checkRuns": {},
-  "checkRunsSummary": "success",
+  "checkRuns": {
+    "Jenkins": "failure"
+  },
+  "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "58839f079d40f44d182fcbee7c02b7c5d256f215"
+  "defaultBranchLatestCommitSha": "4f0e3261bc60f727332e598281b7b6cfa83330e6"
 }
