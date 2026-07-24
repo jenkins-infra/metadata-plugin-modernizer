@@ -1,4 +1,4 @@
 migrationId,migrationStatus
-io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides,fail
 io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses,fail
 io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion,fail
+io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides,fail
