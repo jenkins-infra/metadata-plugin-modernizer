@@ -11,7 +11,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/ansible-tower-plugin/pull/27",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 12,
   "deletions": 24,
@@ -34,5 +34,5 @@
   },
   "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "4cfaeee6ceea305b8e82bd6f9fc49fd775c77adc"
+  "defaultBranchLatestCommitSha": "b07ecb0f995db497e4ec8cfbea629ccdc02ecd21"
 }
