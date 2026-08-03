@@ -14,7 +14,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/katalon-plugin/pull/36",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 24,
   "deletions": 17,
@@ -26,5 +26,5 @@
   },
   "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "9dc68bc286eb2d8d70a17faaad8e5f052c6c1474"
+  "defaultBranchLatestCommitSha": "e39757293879437dc6ff9097efdac82a9aaf2425"
 }

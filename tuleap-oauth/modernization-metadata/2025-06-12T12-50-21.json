@@ -14,26 +14,8 @@
   "path": "metadata-plugin-modernizer\\tuleap-oauth\\modernization-metadata",
   "status": "closed",
   "pullRequestStatus": "closed",
-  "checkRuns": {
-    "Jenkins Security Scan": "success",
-    "Open Tasks Scanner": "success",
-    "CPD": "success",
-    "PMD": "success",
-    "CheckStyle": "success",
-    "SpotBugs": "failure",
-    "JavaDoc": "success",
-    "Java Compiler": "success",
-    "ESLint": "success",
-    "Maven": "success",
-    "Code Coverage": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "Jenkins": "failure",
-    "security-scan / scan": "success",
-    "Tests (ubuntu-22.04) with coverage": "cancelled",
-    "Tests (windows-2022) with coverage": "failure",
-    "Build and archive": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "1c5fda3280dc3fcd251788b2b55a9e924d46a7a9"
 }
