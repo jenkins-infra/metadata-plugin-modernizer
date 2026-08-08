@@ -1,5 +1,5 @@
 {
-  "generatedOn": "2026-08-03 02:55:34 UTC",
+  "generatedOn": "2026-08-08 01:43:48 UTC",
   "totalMigrations": 1459,
   "failedMigrations": 595,
   "successRate": 59.22,
@@ -289,12 +289,12 @@
   ],
   "pullRequestStats": {
     "total": 693,
-    "open": 78,
-    "closed": 32,
-    "merged": 583,
-    "openRate": 11.26,
-    "closedRate": 4.62,
-    "mergeRate": 84.13
+    "open": 72,
+    "closed": 36,
+    "merged": 585,
+    "openRate": 10.39,
+    "closedRate": 5.19,
+    "mergeRate": 84.42
   },
   "timeline": [
     {
