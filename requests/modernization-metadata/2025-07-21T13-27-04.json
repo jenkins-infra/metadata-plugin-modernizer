@@ -14,7 +14,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/requests-plugin/pull/15",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 41,
   "deletions": 46,
@@ -28,5 +28,5 @@
   },
   "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "97510551ea481f402f8f0626bcd175377f494d5e"
+  "defaultBranchLatestCommitSha": "4bfe659a203efa80f358bee14b78b018e1ab6406"
 }
