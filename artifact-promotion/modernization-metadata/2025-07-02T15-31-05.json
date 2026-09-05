@@ -19,10 +19,7 @@
   "changedFiles": 1,
   "key": "2025-07-02T15-31-05.json",
   "path": "metadata-plugin-modernizer/artifact-promotion/modernization-metadata",
-  "checkRuns": {
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "0f069392616694e278e7d4544a1a95c79cebcac3"

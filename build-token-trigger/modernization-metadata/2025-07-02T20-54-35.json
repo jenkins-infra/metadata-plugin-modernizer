@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T20-54-35.json",
   "path": "metadata-plugin-modernizer/build-token-trigger/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "5e2ee5cdb32aa66a2f0be0cd12e844547453c5db"
+  "defaultBranchLatestCommitSha": "aa96f02a25a56d48aec2e020b8dd9dc18d88b205"
 }

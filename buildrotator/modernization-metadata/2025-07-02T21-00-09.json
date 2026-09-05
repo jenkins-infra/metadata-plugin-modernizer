@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T21-00-09.json",
   "path": "metadata-plugin-modernizer/buildrotator/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "0bbb71bb41a10844986665550e04fc03c47feddd"
 }

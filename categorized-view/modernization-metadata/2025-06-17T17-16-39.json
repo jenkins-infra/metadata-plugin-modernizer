@@ -13,25 +13,8 @@
   "pullRequestStatus": "merged",
   "key": "2025-06-17T17-16-39.json",
   "path": "metadata-plugin-modernizer/categorized-view/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "dc6afd00547178591efb0ecacdf2c38f1d1f7f50"
+  "defaultBranchLatestCommitSha": "786c936c9571d9fca9fe854b73f2e16bc49fb2f1"
 }

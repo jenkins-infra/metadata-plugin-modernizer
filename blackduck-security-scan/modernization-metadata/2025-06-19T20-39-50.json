@@ -17,23 +17,8 @@
   "changedFiles": 1,
   "key": "2025-06-19T20-39-50.json",
   "path": "metadata-plugin-modernizer\\blackduck-security-scan\\modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "33313e90f21042f214d2fdb213793ce9d89ef911"
+  "defaultBranchLatestCommitSha": "15717cf736a3f1691293003e3855caed07eb2609"
 }

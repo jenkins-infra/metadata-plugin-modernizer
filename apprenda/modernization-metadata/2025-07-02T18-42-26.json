@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T18-42-26.json",
   "path": "metadata-plugin-modernizer/apprenda/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "093972b4f76a740440cac7177ccf51262475f8c3"
 }

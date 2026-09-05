@@ -18,24 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-15T13-36-22.json",
   "path": "metadata-plugin-modernizer/bmc-change-manager-imstm/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "5024cb56b4762cb7fab8a6f11ed134ba5fc07720"
+  "defaultBranchLatestCommitSha": "47fc813df436dc9329a2a6cadc32cc6f0babbc8e"
 }

@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/kubernetes-plugin/pull/2797",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 33,
   "deletions": 28,
@@ -35,5 +35,5 @@
   },
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "612369217f87830062d2d5f44a2c500e6ad8ece5"
+  "defaultBranchLatestCommitSha": "cef94ab3ec22cfd3d383edc0007144c8987909a9"
 }

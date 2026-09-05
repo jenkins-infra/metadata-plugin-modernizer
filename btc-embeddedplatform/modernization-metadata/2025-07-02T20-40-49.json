@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T20-40-49.json",
   "path": "metadata-plugin-modernizer/btc-embeddedplatform/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "47f2a0619661884ab0c24f2df8351cc695421126"
 }

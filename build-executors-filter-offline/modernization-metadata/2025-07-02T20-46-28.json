@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T20-46-28.json",
   "path": "metadata-plugin-modernizer/build-executors-filter-offline/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "eaa37ff69d35f87bc7b02802501d4bbfead5a817"
 }

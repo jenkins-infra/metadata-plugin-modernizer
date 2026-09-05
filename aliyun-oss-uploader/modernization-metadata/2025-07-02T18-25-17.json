@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T18-25-17.json",
   "path": "metadata-plugin-modernizer/aliyun-oss-uploader/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "e3e3cc421d646d1817f236a372a2d241974954a4"
 }

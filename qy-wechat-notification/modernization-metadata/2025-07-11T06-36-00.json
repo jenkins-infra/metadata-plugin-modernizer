@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-11T06-36-00.json",
   "path": "metadata-plugin-modernizer/qy-wechat-notification/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "10cc7a98c1661015f8ef5fec31f59f8a8956549d"
 }
