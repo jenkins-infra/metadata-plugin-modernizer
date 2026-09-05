@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/docker-commons-plugin/pull/174",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 7,
       "deletions": 3,
@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "ee120e23d3ac200a3dcad3873f49a043abc015d9",
+      "defaultBranchLatestCommitSha": "289085ab6896f6214b798e28e72561ba7862cf76",
       "timestamp": "2025-09-09T18-06-09"
     }
   ]
