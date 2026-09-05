@@ -1,5 +1,5 @@
 {
-  "generatedOn": "2026-08-03 02:55:34 UTC",
+  "generatedOn": "2026-09-05 03:27:08 UTC",
   "totalMigrations": 1459,
   "failedMigrations": 595,
   "successRate": 59.22,
@@ -25,11 +25,11 @@
       "failures": 4
     },
     {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
+      "recipeId": "io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins",
       "failures": 3
     },
     {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins",
+      "recipeId": "io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides",
       "failures": 3
     },
     {
@@ -37,15 +37,15 @@
       "failures": 2
     },
     {
+      "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
+      "failures": 1
+    },
+    {
       "recipeId": "io.jenkins.tools.pluginmodernizer.AddCodeOwner",
       "failures": 1
     },
     {
       "recipeId": "io.jenkins.tools.pluginmodernizer.SetupDependabot",
-      "failures": 1
-    },
-    {
-      "recipeId": "io.jenkins.tools.pluginmodernizer.MigrateToJava25",
       "failures": 1
     },
     {
@@ -289,12 +289,12 @@
   ],
   "pullRequestStats": {
     "total": 693,
-    "open": 78,
-    "closed": 32,
-    "merged": 583,
-    "openRate": 11.26,
-    "closedRate": 4.62,
-    "mergeRate": 84.13
+    "open": 72,
+    "closed": 36,
+    "merged": 585,
+    "openRate": 10.39,
+    "closedRate": 5.19,
+    "mergeRate": 84.42
   },
   "timeline": [
     {

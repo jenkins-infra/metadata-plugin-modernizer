@@ -1,6 +1,6 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-08-03 02:55:34 UTC
+Generated on: 2026-09-05 03:27:08 UTC
 
 ## Overview
 - **Total Migrations**: 1459
@@ -13,12 +13,12 @@ Generated on: 2026-08-03 02:55:34 UTC
 - io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 20 failures
 - io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 5 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
-- io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides: 3 failures
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
+- io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
+- io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
 - io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
-- io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
 - io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
 
 ## Plugins with Failed Migrations
@@ -260,9 +260,9 @@ Generated on: 2026-08-03 02:55:34 UTC
 | Status | Count | Percentage |
 |--------|-------|------------|
 | Total PRs | 693 | - |
-| Open PRs | 78 | 11.26% |
-| Closed PRs | 32 | 4.62% |
-| Merged PRs | 583 | 84.13% |
+| Open PRs | 72 | 10.39% |
+| Closed PRs | 36 | 5.19% |
+| Merged PRs | 585 | 84.42% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
