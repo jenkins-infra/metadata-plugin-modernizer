@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T20-17-31.json",
   "path": "metadata-plugin-modernizer/azure-event-grid-notifier/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "5b73174b60f7471a70e6a14a3870ccc6b4c24926"
 }

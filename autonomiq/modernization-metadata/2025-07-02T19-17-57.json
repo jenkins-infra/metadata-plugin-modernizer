@@ -18,10 +18,8 @@
   "changedFiles": 3,
   "key": "2025-07-02T19-17-57.json",
   "path": "metadata-plugin-modernizer/autonomiq/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "c6e38a6589c9c25b5383d058fe17ec6b60d2d301"
 }

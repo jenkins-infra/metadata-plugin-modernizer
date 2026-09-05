@@ -18,12 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T20-43-18.json",
   "path": "metadata-plugin-modernizer/build-discarder/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "d0cf9719960d0760fe2b7def271bc1adb343582b"
 }

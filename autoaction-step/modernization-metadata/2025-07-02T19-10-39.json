@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T19-10-39.json",
   "path": "metadata-plugin-modernizer/autoaction-step/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "eaf40300aad733a65fa41b0530d0680353363163"
 }

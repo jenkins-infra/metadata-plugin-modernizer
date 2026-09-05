@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T19-36-48.json",
   "path": "metadata-plugin-modernizer/aws-device-farm/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "42a82c1c2dfe401708f2446c5ee25a14d904f0dd"
 }

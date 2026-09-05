@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T20-33-11.json",
   "path": "metadata-plugin-modernizer/bitbucket-pullrequest-builder/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "d15204730c75b6e0aa9c8a206c16bb445a72ab2b"
 }

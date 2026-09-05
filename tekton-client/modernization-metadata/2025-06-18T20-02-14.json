@@ -18,18 +18,8 @@
   "changedFiles": 8,
   "key": "2025-06-18T20-02-14.json",
   "path": "metadata-plugin-modernizer/tekton-client/modernization-metadata",
-  "checkRuns": {
-    "Code Coverage": "success",
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "Tests / linux-21 / Build (linux-21)": "failure",
-    "build (17)": "success",
-    "javadoc": "success",
-    "security-scan / scan": "success",
-    "spotbugs": "success",
-    "test (17)": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "f86208fd1e44320822f006ed82e1ac5d53e5c605"
 }

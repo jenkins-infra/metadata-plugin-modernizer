@@ -18,12 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T17-24-07.json",
   "path": "metadata-plugin-modernizer/metrics-datadog/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "7b8d143471ab420ccc5647b0caf59191fb7a7c16"
 }

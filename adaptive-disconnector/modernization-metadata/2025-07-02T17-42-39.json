@@ -18,10 +18,8 @@
   "changedFiles": 3,
   "key": "2025-07-02T17-42-39.json",
   "path": "metadata-plugin-modernizer/adaptive-disconnector/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "440439e4f31ad5d845582c2cb834f0a905a67b3f"
 }
