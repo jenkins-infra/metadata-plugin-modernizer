@@ -19,25 +19,8 @@
   "changedFiles": 2,
   "key": "2025-07-10T15-25-15.json",
   "path": "metadata-plugin-modernizer/custom-build-properties/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
-  "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "361d63442a1115f0c90e6fa39f56034dbc59795e"
+  "defaultBranch": "main",
+  "defaultBranchLatestCommitSha": "6eeb56b43032bb444b2a0d1542b74588b87eadbc"
 }

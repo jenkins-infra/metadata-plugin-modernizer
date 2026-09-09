@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T18-55-53.json",
   "path": "metadata-plugin-modernizer/arestocats/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "ce9d136922377243e2ffdcf1241e9b068959b676"
 }

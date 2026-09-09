@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T18-36-55.json",
   "path": "metadata-plugin-modernizer/appray/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "864d3139acfe7cd92880079fd4b9c94a55addf7e"
 }

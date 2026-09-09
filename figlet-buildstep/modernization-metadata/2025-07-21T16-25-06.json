@@ -22,10 +22,7 @@
   "changedFiles": 1,
   "key": "2025-07-21T16-25-06.json",
   "path": "metadata-plugin-modernizer/figlet-buildstep/modernization-metadata",
-  "checkRuns": {
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "9f303bed7fd79b5bf1516f72b1a98dc28c5f1537"

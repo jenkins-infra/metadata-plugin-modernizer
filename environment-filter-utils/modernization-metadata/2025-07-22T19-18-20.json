@@ -22,10 +22,7 @@
   "changedFiles": 1,
   "key": "2025-07-22T19-18-20.json",
   "path": "metadata-plugin-modernizer/environment-filter-utils/modernization-metadata",
-  "checkRuns": {
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "1b51e2908dc3a3bc4800508bd1c970af5fbe408d"
