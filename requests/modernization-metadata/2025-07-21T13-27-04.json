@@ -14,19 +14,15 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/requests-plugin/pull/15",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 41,
   "deletions": 46,
   "changedFiles": 11,
   "key": "2025-07-21T13-27-04.json",
   "path": "metadata-plugin-modernizer/requests/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "97510551ea481f402f8f0626bcd175377f494d5e"
+  "defaultBranchLatestCommitSha": "3e59cedbef4ce4a48453ec684a172d70d811baad"
 }

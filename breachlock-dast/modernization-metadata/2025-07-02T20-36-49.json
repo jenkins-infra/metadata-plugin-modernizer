@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T20-36-49.json",
   "path": "metadata-plugin-modernizer/breachlock-dast/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "2d03b1c7be9f6d8d14b76f13c482b95f47ab1872"
 }

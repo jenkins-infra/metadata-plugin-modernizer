@@ -18,10 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-02T19-02-14.json",
   "path": "metadata-plugin-modernizer/ascentialtest-cmd-line/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "0fadc98694786ac8e5e8112f2cdbb7062235e0e5"
 }

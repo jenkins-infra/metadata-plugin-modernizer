@@ -15,15 +15,17 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/mqtt-notification-plugin/pull/18",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 12,
   "deletions": 0,
   "changedFiles": 1,
   "key": "2025-07-21T19-53-26.json",
   "path": "metadata-plugin-modernizer/mqtt-notification-plugin/modernization-metadata",
-  "checkRuns": {},
-  "checkRunsSummary": "success",
+  "checkRuns": {
+    "Jenkins": "failure"
+  },
+  "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "366ebf3610739d52527c5c5d1eafa27fc91cad3b"
+  "defaultBranchLatestCommitSha": "f67b9dad6f70b756a85899b6a09988e27ea1eafd"
 }

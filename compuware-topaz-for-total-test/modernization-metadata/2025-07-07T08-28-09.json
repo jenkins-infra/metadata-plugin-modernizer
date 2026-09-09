@@ -18,12 +18,8 @@
   "changedFiles": 2,
   "key": "2025-07-07T08-28-09.json",
   "path": "metadata-plugin-modernizer/compuware-topaz-for-total-test/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "94a9aa3ec8c045b3dbb7e927e092e538c519e012"
 }

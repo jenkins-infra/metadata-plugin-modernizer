@@ -11,17 +11,15 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/agent-server-parameter-plugin/pull/7",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 13,
   "deletions": 21,
   "changedFiles": 3,
   "key": "2025-07-02T17-45-36.json",
   "path": "metadata-plugin-modernizer/agent-server-parameter/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "4048f6ddaff5472b1f125bd0c789aae31647310f"
+  "defaultBranchLatestCommitSha": "9bbba421189bd1db247334d051e66c711afc838c"
 }

@@ -18,10 +18,8 @@
   "changedFiles": 1,
   "key": "2025-07-02T17-50-23.json",
   "path": "metadata-plugin-modernizer/aio-tests/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "31792c4d9adc0af39025a07f291fb6c2f7484bda"
 }

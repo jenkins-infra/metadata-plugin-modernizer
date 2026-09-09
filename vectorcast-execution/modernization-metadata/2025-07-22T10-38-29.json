@@ -22,22 +22,8 @@
   "changedFiles": 1,
   "key": "2025-07-22T10-38-29.json",
   "path": "metadata-plugin-modernizer/vectorcast-execution/modernization-metadata",
-  "checkRuns": {
-    "Analyze code (java)": "success",
-    "Auto Assign PR": "success",
-    "CodeQL": "success",
-    "Create and upload coverage report": "success",
-    "Enforce PR labels": "failure",
-    "Jenkins Security Scan": "success",
-    "on ubuntu-latest with JDK 11": "success",
-    "on ubuntu-latest with JDK 17": "success",
-    "on ubuntu-latest with JDK 21": "success",
-    "on windows-latest with JDK 11": "success",
-    "on windows-latest with JDK 17": "success",
-    "on windows-latest with JDK 21": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "5f8197797e25398a97c5cae67296af131710c887"
 }

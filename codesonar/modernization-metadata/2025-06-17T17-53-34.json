@@ -17,22 +17,7 @@
   "changedFiles": 1,
   "key": "2025-06-17T17-53-34.json",
   "path": "metadata-plugin-modernizer\\codesonar\\modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Java 17 compile": "success",
-    "Java 21 compile": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "f3e0a54b0df49d9d139001df52fed904d6182aa9"
