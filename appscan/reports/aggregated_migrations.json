@@ -82,10 +82,7 @@
       "key": "2025-07-23T08-23-00.json",
       "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
       "checkRuns": {
-        "Jenkins Security Scan": "success",
-        "publish": "failure",
-        "scan": "success",
-        "security-scan / scan": "success"
+        "publish": "failure"
       },
       "checkRunsSummary": "failure",
       "defaultBranch": "master",
