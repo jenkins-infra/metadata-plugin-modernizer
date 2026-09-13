@@ -21,21 +21,7 @@
       "changedFiles": 1,
       "key": "2025-07-11T06-46-12.json",
       "path": "metadata-plugin-modernizer/qy-wechat-notification/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-8 / Build (linux-8)": "success",
-        "Tests / windows-8 / Build (windows-8)": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "10cc7a98c1661015f8ef5fec31f59f8a8956549d",
@@ -60,21 +46,7 @@
       "changedFiles": 1,
       "key": "2025-07-11T06-43-35.json",
       "path": "metadata-plugin-modernizer/qy-wechat-notification/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-8 / Build (linux-8)": "success",
-        "Tests / windows-8 / Build (windows-8)": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "10cc7a98c1661015f8ef5fec31f59f8a8956549d",
@@ -98,10 +70,8 @@
       "changedFiles": 2,
       "key": "2025-07-11T06-40-12.json",
       "path": "metadata-plugin-modernizer/qy-wechat-notification/modernization-metadata",
-      "checkRuns": {
-        "Jenkins": "failure"
-      },
-      "checkRunsSummary": "failure",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "10cc7a98c1661015f8ef5fec31f59f8a8956549d",
       "timestamp": "2025-07-11T06-40-12"
@@ -124,10 +94,8 @@
       "changedFiles": 2,
       "key": "2025-07-11T06-36-00.json",
       "path": "metadata-plugin-modernizer/qy-wechat-notification/modernization-metadata",
-      "checkRuns": {
-        "Jenkins": "failure"
-      },
-      "checkRunsSummary": "failure",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "10cc7a98c1661015f8ef5fec31f59f8a8956549d",
       "timestamp": "2025-07-11T06-36-00"
