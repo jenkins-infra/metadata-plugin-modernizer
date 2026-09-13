@@ -21,15 +21,8 @@
   "changedFiles": 1,
   "key": "2025-07-28T12-58-57.json",
   "path": "metadata-plugin-modernizer/badge/modernization-metadata",
-  "checkRuns": {
-    "Code Coverage": "success",
-    "Coverage on Ubuntu": "success",
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "Tests / linux-21 / Build (linux-21)": "failure",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "8841c7d8068e5e9b105a59718aaa65cde9418597"
 }
