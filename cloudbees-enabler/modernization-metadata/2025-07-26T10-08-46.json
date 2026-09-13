@@ -22,22 +22,7 @@
   "changedFiles": 1,
   "key": "2025-07-26T10-08-46.json",
   "path": "metadata-plugin-modernizer/cloudbees-enabler/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "5b7c0c898e84808dc8bc485ef0e0ae5656f0eb4e"
