@@ -22,21 +22,7 @@
   "changedFiles": 1,
   "key": "2025-07-29T16-31-26.json",
   "path": "metadata-plugin-modernizer/ec2-fleet/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "Tests / linux-21 / Build (linux-21)": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "cca69339eeb3b1b9b938104a5917c464a381b0fe"
