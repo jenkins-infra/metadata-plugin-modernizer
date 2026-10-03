@@ -22,25 +22,8 @@
   "changedFiles": 2,
   "key": "2025-08-09T09-16-31.json",
   "path": "metadata-plugin-modernizer/bitbucket-kubernetes-credentials/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / linux-25 / Build (linux-25)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "b88d5257cfd649f51d9d0479874b2d579be1757c"
+  "defaultBranchLatestCommitSha": "9ffb960275eb2976198349b336ae09ac72087a47"
 }
