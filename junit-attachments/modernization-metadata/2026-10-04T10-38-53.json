@@ -1,0 +1,25 @@
+{
+  "pluginName": "junit-attachments",
+  "pluginRepository": "https://github.com/jenkinsci/junit-attachments-plugin.git",
+  "pluginVersion": "378.vc1dc9200b_6b_a_",
+  "jenkinsBaseline": "2.504",
+  "targetBaseline": "2.504",
+  "effectiveBaseline": "2.504",
+  "jenkinsVersion": "2.504.3",
+  "migrationName": "Setup auto-merge workflows",
+  "migrationDescription": "Setup auto-merge workflows for safe dependency updates and bom.",
+  "tags": [
+    "skip-verification",
+    "chore"
+  ],
+  "migrationId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
+  "migrationStatus": "success",
+  "pullRequestUrl": "https://github.com/jenkinsci/junit-attachments-plugin/pull/218",
+  "pullRequestStatus": "open",
+  "dryRun": false,
+  "additions": 20,
+  "deletions": 0,
+  "changedFiles": 2,
+  "key": "2026-10-04T10-38-53.json",
+  "path": "metadata-plugin-modernizer/junit-attachments/modernization-metadata"
+}
