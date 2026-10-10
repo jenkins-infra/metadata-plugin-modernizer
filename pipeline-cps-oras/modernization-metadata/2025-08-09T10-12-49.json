@@ -22,26 +22,8 @@
   "changedFiles": 2,
   "key": "2025-08-09T10-12-49.json",
   "path": "metadata-plugin-modernizer/pipeline-cps-oras/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / linux-25 / Build (linux-25)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "820e8df97a6798948e94407c3e29462d31eb9483"
+  "defaultBranchLatestCommitSha": "290d65b375dcbb84ad7fa4691e7ef25cac113aba"
 }
