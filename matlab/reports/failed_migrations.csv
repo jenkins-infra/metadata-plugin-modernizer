@@ -1,4 +1,4 @@
 migrationId,migrationStatus
 io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion,fail
-io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion,fail
 io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion,fail
+io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion,fail

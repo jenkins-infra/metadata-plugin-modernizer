@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion",
-  "totalApplications": 186,
+  "totalApplications": 187,
   "successCount": 166,
-  "failureCount": 20,
+  "failureCount": 21,
   "plugins": [
+    {
+      "pluginName": "junit-attachments",
+      "status": "fail",
+      "timestamp": "2026-10-04T10-23-37"
+    },
     {
       "pluginName": "webhook-secret-credentials-provider",
       "status": "success",
