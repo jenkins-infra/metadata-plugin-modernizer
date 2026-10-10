@@ -1,25 +1,25 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-09-13 03:44:51 UTC
+Generated on: 2026-10-10 04:50:27 UTC
 
 ## Overview
-- **Total Migrations**: 1459
-- **Failed Migrations**: 595
-- **Success Rate**: 59.22%
+- **Total Migrations**: 1461
+- **Failed Migrations**: 596
+- **Success Rate**: 59.21%
 
 ## Failures by Recipe
 - io.jenkins.tools.pluginmodernizer.SetupJenkinsfile: 522 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion: 32 failures
-- io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 20 failures
+- io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion: 21 failures
 - io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText: 5 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
-- io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
 - io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides: 3 failures
+- io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
-- io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
-- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
+- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
+- io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
 
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
@@ -154,6 +154,7 @@ Generated on: 2026-09-13 03:44:51 UTC
 - [jobrevision](../jobrevision/reports/failed_migrations.csv)
 - [jobtemplates](../jobtemplates/reports/failed_migrations.csv)
 - [jsunit](../jsunit/reports/failed_migrations.csv)
+- [junit-attachments](../junit-attachments/reports/failed_migrations.csv)
 - [jwt-auth-filter](../jwt-auth-filter/reports/failed_migrations.csv)
 - [kanboard](../kanboard/reports/failed_migrations.csv)
 - [keep-slave-disconnected](../keep-slave-disconnected/reports/failed_migrations.csv)
@@ -259,10 +260,10 @@ Generated on: 2026-09-13 03:44:51 UTC
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| Total PRs | 693 | - |
-| Open PRs | 67 | 9.67% |
-| Closed PRs | 41 | 5.92% |
-| Merged PRs | 585 | 84.42% |
+| Total PRs | 694 | - |
+| Open PRs | 68 | 9.80% |
+| Closed PRs | 41 | 5.91% |
+| Merged PRs | 585 | 84.29% |
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
@@ -280,11 +281,12 @@ Generated on: 2026-09-13 03:44:51 UTC
 - **2026-04**: 70 success, 2 fail, 72 total
 - **2026-05**: 18 success, 1 fail, 19 total
 - **2026-06**: 119 success, 5 fail, 124 total
+- **2026-10**: 1 success, 1 fail, 2 total
 
 ## Tags
-- **skip-verification**: 794
-- **chore**: 794
+- **skip-verification**: 795
+- **chore**: 795
 - **dependencies**: 467
 - **migration**: 298
-- **developer**: 192
+- **developer**: 193
 - **testing**: 6
