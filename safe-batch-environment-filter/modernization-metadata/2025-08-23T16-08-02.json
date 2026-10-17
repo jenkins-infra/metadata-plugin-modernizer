@@ -21,11 +21,7 @@
   "changedFiles": 2,
   "key": "2025-08-23T16-08-02.json",
   "path": "metadata-plugin-modernizer\\safe-batch-environment-filter\\modernization-metadata",
-  "checkRuns": {
-    "Jenkins": null,
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "7cf44827889a7c582c7d2add7da22bd57a3bd103"
