@@ -22,26 +22,8 @@
   "changedFiles": 2,
   "key": "2025-08-09T09-22-47.json",
   "path": "metadata-plugin-modernizer/database-mariadb/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / linux-25 / Build (linux-25)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "d4316167549e8cff5eca7916d15b04c56d5d81c5"
+  "defaultBranchLatestCommitSha": "4b46da45eabe578dfbf56c2784a3d3bc9da03878"
 }

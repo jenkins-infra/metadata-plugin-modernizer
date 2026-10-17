@@ -22,24 +22,8 @@
   "changedFiles": 2,
   "key": "2025-08-09T08-57-45.json",
   "path": "metadata-plugin-modernizer/json-path-api/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "63c3a2f9ad018a6c27c920ae43e8cc2410c7a892"
+  "defaultBranchLatestCommitSha": "b31ffb20ff9808fa374191f54456295104296697"
 }
