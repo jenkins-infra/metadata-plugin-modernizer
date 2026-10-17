@@ -1,9 +1,14 @@
 {
   "recipeId": "io.jenkins.tools.pluginmodernizer.AutoMergeWorkflows",
-  "totalApplications": 54,
-  "successCount": 54,
+  "totalApplications": 55,
+  "successCount": 55,
   "failureCount": 0,
   "plugins": [
+    {
+      "pluginName": "junit-attachments",
+      "status": "success",
+      "timestamp": "2026-10-04T10-38-53"
+    },
     {
       "pluginName": "sqlserver-api",
       "status": "success",
