@@ -22,26 +22,8 @@
   "changedFiles": 2,
   "key": "2025-08-09T09-14-04.json",
   "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / linux-25 / Build (linux-25)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7"
+  "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f"
 }
