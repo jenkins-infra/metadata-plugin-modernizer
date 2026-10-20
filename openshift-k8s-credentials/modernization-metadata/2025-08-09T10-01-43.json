@@ -22,26 +22,8 @@
   "changedFiles": 2,
   "key": "2025-08-09T10-01-43.json",
   "path": "metadata-plugin-modernizer/openshift-k8s-credentials/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / linux-25 / Build (linux-25)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "164e8f47766165ef49cc456af0a740699ac814e1"
+  "defaultBranchLatestCommitSha": "7da07098ad0dd2990c1c9bc9caad420900f6e68d"
 }
