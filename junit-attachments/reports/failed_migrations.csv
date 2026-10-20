@@ -1,0 +1,2 @@
+migrationId,migrationStatus
+io.jenkins.tools.pluginmodernizer.UpgradeToRecommendCoreVersion,fail
