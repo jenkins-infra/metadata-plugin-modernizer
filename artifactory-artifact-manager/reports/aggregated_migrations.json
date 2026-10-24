@@ -67,7 +67,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-06-28T14-24-32"
     },
     {
@@ -160,7 +160,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-05-23T16-08-43"
     },
     {
@@ -205,7 +205,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-04-18T09-24-17"
     },
     {
@@ -249,7 +249,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-04-06T12-36-05"
     },
     {
@@ -283,7 +283,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-01-24T14-00-01"
     },
     {
@@ -327,7 +327,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-01-14T11-25-14"
     },
     {
@@ -370,7 +370,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-01-14T10-30-01"
     },
     {
@@ -414,7 +414,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-01-10T19-43-43"
     },
     {
@@ -457,7 +457,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-01-04T09-07-44"
     },
     {
@@ -503,7 +503,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2026-01-03T18-36-46"
     },
     {
@@ -548,7 +548,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2025-10-31T14-40-30"
     },
     {
@@ -573,28 +573,10 @@
       "changedFiles": 2,
       "key": "2025-08-09T09-14-04.json",
       "path": "metadata-plugin-modernizer/artifactory-artifact-manager/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / linux-25 / Build (linux-25)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2025-08-09T09-14-04"
     },
     {
@@ -621,7 +603,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "373fb2189dbba8ffce3ea42c82ca47c1b46bafc7",
+      "defaultBranchLatestCommitSha": "c38e73c099dc9be7f66a3343a0af8f2c87e7b66f",
       "timestamp": "2025-07-27T10-17-46"
     }
   ]

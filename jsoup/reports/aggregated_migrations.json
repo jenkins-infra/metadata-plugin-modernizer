@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2026-06-06T16-29-58"
     },
     {
@@ -88,7 +88,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2026-01-24T14-35-56"
     },
     {
@@ -132,7 +132,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2026-01-14T12-18-16"
     },
     {
@@ -175,7 +175,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2026-01-14T11-17-55"
     },
     {
@@ -219,7 +219,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2026-01-10T20-20-18"
     },
     {
@@ -264,7 +264,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2026-01-03T19-20-48"
     },
     {
@@ -289,26 +289,10 @@
       "changedFiles": 2,
       "key": "2025-08-09T08-55-51.json",
       "path": "metadata-plugin-modernizer/jsoup/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2025-08-09T08-55-51"
     },
     {
@@ -335,7 +319,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "61589c779b3db13dce50d59f7e3a76972ce871e1",
+      "defaultBranchLatestCommitSha": "42df94473e62a13b2c6a6e0c0294104e58f71196",
       "timestamp": "2025-07-27T10-06-49"
     }
   ]
