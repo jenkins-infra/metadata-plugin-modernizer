@@ -92,7 +92,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2026-05-23T15-50-58"
     },
     {
@@ -149,7 +149,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2026-01-24T13-56-16"
     },
     {
@@ -193,7 +193,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2026-01-14T11-29-17"
     },
     {
@@ -236,7 +236,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2026-01-14T10-33-36"
     },
     {
@@ -280,7 +280,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2026-01-10T19-46-16"
     },
     {
@@ -325,7 +325,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2026-01-03T18-40-17"
     },
     {
@@ -350,26 +350,10 @@
       "changedFiles": 2,
       "key": "2025-08-09T08-41-07.json",
       "path": "metadata-plugin-modernizer/asm-api/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2025-08-09T08-41-07"
     },
     {
@@ -396,7 +380,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b5169aec6eebe869ac9a0c49882e1ec95371b10f",
+      "defaultBranchLatestCommitSha": "ff833ae4c58ecaaf5e81b482cb64c2d9cc0ac38b",
       "timestamp": "2025-07-27T09-55-20"
     }
   ]
