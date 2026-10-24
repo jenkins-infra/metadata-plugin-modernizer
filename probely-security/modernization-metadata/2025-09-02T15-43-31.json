@@ -22,11 +22,8 @@
   "changedFiles": 1,
   "key": "2025-09-02T15-43-31.json",
   "path": "metadata-plugin-modernizer/probely-security/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure",
-    "Tests / linux-25 / Build (linux-25)": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "aeb9286c40393eb9651edfaf4c4e7787f31f6b2a"
 }
