@@ -22,9 +22,7 @@
   "changedFiles": 2,
   "key": "2025-08-18T13-42-12.json",
   "path": "metadata-plugin-modernizer/probely-security/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": null
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "aeb9286c40393eb9651edfaf4c4e7787f31f6b2a"

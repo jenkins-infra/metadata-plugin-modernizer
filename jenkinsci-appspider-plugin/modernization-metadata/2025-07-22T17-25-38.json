@@ -22,9 +22,7 @@
   "changedFiles": 1,
   "key": "2025-07-22T17-25-38.json",
   "path": "metadata-plugin-modernizer/jenkinsci-appspider-plugin/modernization-metadata",
-  "checkRuns": {
-    "build": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "a4d5e6c5208b3f35482482d3abd0a94a8cb450ae"
