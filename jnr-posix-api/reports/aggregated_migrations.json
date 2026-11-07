@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2026-06-06T16-28-34"
     },
     {
@@ -88,7 +88,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2026-01-24T14-34-51"
     },
     {
@@ -132,7 +132,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2026-01-14T12-16-49"
     },
     {
@@ -175,7 +175,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2026-01-14T11-16-23"
     },
     {
@@ -219,7 +219,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2026-01-10T20-19-02"
     },
     {
@@ -265,7 +265,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2026-01-03T19-19-21"
     },
     {
@@ -290,27 +290,10 @@
       "changedFiles": 2,
       "key": "2025-08-09T08-59-38.json",
       "path": "metadata-plugin-modernizer/jnr-posix-api/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2025-08-09T08-59-38"
     },
     {
@@ -337,7 +320,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "1d6f38928e2efdc4cedef225f8f3f15b30b0bed5",
+      "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04",
       "timestamp": "2025-07-27T10-10-03"
     }
   ]

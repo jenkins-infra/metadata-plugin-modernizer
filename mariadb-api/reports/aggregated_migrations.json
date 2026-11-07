@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2026-06-06T16-35-08"
     },
     {
@@ -78,7 +78,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2026-01-24T14-39-32"
     },
     {
@@ -122,7 +122,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2026-01-14T12-22-56"
     },
     {
@@ -165,7 +165,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2026-01-14T11-22-47"
     },
     {
@@ -209,7 +209,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2026-01-10T20-24-15"
     },
     {
@@ -254,7 +254,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2026-01-03T19-27-03"
     },
     {
@@ -279,26 +279,10 @@
       "changedFiles": 2,
       "key": "2025-08-09T09-01-28.json",
       "path": "metadata-plugin-modernizer/mariadb-api/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2025-08-09T09-01-28"
     },
     {
@@ -325,7 +309,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "f058d359d53823e04ae7f9cb1ba5d083499bafc3",
+      "defaultBranchLatestCommitSha": "c745e1a73417a42057c6629cda98a673cf7ece99",
       "timestamp": "2025-07-27T10-11-39"
     }
   ]
