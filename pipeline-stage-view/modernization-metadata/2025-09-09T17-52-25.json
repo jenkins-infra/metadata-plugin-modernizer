@@ -22,24 +22,8 @@
   "changedFiles": 2,
   "key": "2025-09-09T17-52-25.json",
   "path": "metadata-plugin-modernizer/pipeline-stage-view/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "338b595da16a0e0a50f782587ab81f865a06c2a9"
+  "defaultBranchLatestCommitSha": "b867902763a2a68990eb81d13b3f2e3117726b1f"
 }

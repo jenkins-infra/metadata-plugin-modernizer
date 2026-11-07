@@ -21,10 +21,8 @@
   "changedFiles": 4,
   "key": "2025-09-05T14-25-26.json",
   "path": "metadata-plugin-modernizer/katalon/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "e39757293879437dc6ff9097efdac82a9aaf2425"
+  "defaultBranchLatestCommitSha": "6a5c6c011279a9c144bd3ab66f5fead1c754977b"
 }
