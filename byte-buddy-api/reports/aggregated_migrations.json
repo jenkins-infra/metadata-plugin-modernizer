@@ -44,7 +44,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2026-06-06T15-40-26"
     },
     {
@@ -77,7 +77,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2026-01-24T14-06-37"
     },
     {
@@ -121,7 +121,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2026-01-14T11-35-18"
     },
     {
@@ -164,7 +164,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2026-01-14T10-38-45"
     },
     {
@@ -208,7 +208,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2026-01-10T19-50-24"
     },
     {
@@ -253,7 +253,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2026-01-03T18-44-58"
     },
     {
@@ -278,26 +278,10 @@
       "changedFiles": 2,
       "key": "2025-08-09T08-42-48.json",
       "path": "metadata-plugin-modernizer/byte-buddy-api/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2025-08-09T08-42-48"
     },
     {
@@ -324,7 +308,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15",
+      "defaultBranchLatestCommitSha": "016070cac82c6b19dafcbe12e508ad9b9f3a8df7",
       "timestamp": "2025-07-27T09-56-58"
     }
   ]
