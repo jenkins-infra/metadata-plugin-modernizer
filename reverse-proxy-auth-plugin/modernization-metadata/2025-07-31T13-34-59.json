@@ -21,12 +21,7 @@
   "changedFiles": 1,
   "key": "2025-07-31T13-34-59.json",
   "path": "metadata-plugin-modernizer/reverse-proxy-auth-plugin/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": null,
-    "Jenkins Security Scan": "success",
-    "pre-commit": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "7dc0e405b6242773026462e2cb2cac2ed29e5892"
