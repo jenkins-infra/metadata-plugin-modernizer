@@ -22,25 +22,8 @@
   "changedFiles": 4,
   "key": "2025-09-09T16-07-47.json",
   "path": "metadata-plugin-modernizer/workflow-durable-task-step/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "db9199de4917b3d4b34659abe84a608b7a76b4e7"
+  "defaultBranchLatestCommitSha": "977954133434d2b57b88d530bcad24dbf96e0fe4"
 }
