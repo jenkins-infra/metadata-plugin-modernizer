@@ -17,7 +17,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/loadfocus-loadtest-plugin/pull/26",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 12,
       "deletions": 0,
@@ -27,7 +27,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "291b3f8e49ac0646511e33f927a65221e0e10d02",
+      "defaultBranchLatestCommitSha": "4bf386dd1d5f9bdd87b42b1eeb4b46070d1d8565",
       "timestamp": "2025-09-03T19-29-50"
     },
     {
@@ -45,7 +45,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/loadfocus-loadtest-plugin/pull/26",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 12,
       "deletions": 0,
@@ -55,7 +55,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "291b3f8e49ac0646511e33f927a65221e0e10d02",
+      "defaultBranchLatestCommitSha": "4bf386dd1d5f9bdd87b42b1eeb4b46070d1d8565",
       "timestamp": "2025-07-22T16-34-14"
     },
     {
@@ -73,7 +73,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.SetupJenkinsfile",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/loadfocus-loadtest-plugin/pull/26",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 12,
       "deletions": 0,
@@ -83,7 +83,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "291b3f8e49ac0646511e33f927a65221e0e10d02",
+      "defaultBranchLatestCommitSha": "4bf386dd1d5f9bdd87b42b1eeb4b46070d1d8565",
       "timestamp": "2025-07-21T19-21-19"
     }
   ]
