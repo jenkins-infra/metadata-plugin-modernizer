@@ -22,10 +22,8 @@
   "changedFiles": 1,
   "key": "2025-09-03T08-21-27.json",
   "path": "metadata-plugin-modernizer/allure-jenkins-plugin/modernization-metadata",
-  "checkRuns": {
-    "build": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "8f5e17db01212e8fb2927c400daefe401dd453c3"
+  "defaultBranchLatestCommitSha": "84bcc4df3c9ca38b5b89636e8b5ae58bf161e326"
 }

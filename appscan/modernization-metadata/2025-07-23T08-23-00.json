@@ -22,10 +22,8 @@
   "changedFiles": 1,
   "key": "2025-07-23T08-23-00.json",
   "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
-  "checkRuns": {
-    "publish": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
   "defaultBranchLatestCommitSha": "c3e63dac126a015eb9b970caea2427ad12a55875"
 }
