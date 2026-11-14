@@ -21,12 +21,8 @@
   "changedFiles": 1,
   "key": "2025-10-31T15-45-45.json",
   "path": "metadata-plugin-modernizer/postgresql-fingerprint-storage/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure",
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "25a560c65e4d6b25b5a07962b6792ba1210cacd3"
 }
