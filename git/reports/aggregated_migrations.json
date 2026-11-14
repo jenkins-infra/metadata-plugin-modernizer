@@ -24,27 +24,10 @@
       "changedFiles": 1,
       "key": "2025-09-09T15-15-50.json",
       "path": "metadata-plugin-modernizer/git/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": null,
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success",
-        "triage": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "ff60b42b6afb162e04c725335dac04cded53f3b3",
+      "defaultBranchLatestCommitSha": "ab0b9749af99f81a702faeea7db4d1e8e93f9043",
       "timestamp": "2025-09-09T15-15-50"
     }
   ]

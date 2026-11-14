@@ -24,11 +24,8 @@
       "changedFiles": 1,
       "key": "2025-09-03T08-49-13.json",
       "path": "metadata-plugin-modernizer/backup/modernization-metadata",
-      "checkRuns": {
-        "Jenkins": "failure",
-        "Tests / linux-21 / Build (linux-21)": "failure"
-      },
-      "checkRunsSummary": "failure",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "dd9bc115f50961b7c6d0b6870ea206fbe86fa3e7",
       "timestamp": "2025-09-03T08-49-13"
@@ -55,11 +52,8 @@
       "changedFiles": 1,
       "key": "2025-07-23T08-40-26.json",
       "path": "metadata-plugin-modernizer/backup/modernization-metadata",
-      "checkRuns": {
-        "Jenkins": "failure",
-        "Tests / linux-21 / Build (linux-21)": "failure"
-      },
-      "checkRunsSummary": "failure",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "dd9bc115f50961b7c6d0b6870ea206fbe86fa3e7",
       "timestamp": "2025-07-23T08-40-26"
@@ -108,11 +102,8 @@
       "changedFiles": 1,
       "key": "2025-07-11T18-48-02.json",
       "path": "metadata-plugin-modernizer/backup/modernization-metadata",
-      "checkRuns": {
-        "Jenkins": "failure",
-        "Tests / linux-21 / Build (linux-21)": "failure"
-      },
-      "checkRunsSummary": "failure",
+      "checkRuns": {},
+      "checkRunsSummary": "success",
       "defaultBranch": "master",
       "defaultBranchLatestCommitSha": "dd9bc115f50961b7c6d0b6870ea206fbe86fa3e7",
       "timestamp": "2025-07-11T18-48-02"

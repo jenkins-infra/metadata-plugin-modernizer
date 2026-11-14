@@ -24,27 +24,10 @@
       "changedFiles": 3,
       "key": "2025-09-09T17-38-33.json",
       "path": "metadata-plugin-modernizer/command-launcher/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "7bcd18d064b2d293c75f5789ece5786df90bae16",
+      "defaultBranchLatestCommitSha": "fba5ae328b8575130dba4d444a464368a26c286e",
       "timestamp": "2025-09-09T17-38-33"
     }
   ]
