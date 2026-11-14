@@ -1,6 +1,6 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-11-11 05:08:03 UTC
+Generated on: 2026-11-14 05:25:05 UTC
 
 ## Overview
 - **Total Migrations**: 1461
@@ -261,8 +261,8 @@ Generated on: 2026-11-11 05:08:03 UTC
 | Status | Count | Percentage |
 |--------|-------|------------|
 | Total PRs | 694 | - |
-| Open PRs | 66 | 9.51% |
-| Closed PRs | 42 | 6.05% |
+| Open PRs | 65 | 9.37% |
+| Closed PRs | 43 | 6.20% |
 | Merged PRs | 586 | 84.44% |
 
 
