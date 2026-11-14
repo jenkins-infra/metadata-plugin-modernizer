@@ -13,7 +13,7 @@
       "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
       "migrationStatus": "success",
       "pullRequestUrl": "https://github.com/jenkinsci/adaptive-disconnector-plugin/pull/10",
-      "pullRequestStatus": "open",
+      "pullRequestStatus": "closed",
       "dryRun": false,
       "additions": 14,
       "deletions": 12,
@@ -23,7 +23,7 @@
       "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "440439e4f31ad5d845582c2cb834f0a905a67b3f",
+      "defaultBranchLatestCommitSha": "16a0b937c7a3554c2a3840f258fd98abff7f8001",
       "timestamp": "2025-07-02T17-42-39"
     }
   ]
