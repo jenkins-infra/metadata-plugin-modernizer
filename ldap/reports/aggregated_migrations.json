@@ -24,27 +24,10 @@
       "changedFiles": 6,
       "key": "2025-09-09T17-10-47.json",
       "path": "metadata-plugin-modernizer/ldap/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "c0bd188368ffbee2b812ab442a3f4c25573b3199",
+      "defaultBranchLatestCommitSha": "36893767fd833e98767b6e738b741c786019bfab",
       "timestamp": "2025-09-09T17-10-47"
     }
   ]
