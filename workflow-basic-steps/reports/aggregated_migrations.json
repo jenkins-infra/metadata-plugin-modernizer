@@ -24,27 +24,10 @@
       "changedFiles": 4,
       "key": "2025-09-09T16-31-44.json",
       "path": "metadata-plugin-modernizer/workflow-basic-steps/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "Code Coverage": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "master",
-      "defaultBranchLatestCommitSha": "15bc7c4ca71237826130a53acd4e64d5fcfcb268",
+      "defaultBranchLatestCommitSha": "85d8f100bb1e4ffddb6deacbcd4fff756e2090ec",
       "timestamp": "2025-09-09T16-31-44"
     }
   ]
