@@ -11,7 +11,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/aliyun-oss-uploader-plugin/pull/10",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 16,
   "deletions": 20,
@@ -21,5 +21,5 @@
   "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "e3e3cc421d646d1817f236a372a2d241974954a4"
+  "defaultBranchLatestCommitSha": "acf4263b111c41aba0371ea06b9afa42001ab506"
 }

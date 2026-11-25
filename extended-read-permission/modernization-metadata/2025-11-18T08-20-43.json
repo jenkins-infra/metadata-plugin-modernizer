@@ -21,25 +21,8 @@
   "changedFiles": 1,
   "key": "2025-11-18T08-20-43.json",
   "path": "metadata-plugin-modernizer/extended-read-permission/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-25 / Build (linux-25)": "success",
-    "Tests / windows-21 / Build (windows-21)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "ce06718bcb510d76db5aa25529c549e3d8f52801"
+  "defaultBranchLatestCommitSha": "10b217220a339cab08eb55cf675a8e7f73d18eb0"
 }
