@@ -91,7 +91,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "7fce5d2be547850a74ef1fba0c7d08c563e16666",
+      "defaultBranchLatestCommitSha": "bad5ce882c783e586e1732216616bd366fb2540e",
       "timestamp": "2026-01-14T12-04-36"
     },
     {
@@ -134,7 +134,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "7fce5d2be547850a74ef1fba0c7d08c563e16666",
+      "defaultBranchLatestCommitSha": "bad5ce882c783e586e1732216616bd366fb2540e",
       "timestamp": "2026-01-14T11-03-07"
     },
     {
@@ -178,7 +178,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "7fce5d2be547850a74ef1fba0c7d08c563e16666",
+      "defaultBranchLatestCommitSha": "bad5ce882c783e586e1732216616bd366fb2540e",
       "timestamp": "2026-01-10T20-08-08"
     },
     {
@@ -223,7 +223,7 @@
       },
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "7fce5d2be547850a74ef1fba0c7d08c563e16666",
+      "defaultBranchLatestCommitSha": "bad5ce882c783e586e1732216616bd366fb2540e",
       "timestamp": "2026-01-04T08-58-55"
     },
     {
@@ -271,27 +271,10 @@
       "changedFiles": 2,
       "key": "2025-11-02T10-55-59.json",
       "path": "metadata-plugin-modernizer/jackson3-api/modernization-metadata",
-      "checkRuns": {
-        "CPD": "success",
-        "CheckStyle": "success",
-        "ESLint": "success",
-        "Incrementals": "success",
-        "Java Compiler": "success",
-        "JavaDoc": "success",
-        "Jenkins": "success",
-        "Jenkins Security Scan": "success",
-        "Maven": "success",
-        "Open Tasks Scanner": "success",
-        "PMD": "success",
-        "SpotBugs": "success",
-        "Tests / linux-21 / Build (linux-21)": "success",
-        "Tests / linux-25 / Build (linux-25)": "success",
-        "Tests / windows-17 / Build (windows-17)": "success",
-        "security-scan / scan": "success"
-      },
+      "checkRuns": {},
       "checkRunsSummary": "success",
       "defaultBranch": "main",
-      "defaultBranchLatestCommitSha": "7fce5d2be547850a74ef1fba0c7d08c563e16666",
+      "defaultBranchLatestCommitSha": "bad5ce882c783e586e1732216616bd366fb2540e",
       "timestamp": "2025-11-02T10-55-59"
     }
   ]
