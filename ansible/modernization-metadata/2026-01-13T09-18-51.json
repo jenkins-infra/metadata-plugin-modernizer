@@ -22,11 +22,7 @@
   "changedFiles": 2,
   "key": "2026-01-13T09-18-51.json",
   "path": "metadata-plugin-modernizer/ansible/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": null,
-    "Jenkins Security Scan": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
   "defaultBranchLatestCommitSha": "f272527eaeaa2a9da3d37c8fc6519c675e6dbb3a"

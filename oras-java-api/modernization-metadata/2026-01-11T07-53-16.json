@@ -22,24 +22,8 @@
   "changedFiles": 1,
   "key": "2026-01-11T07-53-16.json",
   "path": "metadata-plugin-modernizer/oras-java-api/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-17 / Build (linux-17)": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "e7af2796c9de39bf689f4421567337afcae4de15"
+  "defaultBranchLatestCommitSha": "256758868421b38445ac6d58883517eabf32797b"
 }
